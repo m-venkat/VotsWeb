@@ -13,10 +13,11 @@ const treeShakableModules = [
     '@angular/platform-browser-dynamic',
     '@angular/router',
     'zone.js',
+    'font-awesome/css/font-awesome.css',
 ];
 const nonTreeShakableModules = [
     'bootstrap',
-    'bootstrap/dist/css/bootstrap.css',
+    'bootstrap/dist/css/bootstrap.css',  
     'es6-promise',
     'es6-shim',
     'event-source-polyfill',

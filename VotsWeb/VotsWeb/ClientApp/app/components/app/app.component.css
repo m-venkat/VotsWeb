@@ -3,4 +3,24 @@
     .body-content {
         padding-top: 50px;
     }
+   
+
+   
+   
+}
+
+.avatar {  
+    /*box-sizing: border-box;
+    border: 0px white solid;
+    border-radius: 5%;
+    overflow: hidden;
+    box-shadow: 0 1px 1px 0px rgba(0,0,0,0.6);
+    transform: translatey(0px);
+    animation: float 6s ease-in-out infinite;*/    
+}
+.row-eq-height {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
 }
