@@ -1,5 +1,5 @@
 import { Component, ViewEncapsulation } from '@angular/core';
-
+import {MatTooltipModule} from '@angular/material';
 @Component({
     selector: 'app',
     templateUrl: './app.component.html',
@@ -24,11 +24,6 @@ export class AppComponent {
             } else if (document.documentElement.webkitRequestFullScreen) {
                 document.documentElement.webkitRequestFullScreen();
              }
-
-            //element.style.border = "1px solid #dcdcdc";
-            //element.style.color = "#dcdcdc";
-            
-
         } else {
              if (document.cancelFullScreen) {
                 document.cancelFullScreen();
