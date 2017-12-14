@@ -1,5 +1,5 @@
 import { Component, ViewEncapsulation } from '@angular/core';
-import {MatTooltipModule} from '@angular/material';
+
 @Component({
     selector: 'app',
     templateUrl: './app.component.html',
