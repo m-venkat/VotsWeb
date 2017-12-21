@@ -1,5 +1,5 @@
 import { Component, ViewEncapsulation } from '@angular/core';
-
+//import { FormControl } from '@angular/forms';
 @Component({
     selector: 'app',
     templateUrl: './app.component.html',
@@ -8,7 +8,8 @@ import { Component, ViewEncapsulation } from '@angular/core';
 
 
 export class AppComponent {
-
+    //mode = new FormControl('over');
+    //shouldRun = true;
     ToggleFullScreen(event: any) {
         this.LaunchFullScreen(event.target);
     }
