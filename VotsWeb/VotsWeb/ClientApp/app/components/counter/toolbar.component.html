@@ -1,7 +1,7 @@
 <div class="ToolBarContainer" >
     
-    <button id="menuButton" class="ToolBarButton" type="button" style="margin-right: 5px;" >
-        <i class="fa fa-bars" aria-hidden="true"></i><span>MENU</span>
+    <button id="menuButton" class="ToolBarButton" type="button" style="margin-right: 5px;" (click)="this.sideNavService.Toggle()" >
+        <i class="fa fa-bars" aria-hidden="true" ></i><span >MENU</span>
     </button>
     <button id="saveButton" class="ToolBarButton" type="button" style="margin-right: 5px;" disabled>
         <i class="fa fa-floppy-o" aria-hidden="true"></i><span>SAVE</span>

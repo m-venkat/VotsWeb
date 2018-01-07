@@ -42,7 +42,7 @@ import { HomeComponent } from './components/home/home.component';
 import { FetchDataComponent } from './components/fetchdata/fetchdata.component';
 import { ToolBarComponent } from './components/counter/toolbar.component';
 import { VotsNavMenuComponent } from './components/votsnavmenu/vots-navmenu.component';
-
+import { SideNavService } from './services/sidenav.service';
 
 
 @NgModule({
@@ -52,7 +52,12 @@ import { VotsNavMenuComponent } from './components/votsnavmenu/vots-navmenu.comp
         ToolBarComponent,
         FetchDataComponent,
         VotsNavMenuComponent,
-        HomeComponent
+        HomeComponent,
+       
+    ],
+    providers :
+    [
+        SideNavService,
     ],
     exports: [
         BrowserAnimationsModule,

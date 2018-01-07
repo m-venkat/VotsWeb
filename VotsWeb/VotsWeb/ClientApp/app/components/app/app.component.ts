@@ -1,7 +1,9 @@
-import { Component, ViewEncapsulation,ViewChild,ViewChildren } from '@angular/core';
+
+import { Component, ViewEncapsulation, ViewChild, ViewChildren, OnInit } from '@angular/core';
 import { FormControl } from '@angular/forms';
 import { SlimScroll } from 'angular-io-slimscroll';
-import { MatSidenavModule } from '@angular/material';
+import { MatSidenav } from '@angular/material';
+import { SideNavService } from '../../services/sidenav.service';
 
 @Component({
     selector: 'app',
@@ -10,9 +12,14 @@ import { MatSidenavModule } from '@angular/material';
 })
 
 
-export class AppComponent {
+export class AppComponent implements OnInit {
+    @ViewChild('sidenav') public sidenav: MatSidenav;
     events = [];
-   
+
+    public constructor(private sideNavService: SideNavService) {    }
+    public ngOnInit() {
+        this.sideNavService.SetSideNav(this.sidenav);
+    }
     shouldRun = true;
     
 
@@ -43,8 +50,6 @@ export class AppComponent {
             } else if (document.webkitCancelFullScreen) {
                 document.webkitCancelFullScreen();
             }
-        }  
-
-       
+        }         
     }
 }
