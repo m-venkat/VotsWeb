@@ -1,7 +1,6 @@
-import { Component, ViewEncapsulation,ViewChild,ViewChildren } from '@angular/core';
+import { Component, ViewEncapsulation } from '@angular/core';
 import { FormControl } from '@angular/forms';
 import { SlimScroll } from 'angular-io-slimscroll';
-import { MatSidenavModule } from '@angular/material';
 
 @Component({
     selector: 'app',
@@ -12,13 +11,8 @@ import { MatSidenavModule } from '@angular/material';
 
 export class AppComponent {
     events = [];
-   
-    shouldRun = true;
-    
 
-    ToggleNavMenu() {
-       
-    }
+    shouldRun = true;
 
     ToggleFullScreen(event: any) {
         this.LaunchFullScreen(event.target);
@@ -45,6 +39,23 @@ export class AppComponent {
             }
         }  
 
-       
+        //if ((document.fullscreenElement && document.fullscreenElement !== null) ||
+        //    (!document.mozFullScreen  && !document.webkitIsFullScreen)) {
+        //    if (document.documentElement.requestFullscreen) {
+        //        document.documentElement.requestFullscreen();
+        //    } else if (document.documentElement.mozRequestFullScreen) {
+        //        document.documentElement.mozRequestFullScreen();
+        //    } else if (document.documentElement.webkitRequestFullScreen) {
+        //        document.documentElement.webkitRequestFullScreen();
+        //    }
+        //} else {
+        //    if (document.cancelFullScreen) {
+        //        document.cancelFullScreen();
+        //    } else if (document.mozCancelFullScreen) {
+        //        document.mozCancelFullScreen();
+        //    } else if (document.webkitCancelFullScreen) {
+        //        document.webkitCancelFullScreen();
+        //    }
+        //}  
     }
 }
