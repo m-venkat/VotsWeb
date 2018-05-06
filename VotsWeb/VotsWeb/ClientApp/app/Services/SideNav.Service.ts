@@ -17,7 +17,8 @@ export class SideNavService {
         return this.sideNav.close();
     }
 
-    public Toggle(): Promise<void> {
-        return this.sideNav.toggle();
+    public Toggle(): Promise<void> {        
+        return this.sideNav.toggle();      
     }
+       
 }

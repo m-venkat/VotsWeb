@@ -26,21 +26,22 @@
             <mat-sidenav-container class="sidenavContainer"  >
                
                     <mat-sidenav class="sidenav"
-                                 #sidenav mode="side"
-                                 [(opened)]="opened"
-                                 (opened)="events.push('open!')"
-                                 (closed)="events.push('close!')">
+                                 #sidenav mode="side"                                                               
+                                 (opened)="log('opened event', this.events);this.events.push('Opened Here');"
+                                 (closed)="log('closed event', this.events);this.events.push('Closed Here');"
+                                 >
                         <vots-nav-menu></vots-nav-menu>
                     </mat-sidenav>
                 
                 <mat-sidenav-content class="sidnavcontent">                 
                     <toolbar></toolbar>
-                    <p><mat-checkbox [(ngModel)]="opened">sidenav.opened</mat-checkbox></p>
-                    <p><button mat-button (click)="sidenav.toggle()">sidenav.toggle()</button></p>
+                    <p><mat-checkbox #matcheckbox [(ngModel)]="opened" (change)="toggleChange($event)" >sidenav.opened</mat-checkbox></p>
+                    <p><button id="sidenavtogglebutton" class="sidenavtogglebutton" #sidenavtogglebutton  (click)="ToggleNavMenu();">sidenav.toggle() clickhere</button></p>
+                    <!--<p><button mat-button (click)="sidenav.toggle()">sidenav.toggle()</button></p>-->
                     <p>Events:</p>
                     <div class="example-events">
                         <div *ngFor="let e of events">{{e}}</div>
-                    </div>
+                    </div>                   
                 </mat-sidenav-content>
             </mat-sidenav-container>
         </div>
