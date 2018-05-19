@@ -30,13 +30,16 @@ import { MatDashboardComponent } from './mat-dashboard/mat-dashboard.component';
     HttpClientModule,
     FormsModule,
     RouterModule.forRoot([
-      { path: '', component: HomeComponent, pathMatch: 'full' },
+      { path: '', component: AppComponent, pathMatch: 'full' },
       { path: 'counter', component: CounterComponent },
+      { path: 'home', component: AppComponent },
       { path: 'fetch-data', component: FetchDataComponent },
       { path: 'counter', component: CounterComponent },
       { path: 'mat-nav', component: MatNavComponent },
-      { path: 'mat-dashboard', component: MatDashboardComponent }
+      { path: 'mat-dashboard', component: MatDashboardComponent },
+      { path: '**', redirectTo: 'home' }
     ]),
+   
     BrowserAnimationsModule,
     LayoutModule,
     MatToolbarModule,
