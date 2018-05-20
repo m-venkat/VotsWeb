@@ -22,17 +22,17 @@
   <!--Main Container-->
  
   <div id="sidNavContainer" class="row row-eq-height" style="padding-top:1px">
-    <!--  <mat-sidenav-container class="sidenavContainer">
+      <mat-sidenav-container class="sidenavContainer">
 
     <mat-sidenav class="sidenav"
                  #sidenav mode="side"
                  (opened)="log('opened event', this.events);this.events.push('Opened Here');"
                  (closed)="log('closed event', this.events);this.events.push('Closed Here');">
-      <vots-nav-menu></vots-nav-menu>
+        
     </mat-sidenav>
 
     <mat-sidenav-content class="sidnavcontent">
-      <toolbar></toolbar>
+      <!--<toolbar></toolbar>-->
       <p><mat-checkbox #matcheckbox [(ngModel)]="opened" (change)="toggleChange($event)">sidenav.opened</mat-checkbox></p>
       <p><button id="sidenavtogglebutton" class="sidenavtogglebutton" #sidenavtogglebutton (click)="ToggleNavMenu();">sidenav.toggle() clickhere</button></p>
       <p><button mat-button (click)="sidenav.toggle()">sidenav.toggle()</button></p>
@@ -41,7 +41,7 @@
         <div *ngFor="let e of events">{{e}}</div>
       </div>
     </mat-sidenav-content>
-  </mat-sidenav-container> -->
+  </mat-sidenav-container> 
   </div>
      
     <div id="footerSection" class="row row-eq-height" style="position:absolute; bottom:0px;width:100%;border-top:1px solid #aea9a9; background:#eae9e9;vertical-align:middle;height:30px;color:black">

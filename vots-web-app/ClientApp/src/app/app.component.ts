@@ -1,14 +1,43 @@
-import { Component } from '@angular/core';
+import { Component, ViewEncapsulation, ViewChild, ViewChildren, OnInit, AfterViewInit, ElementRef, ChangeDetectorRef } from '@angular/core';
+import { SlimScroll } from 'angular-io-slimscroll';
+import { MatSidenav, MatButton, MatCheckbox, MatSidenavContainer } from '@angular/material';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
-export class AppComponent {
+export class AppComponent implements OnInit, AfterViewInit {
   title = 'app';
+  @ViewChild('sidenav') public sidenav: MatSidenav;
+  @ViewChild('sidenavtogglebutton') public sidenavtogglebutton: ElementRef;
+  @ViewChild('matcheckbox') public cbox: MatCheckbox;
+  private events: string[] = [""];
+
+  public constructor(private cd: ChangeDetectorRef
+    //, private sideNavService: SideNavService
+  ) {
+    console.log("inside constructor...");
+  }
+  public ngOnInit() {
+    console.log("inside ngOnInit...");
+    //this.sideNavService.SetSideNav(this.sidenav);
+  }
+  shouldRun = true;
+
+  toggleChange(event: any) {
+    //this.sideNavService.Toggle();
+  }
+
+  ngAfterViewInit() {
+    console.log("inside ngAfterViewInit...");
+    this.cd.detectChanges();        //To avoid the change detection errors
+  }
+
 
   ToggleFullScreen(event: any) {
+
     this.LaunchFullScreen(event.target);
   }
 
