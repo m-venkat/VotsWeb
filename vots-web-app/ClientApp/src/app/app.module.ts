@@ -12,6 +12,8 @@ import { MatDashboardComponent } from './mat-dashboard/mat-dashboard.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatNavComponent } from './mat-nav/mat-nav.component';
 import { LayoutModule } from '@angular/cdk/layout';
+import { SideNavService } from './navigation-service/navigation.service';
+
 
 import {
   MatAutocompleteModule,
@@ -142,7 +144,7 @@ import {
     MatStepperModule,
     MatTreeModule,
   ],
-  providers: [],
+  providers: [SideNavService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

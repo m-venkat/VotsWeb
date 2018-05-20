@@ -24,23 +24,34 @@
   <div id="sidNavContainer" class="row row-eq-height" style="padding-top:1px">
       <mat-sidenav-container class="sidenavContainer">
 
-    <mat-sidenav class="sidenav"
-                 #sidenav mode="side"
-                 (opened)="log('opened event', this.events);this.events.push('Opened Here');"
-                 (closed)="log('closed event', this.events);this.events.push('Closed Here');">
-        
-    </mat-sidenav>
+        <mat-sidenav class="sidenav"
+                     #sidenav mode="side"
+                     (opened)="this.events.push('Opened Here');"
+                     (closed)="this.events.push('Closed Here');">
+          <div>Hello 1</div>
+          <div>Hello 2</div>
+          <div>Hello 3</div>
+          <div>Hello 4</div>
+          <div>Hello 5</div>
+          <div>Hello 6</div>
+          <div>Hello 7</div>
 
-    <mat-sidenav-content class="sidnavcontent">
-      <!--<toolbar></toolbar>-->
-      <p><mat-checkbox #matcheckbox [(ngModel)]="opened" (change)="toggleChange($event)">sidenav.opened</mat-checkbox></p>
-      <p><button id="sidenavtogglebutton" class="sidenavtogglebutton" #sidenavtogglebutton (click)="ToggleNavMenu();">sidenav.toggle() clickhere</button></p>
-      <p><button mat-button (click)="sidenav.toggle()">sidenav.toggle()</button></p>
-      <p>Events:</p>
-      <div class="example-events">
-        <div *ngFor="let e of events">{{e}}</div>
-      </div>
-    </mat-sidenav-content>
+        </mat-sidenav>
+
+        <mat-sidenav-content class="sidnavcontent">
+
+          <div class="alert alert-danger" role="alert">
+            A simple danger alert—check it out!
+          </div>
+          <!--<toolbar></toolbar>-->
+          <p><mat-checkbox #matcheckbox [(ngModel)]="opened" (change)="toggleChange($event)">sidenav.opened</mat-checkbox></p>
+          <p><button id="sidenavtogglebutton" class="sidenavtogglebutton" #sidenavtogglebutton (click)="ToggleNavMenu()">sidenav.toggle() clickhere</button></p>
+          <p><button mat-button (click)="sidenav.toggle()">sidenav.toggle()</button></p>
+          <p>Events:</p>
+          <div class="example-events">
+            <div *ngFor="let e of events">{{e}}</div>
+          </div>
+        </mat-sidenav-content>
   </mat-sidenav-container> 
   </div>
      

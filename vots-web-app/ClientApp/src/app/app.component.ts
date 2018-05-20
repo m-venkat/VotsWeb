@@ -2,6 +2,7 @@ import { Component, ViewEncapsulation, ViewChild, ViewChildren, OnInit, AfterVie
 import { SlimScroll } from 'angular-io-slimscroll';
 import { MatSidenav, MatButton, MatCheckbox, MatSidenavContainer } from '@angular/material';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { SideNavService } from './navigation-service/navigation.service';
 
 @Component({
   selector: 'app-root',
@@ -16,18 +17,19 @@ export class AppComponent implements OnInit, AfterViewInit {
   private events: string[] = [""];
 
   public constructor(private cd: ChangeDetectorRef
-    //, private sideNavService: SideNavService
+    , private sideNavService: SideNavService
   ) {
     console.log("inside constructor...");
   }
   public ngOnInit() {
     console.log("inside ngOnInit...");
-    //this.sideNavService.SetSideNav(this.sidenav);
+    this.sideNavService.SetSideNav(this.sidenav);
   }
   shouldRun = true;
 
   toggleChange(event: any) {
-    //this.sideNavService.Toggle();
+    console.log("inside toggleChange...");
+    this.sideNavService.Toggle();
   }
 
   ngAfterViewInit() {
@@ -35,10 +37,17 @@ export class AppComponent implements OnInit, AfterViewInit {
     this.cd.detectChanges();        //To avoid the change detection errors
   }
 
+  ToggleNavMenu():void {
+    console.log("ToggleNavMenu Called");
+  }
 
   ToggleFullScreen(event: any) {
 
     this.LaunchFullScreen(event.target);
+  }
+
+  log(key: any, value: any) :void{
+    console.log(key, value);
   }
 
   private LaunchFullScreen(element: HTMLElement) {

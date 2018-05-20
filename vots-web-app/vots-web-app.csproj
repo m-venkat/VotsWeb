@@ -54,4 +54,8 @@
     </ItemGroup>
   </Target>
 
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="cd clientapp&#xD;&#xA;ng build" />
+  </Target>
+
 </Project>
