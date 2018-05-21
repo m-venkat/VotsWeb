@@ -13,6 +13,8 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatNavComponent } from './mat-nav/mat-nav.component';
 import { LayoutModule } from '@angular/cdk/layout';
 import { SideNavService } from './navigation-service/navigation.service';
+import { VotsToolBarComponent } from './vots-toolbar/vots-toolbar.component';
+
 
 
 import {
@@ -58,7 +60,8 @@ import {
     CounterComponent,
     FetchDataComponent,
     MatNavComponent,
-    MatDashboardComponent,   
+    MatDashboardComponent,
+    VotsToolBarComponent,
   ],
   exports: [
     BrowserAnimationsModule,

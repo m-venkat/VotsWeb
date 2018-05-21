@@ -41,12 +41,8 @@
 
         </mat-sidenav>
 
-        <mat-sidenav-content class="sidnavcontent">
-
-          <div class="alert alert-danger" role="alert">
-            A simple danger alert—check it out!
-          </div>
-          <!--<toolbar></toolbar>-->
+        <mat-sidenav-content class="sidnavcontent">         
+          <vots-toolbar></vots-toolbar>
           <p><mat-checkbox #matcheckbox [(ngModel)]="opened" (change)="toggleChange($event)">sidenav.opened</mat-checkbox></p>
           <p><button id="sidenavtogglebutton" class="sidenavtogglebutton" #sidenavtogglebutton (click)="ToggleNavMenu()">sidenav.toggle() clickhere</button></p>
           <p><button mat-button (click)="sidenav.toggle()">sidenav.toggle()</button></p>

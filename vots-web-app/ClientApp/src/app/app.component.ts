@@ -1,8 +1,11 @@
+/// <reference path="vots-toolbar/vots-toolbar.component.ts" />
+/// <reference path="vots-toolbar/vots-toolbar.component.ts" />
 import { Component, ViewEncapsulation, ViewChild, ViewChildren, OnInit, AfterViewInit, ElementRef, ChangeDetectorRef } from '@angular/core';
 import { SlimScroll } from 'angular-io-slimscroll';
 import { MatSidenav, MatButton, MatCheckbox, MatSidenavContainer } from '@angular/material';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { SideNavService } from './navigation-service/navigation.service';
+import { VotsToolBarComponent } from './vots-toolbar/vots-toolbar.component';
 
 @Component({
   selector: 'app-root',
