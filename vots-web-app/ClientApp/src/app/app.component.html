@@ -11,7 +11,7 @@
       <table border="0" valign="middle" align="right">
         <tr>
           <td valign="middle" align="right"><i class="fa fa-arrows-alt" (click)="ToggleFullScreen($event)" matTooltip="Toggle FullScreen!" style="font-size:20px;color:white"></i></td>
-          <td valign="middle" align="right" style="padding-left:15px;"><i class="fa fa-user-circle-o" style="font-size:20px;color:white"></i></td>
+          <td valign="middle" align="right" style="padding-left:15px;"><i class="fas fa-user" style="font-size:20px;color:white"></i></td>
           <td valign="middle" align="right" nowrap="nowrap"><span nowrap="nowrap" style="padding-left:15px; float:right;font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:15px; color:white">Venkatesh Muniyandi</span></td>
           <td valign="middle" align="right"><i class="fa fa-caret-down" aria-hidden="true" style="font-size:20px;color:white;padding-left:5px;"></i></td>
         </tr>
@@ -22,36 +22,34 @@
   <!--Main Container-->
  
   <div id="sidNavContainer" class="row row-eq-height" style="padding-top:1px">
-      <mat-sidenav-container class="sidenavContainer">
-
-        <mat-sidenav class="sidenav"
-                     #sidenav mode="side"
-                     (opened)="this.events.push('Opened Here');"
-                     (closed)="this.events.push('Closed Here');">
-
+    <mat-sidenav-container class="sidenavContainer">
+     
+      <mat-sidenav class="sidenav"
+                   #sidenav mode="side"
+                   (opened)="this.events.push('Opened Here');"
+                   (closed)="this.events.push('Closed Here');">
+        
           One<br />
           Two<br />
           Three<br />
-
           One<br />
           Two<br />
-          Three<br />
+          Three<br />       
+      </mat-sidenav>
+      
+     
 
-
-
-        </mat-sidenav>
-
-        <mat-sidenav-content class="sidnavcontent">         
-          <vots-toolbar></vots-toolbar>
-          <p><mat-checkbox #matcheckbox [(ngModel)]="opened" (change)="toggleChange($event)">sidenav.opened</mat-checkbox></p>
-          <p><button id="sidenavtogglebutton" class="sidenavtogglebutton" #sidenavtogglebutton (click)="ToggleNavMenu()">sidenav.toggle() clickhere</button></p>
-          <p><button mat-button (click)="sidenav.toggle()">sidenav.toggle()</button></p>
-          <p>Events:</p>
-          <div class="example-events">
-            <div *ngFor="let e of events">{{e}}</div>
-          </div>
-        </mat-sidenav-content>
-  </mat-sidenav-container> 
+      <mat-sidenav-content class="sidnavcontent">
+        <vots-toolbar></vots-toolbar>
+        <p><mat-checkbox #matcheckbox [(ngModel)]="opened" (change)="toggleChange($event)">sidenav.opened</mat-checkbox></p>
+        <p><button id="sidenavtogglebutton" class="sidenavtogglebutton" #sidenavtogglebutton (click)="ToggleNavMenu()">sidenav.toggle() clickhere</button></p>
+        <p><button mat-button (click)="sidenav.toggle()">sidenav.toggle()</button></p>
+        <p>Events:</p>
+        <div class="example-events">
+          <div *ngFor="let e of events">{{e}}</div>
+        </div>
+      </mat-sidenav-content>
+    </mat-sidenav-container> 
   </div>
      
     <div id="footerSection" class="row row-eq-height" style="position:absolute; bottom:0px;width:100%;border-top:1px solid #aea9a9; background:#eae9e9;vertical-align:middle;height:30px;color:black">

@@ -4,13 +4,7 @@ import { FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { RouterModule } from '@angular/router';
 import { AppComponent } from './app.component';
-import { NavMenuComponent } from './nav-menu/nav-menu.component';
-import { HomeComponent } from './home/home.component';
-import { CounterComponent } from './counter/counter.component';
-import { FetchDataComponent } from './fetch-data/fetch-data.component';
-import { MatDashboardComponent } from './mat-dashboard/mat-dashboard.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { MatNavComponent } from './mat-nav/mat-nav.component';
 import { LayoutModule } from '@angular/cdk/layout';
 import { SideNavService } from './navigation-service/navigation.service';
 import { VotsToolBarComponent } from './vots-toolbar/vots-toolbar.component';
@@ -55,12 +49,6 @@ import {
 @NgModule({
   declarations: [
     AppComponent,
-    NavMenuComponent,
-    HomeComponent,
-    CounterComponent,
-    FetchDataComponent,
-    MatNavComponent,
-    MatDashboardComponent,
     VotsToolBarComponent,
   ],
   exports: [
@@ -105,12 +93,7 @@ import {
     FormsModule,
     RouterModule.forRoot([
       { path: '', redirectTo: 'home', pathMatch: 'full' },
-      { path: 'counter', component: CounterComponent },
       { path: 'home', component: AppComponent },
-      { path: 'fetch-data', component: FetchDataComponent },
-      { path: 'counter', component: CounterComponent },
-      { path: 'mat-nav', component: MatNavComponent },
-      { path: 'mat-dashboard', component: MatDashboardComponent },
       { path: '**', redirectTo: 'home' }
     ]),
    
