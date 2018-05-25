@@ -1,22 +1,22 @@
 <div class="ToolBarContainer" >
     
-    <button #menuButton class="ToolBarButton" type="button" style="margin-right: 5px;" (click)="this.sideNavService.Toggle()" >
+    <button #menuButton class="ToolBarButton"  type="button" style="margin-right: 5px;" (click)="this.sideNavService.Toggle()" >
         <i class="fa fa-bars" aria-hidden="true" ></i><span ></span>
     </button>
-    <button #newButton class="ToolBarButton" type="button" style="margin-right: 5px;" disabled>
+    <button #newButton class="ToolBarButton" [disabled]="!ToolBarOptions.CanNew" type="button" style="margin-right: 5px;" disabled>
         <i class="fa fa-plus" aria-hidden="true"></i><span>NEW</span>
     </button>
-    <button #saveButton class="ToolBarButton" type="button" style="margin-right: 5px;" disabled>
-        <i class="fa fa-floppy-o" aria-hidden="true"></i><span>SAVE</span>
+    <button #saveButton class="ToolBarButton" [disabled]="!ToolBarOptions.CanSave" type="button" style="margin-right: 5px;" disabled>
+        <i class="fas fa-save" aria-hidden="true"></i><span>SAVE</span><i class=""></i>
     </button>
-    <button #deleteButton class="ToolBarButton" type="button" style="margin-right: 5px;" disabled>
-        <i class="fa fa-trash-o" aria-hidden="true"></i><span>DELETE</span>
+    <button #deleteButton class="ToolBarButton" [disabled]="!ToolBarOptions.CanDelete" type="button" style="margin-right: 5px;" disabled>
+        <i class="fas fa-trash-alt" aria-hidden="true"></i><span>DELETE</span>
     </button>
-    <button #executeButton class="ToolBarButton" type="button" style="margin-right: 5px;" disabled>
-        <i class="fa fa-floppy-o" aria-hidden="true"></i><span>EXECUTE</span>
+    <button #executeButton class="ToolBarButton" [disabled]="!ToolBarOptions.CanExecute" type="button" style="margin-right: 5px;" disabled>
+        <i class="fas fa-caret-square-right" aria-hidden="true"></i><span>EXECUTE</span>
     </button>
-    <button #retrieveButton class="ToolBarButton" type="button" style="margin-right: 5px;" disabled>
-        <i class="fa fa-refresh" aria-hidden="true"></i><span>RETRIEVE</span>
+    <button #retrieveButton class="ToolBarButton" [disabled]="!ToolBarOptions.CanRetrieve" type="button" style="margin-right: 5px;" disabled>
+        <i class="fas fa-sync" aria-hidden="true"></i><span>RETRIEVE</span>
     </button>
 </div>
 

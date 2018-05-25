@@ -28,6 +28,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Remove="ClientApp\src\app\models\dtos.ts" />
     <None Remove="ClientApp\src\assets\img\DELWP.jpg" />
     <None Remove="ClientApp\src\assets\img\DELWP1.jpg" />
     <None Remove="ClientApp\src\assets\img\DELWP_mobile.jpg" />
@@ -51,6 +52,10 @@
     <Content Include="ClientApp\src\assets\scripts\global.js">
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
     </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <TypeScriptCompile Include="ClientApp\src\app\models\dtos.ts" />
   </ItemGroup>
 
   <Target Name="DebugEnsureNodeEnv" BeforeTargets="Build" Condition=" '$(Configuration)' == 'Debug' And !Exists('$(SpaRoot)node_modules') ">

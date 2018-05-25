@@ -10,7 +10,7 @@
     <div class="col-sm-3 col-lg-3 col-xs-3" style="padding-right:20px;display: flex;align-items: center;justify-content: flex-end">
       <table border="0" valign="middle" align="right">
         <tr>
-          <td valign="middle" align="right"><i class="fa fa-arrows-alt" (click)="ToggleFullScreen($event)" matTooltip="Toggle FullScreen!" style="font-size:20px;color:white"></i></td>
+          <td valign="middle" align="right"><i class="fa fa-arrows-alt" (click)="ToggleFullScreen()" matTooltip="Toggle FullScreen!" style="font-size:20px;color:white"></i></td>
           <td valign="middle" align="right" style="padding-left:15px;"><i class="fas fa-user" style="font-size:20px;color:white"></i></td>
           <td valign="middle" align="right" nowrap="nowrap"><span nowrap="nowrap" style="padding-left:15px; float:right;font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:15px; color:white">Venkatesh Muniyandi</span></td>
           <td valign="middle" align="right"><i class="fa fa-caret-down" aria-hidden="true" style="font-size:20px;color:white;padding-left:5px;"></i></td>
@@ -40,7 +40,8 @@
      
 
       <mat-sidenav-content class="sidnavcontent">
-        <vots-toolbar></vots-toolbar>
+        <vots-toolbar [ToolBarOptions]="tbo"
+                      ></vots-toolbar>
         <p><mat-checkbox #matcheckbox [(ngModel)]="opened" (change)="toggleChange($event)">sidenav.opened</mat-checkbox></p>
         <p><button id="sidenavtogglebutton" class="sidenavtogglebutton" #sidenavtogglebutton (click)="ToggleNavMenu()">sidenav.toggle() clickhere</button></p>
         <p><button mat-button (click)="sidenav.toggle()">sidenav.toggle()</button></p>

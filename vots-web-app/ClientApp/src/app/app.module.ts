@@ -8,7 +8,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { LayoutModule } from '@angular/cdk/layout';
 import { SideNavService } from './navigation-service/navigation.service';
 import { VotsToolBarComponent } from './vots-toolbar/vots-toolbar.component';
-
+import { ToolBarOptions } from './models/dtos';
 
 
 import {
@@ -130,7 +130,10 @@ import {
     MatStepperModule,
     MatTreeModule,
   ],
-  providers: [SideNavService],
+  providers: [
+    SideNavService,
+    ToolBarOptions
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

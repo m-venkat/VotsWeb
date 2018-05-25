@@ -1,11 +1,20 @@
-/// <reference path="vots-toolbar/vots-toolbar.component.ts" />
-/// <reference path="vots-toolbar/vots-toolbar.component.ts" />
-import { Component, ViewEncapsulation, ViewChild, ViewChildren, OnInit, AfterViewInit, ElementRef, ChangeDetectorRef } from '@angular/core';
+import {
+  Component,
+  ViewEncapsulation,
+  ViewChild,
+  ViewChildren,
+  OnInit,
+  AfterViewInit,
+  ElementRef,
+  ChangeDetectorRef
+} from '@angular/core';
+
 import { SlimScroll } from 'angular-io-slimscroll';
 import { MatSidenav, MatButton, MatCheckbox, MatSidenavContainer } from '@angular/material';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { SideNavService } from './navigation-service/navigation.service';
 import { VotsToolBarComponent } from './vots-toolbar/vots-toolbar.component';
+import { ToolBarOptions } from './models/dtos';
 
 @Component({
   selector: 'app-root',
@@ -19,14 +28,20 @@ export class AppComponent implements OnInit, AfterViewInit {
   @ViewChild('matcheckbox') public cbox: MatCheckbox;
   private events: string[] = [""];
 
-  public constructor(private cd: ChangeDetectorRef
-    , private sideNavService: SideNavService
-  ) {
+  tbo : ToolBarOptions
+
+  public constructor(private cd: ChangeDetectorRef,
+    private sideNavService: SideNavService)
+  {
     console.log("inside constructor...");
   }
+
   public ngOnInit() {
     console.log("inside ngOnInit...");
     this.sideNavService.SetSideNav(this.sidenav);
+    this.tbo = new ToolBarOptions();
+    this.tbo.CanDelete = true;
+    this.tbo.CanSave = true; 
   }
   shouldRun = true;
 
@@ -45,15 +60,14 @@ export class AppComponent implements OnInit, AfterViewInit {
   }
 
   ToggleFullScreen(event: any) {
-
-    this.LaunchFullScreen(event.target);
+    this.LaunchFullScreen();
   }
 
   log(key: any, value: any) :void{
     console.log(key, value);
   }
 
-  private LaunchFullScreen(element: HTMLElement) {
+  private LaunchFullScreen() {
     var document: any = window.document;
     if ((document.fullscreenElement && document.fullscreenElement !== null) ||
       (!document.mozFullScreen && !document.webkitIsFullScreen)) {
@@ -74,4 +88,5 @@ export class AppComponent implements OnInit, AfterViewInit {
       }
     }
   }
+  
 }
