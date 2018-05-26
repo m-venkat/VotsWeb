@@ -1,13 +1,20 @@
 import { Injectable } from '@angular/core';
 import { MatSidenav, MatDrawerToggleResult } from '@angular/material';
 import { Observable } from 'rxjs';
+import { ToolBarOptions} from '../models/dtos';
 
 @Injectable({
   providedIn: 'root'
 })
 export class SideNavService {
   private sideNav: MatSidenav;
-  constructor() { }
+  public ToolBarOptions: ToolBarOptions
+
+  constructor() {
+    this.ToolBarOptions = new ToolBarOptions();
+    this.ToolBarOptions.CanNew = true;
+    this.ToolBarOptions.CanDelete = true;
+  }
 
   public SetSideNav(sideNav: MatSidenav) {
     this.sideNav = sideNav;

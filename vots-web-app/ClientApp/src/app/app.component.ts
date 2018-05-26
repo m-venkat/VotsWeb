@@ -14,6 +14,7 @@ import { MatSidenav, MatButton, MatCheckbox, MatSidenavContainer } from '@angula
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { SideNavService } from './navigation-service/navigation.service';
 import { VotsToolBarComponent } from './vots-toolbar/vots-toolbar.component';
+import { VotsToolOptionComponent } from './vots-tool-option/vots-tool-option.component';
 import { ToolBarOptions } from './models/dtos';
 
 @Component({
@@ -28,7 +29,7 @@ export class AppComponent implements OnInit, AfterViewInit {
   @ViewChild('matcheckbox') public cbox: MatCheckbox;
   private events: string[] = [""];
 
-  tbo : ToolBarOptions
+ 
 
   public constructor(private cd: ChangeDetectorRef,
     private sideNavService: SideNavService)
@@ -38,10 +39,7 @@ export class AppComponent implements OnInit, AfterViewInit {
 
   public ngOnInit() {
     console.log("inside ngOnInit...");
-    this.sideNavService.SetSideNav(this.sidenav);
-    this.tbo = new ToolBarOptions();
-    this.tbo.CanDelete = true;
-    this.tbo.CanSave = true; 
+    this.sideNavService.SetSideNav(this.sidenav);   
   }
   shouldRun = true;
 

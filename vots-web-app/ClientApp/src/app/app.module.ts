@@ -45,11 +45,13 @@ import {
   MatStepperModule,
   MatTreeModule,
 } from '@angular/material';
+import { VotsToolOptionComponent } from './vots-tool-option/vots-tool-option.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     VotsToolBarComponent,
+    VotsToolOptionComponent,
   ],
   exports: [
     BrowserAnimationsModule,
