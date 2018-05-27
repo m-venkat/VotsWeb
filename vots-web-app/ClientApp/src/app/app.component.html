@@ -42,15 +42,16 @@
       <mat-sidenav-content class="sidnavcontent">
         <vots-toolbar [ToolBarOptions]="sideNavService.ToolBarOptions"></vots-toolbar>
 
-        <app-vots-tool-option></app-vots-tool-option>
-  <p><mat-checkbox #matcheckbox [(ngModel)]="opened" (change)="toggleChange($event)">sidenav.opened</mat-checkbox></p>
-  <p><button id="sidenavtogglebutton" class="sidenavtogglebutton" #sidenavtogglebutton (click)="ToggleNavMenu()">sidenav.toggle() clickhere</button></p>
-  <p><button mat-button (click)="sidenav.toggle()">sidenav.toggle()</button></p>
-  <p>Events:</p>
-  <div class="example-events">
-    <div *ngFor="let e of events">{{e}}</div>
-  </div>
-</mat-sidenav-content>
+        <app-vots-tool-option [(Visible)]="matcheckbox.checked"  #saveanddelete ButtonCaption="SAVE & DELETE" [(CurrentToolBar)]="saveanddeleteTBO"></app-vots-tool-option>
+        <app-vots-tool-option [(Visible)]="!matcheckbox.checked"  #newandexecute ButtonCaption="New and Execute" [(CurrentToolBar)]="newandexecuteTBO"></app-vots-tool-option>
+        <p><mat-checkbox #matcheckbox [(ngModel)]="opened" (change)="toggleChange($event)">sidenav.opened</mat-checkbox></p>
+        <p><button id="sidenavtogglebutton" class="sidenavtogglebutton" #sidenavtogglebutton (click)="ToggleNavMenu()">sidenav.toggle() clickhere</button></p>
+        <p><button mat-button (click)="sidenav.toggle()">sidenav.toggle()</button></p>
+        <p>Events:</p>
+        <div class="example-events">
+          <div *ngFor="let e of events">{{e}}</div>
+        </div>
+      </mat-sidenav-content>
     </mat-sidenav-container> 
   </div>
      

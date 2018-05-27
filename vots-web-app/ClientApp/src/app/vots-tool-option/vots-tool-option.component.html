@@ -1,6 +1,6 @@
-<div style="padding-left:30px">
+<div [style.display]="Visible.toString() == 'true' ? 'block':'none' ">
   <br />
-  <div class="card" style="width: 18rem;">
+  <div class="card" style="width: 150rem;">
 
     <div class="card-body">
       <mat-checkbox #cansave [(ngModel)]="sideNavService.ToolBarOptions.CanSave">Can Save</mat-checkbox>
@@ -8,6 +8,8 @@
       <mat-checkbox #cansave [(ngModel)]="sideNavService.ToolBarOptions.CanNew">Can New</mat-checkbox>
       <mat-checkbox #cansave [(ngModel)]="sideNavService.ToolBarOptions.CanRetrieve">Can Retrieve</mat-checkbox>
       <mat-checkbox #cansave [(ngModel)]="sideNavService.ToolBarOptions.CanExecute">Can Execute</mat-checkbox>
-    </div>
+    </div>   
+    <button mat-button (click)="SetCurrentToolBar()">{{ButtonCaption}}</button>
   </div>
+ 
 </div>

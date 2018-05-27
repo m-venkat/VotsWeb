@@ -1,8 +1,8 @@
 export  class ToolBarOptions
 {
-    public CanSave: boolean;
-    public CanDelete: boolean;
-    public CanExecute: boolean;
-    public CanRetreive: boolean;
-    public CanNew: boolean;
+    public CanSave: boolean =false;
+    public CanDelete: boolean =false;
+    public CanExecute: boolean =false;
+    public CanRetreive: boolean =false;
+    public CanNew: boolean = false;
 }

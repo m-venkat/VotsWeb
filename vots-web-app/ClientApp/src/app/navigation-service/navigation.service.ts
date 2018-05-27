@@ -16,6 +16,10 @@ export class SideNavService {
     this.ToolBarOptions.CanDelete = true;
   }
 
+  public SetToolBar(tbo: ToolBarOptions) {
+    this.ToolBarOptions = tbo;
+  }
+
   public SetSideNav(sideNav: MatSidenav) {
     this.sideNav = sideNav;
   }

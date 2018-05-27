@@ -11,6 +11,7 @@ import { VotsToolBarComponent } from './vots-toolbar/vots-toolbar.component';
 import { ToolBarOptions } from './models/dtos';
 
 
+
 import {
   MatAutocompleteModule,
   MatButtonModule,
@@ -46,12 +47,14 @@ import {
   MatTreeModule,
 } from '@angular/material';
 import { VotsToolOptionComponent } from './vots-tool-option/vots-tool-option.component';
+import { VotsToolOptionBaseComponent } from './vots-tool-option-base/vots-tool-option-base.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     VotsToolBarComponent,
     VotsToolOptionComponent,
+    VotsToolOptionBaseComponent,
   ],
   exports: [
     BrowserAnimationsModule,
@@ -134,7 +137,8 @@ import { VotsToolOptionComponent } from './vots-tool-option/vots-tool-option.com
   ],
   providers: [
     SideNavService,
-    ToolBarOptions
+    ToolBarOptions,
+  
   ],
   bootstrap: [AppComponent]
 })

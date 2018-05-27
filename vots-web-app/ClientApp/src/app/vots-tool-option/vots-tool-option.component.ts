@@ -1,17 +1,18 @@
-import { Component, OnInit } from '@angular/core';
-import { MatCheckbox} from '@angular/material';
-import { SideNavService } from '../navigation-service/navigation.service';
+import { Component, OnInit, Input, ViewChild } from '@angular/core';
+import { MatCheckbox, MatButton } from '@angular/material';
+import { VotsToolOptionBaseComponent } from '../vots-tool-option-base/vots-tool-option-base.component';
 
 @Component({
   selector: 'app-vots-tool-option',
   templateUrl: './vots-tool-option.component.html',
   styleUrls: ['./vots-tool-option.component.css']
 })
-export class VotsToolOptionComponent implements OnInit {
+export class VotsToolOptionComponent extends VotsToolOptionBaseComponent implements OnInit {
 
-  constructor(private sideNavService: SideNavService) { }
-
-  ngOnInit() {
+  @Input("ButtonCaption") ButtonCaption: string;
+ 
+  ngOnInit() {    
+    console.log("Caption of Button :"+this.ButtonCaption);
   }
 
 }

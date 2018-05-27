@@ -3,7 +3,7 @@ import {
   ViewEncapsulation,
   ViewChild,
   ViewChildren,
-  OnInit,
+  OnInit,  
   AfterViewInit,
   ElementRef,
   ChangeDetectorRef
@@ -28,18 +28,30 @@ export class AppComponent implements OnInit, AfterViewInit {
   @ViewChild('sidenavtogglebutton') public sidenavtogglebutton: ElementRef;
   @ViewChild('matcheckbox') public cbox: MatCheckbox;
   private events: string[] = [""];
-
- 
-
+  @ViewChild('saveanddelete') saveanddelete: VotsToolOptionComponent;
+  @ViewChild('newandexecute') newandexecute: VotsToolOptionComponent;
+  saveanddeletecaption :string = "Save and Delete";
+  newandexecutecaption :string = "New and Execute";
+  public saveanddeleteTBO: ToolBarOptions = new ToolBarOptions();
+  public newandexecuteTBO: ToolBarOptions = new ToolBarOptions();
+  VotsToolOptionComponent
   public constructor(private cd: ChangeDetectorRef,
     private sideNavService: SideNavService)
   {
+
+    this.saveanddeleteTBO.CanSave = true;
+    this.saveanddeleteTBO.CanDelete = true;
+    this.newandexecuteTBO.CanNew = true;
+    this.newandexecuteTBO.CanExecute = true;
+   
+
     console.log("inside constructor...");
   }
 
   public ngOnInit() {
     console.log("inside ngOnInit...");
-    this.sideNavService.SetSideNav(this.sidenav);   
+    this.sideNavService.SetSideNav(this.sidenav);
+   
   }
   shouldRun = true;
 
@@ -50,6 +62,8 @@ export class AppComponent implements OnInit, AfterViewInit {
 
   ngAfterViewInit() {
     console.log("inside ngAfterViewInit...");
+    this.saveanddelete.SetCurrentToolBar();
+    //this.newandexecute.SetCurrentToolBar();
     this.cd.detectChanges();        //To avoid the change detection errors
   }
 
