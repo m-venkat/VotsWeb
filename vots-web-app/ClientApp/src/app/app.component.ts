@@ -63,7 +63,7 @@ export class AppComponent implements OnInit, AfterViewInit {
   ngAfterViewInit() {
     console.log("inside ngAfterViewInit...");
     this.saveanddelete.SetCurrentToolBar();
-    //this.newandexecute.SetCurrentToolBar();
+    this.newandexecute.SetCurrentToolBar();
     this.cd.detectChanges();        //To avoid the change detection errors
   }
 

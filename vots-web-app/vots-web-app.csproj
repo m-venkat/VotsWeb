@@ -50,9 +50,11 @@
     <Content Include="ClientApp\src\assets\img\DELWP_original.jpg">
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
     </Content>
+    <Content Include="ClientApp\src\assets\img\vertical.png" />
     <Content Include="ClientApp\src\assets\scripts\global.js">
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
     </Content>
+    <Content Include="ClientApp\src\assets\scripts\split.min.js" />
   </ItemGroup>
 
   <ItemGroup>

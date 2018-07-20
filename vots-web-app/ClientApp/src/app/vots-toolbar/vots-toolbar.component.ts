@@ -1,4 +1,4 @@
-import { Component, OnInit, ViewChild, Input } from '@angular/core';
+import { Component, OnInit, ViewChild, Input,HostBinding } from '@angular/core';
 import { SideNavService } from '../navigation-service/navigation.service';
 import { ToolBarOptions } from '../models/dtos';
 
@@ -9,7 +9,8 @@ import { ToolBarOptions } from '../models/dtos';
 })
 export class VotsToolBarComponent implements OnInit
 {
-
+  @HostBinding('style.width') width: Number;
+  @HostBinding('style.height') height: Number;
   @ViewChild('saveButton') private btnSave: HTMLButtonElement ;
   @ViewChild('deleteButton') private btnDelete: HTMLButtonElement;
   @ViewChild('executeButton') public btnExecute: HTMLButtonElement;

@@ -16,48 +16,75 @@
           <td valign="middle" align="right"><i class="fa fa-caret-down" aria-hidden="true" style="font-size:20px;color:white;padding-left:5px;"></i></td>
         </tr>
       </table>
-
     </div>
   </div>
   <!--Main Container-->
- 
+
   <div id="sidNavContainer" class="row row-eq-height" style="padding-top:1px">
     <mat-sidenav-container class="sidenavContainer">
-     
+
       <mat-sidenav class="sidenav"
                    #sidenav mode="side"
                    (opened)="this.events.push('Opened Here');"
                    (closed)="this.events.push('Closed Here');">
-        
-          One<br />
-          Two<br />
-          Three<br />
-          One<br />
-          Two<br />
-          Three<br />       
+
+        One<br />
+        Two<br />
+        Three<br />
+        One<br />
+        Two<br />
+        Three<br />
       </mat-sidenav>
-      
-     
+
+
 
       <mat-sidenav-content class="sidnavcontent">
-        <vots-toolbar [ToolBarOptions]="sideNavService.ToolBarOptions"></vots-toolbar>
+        <vots-toolbar id="toolBar" [ToolBarOptions]="sideNavService.ToolBarOptions"></vots-toolbar>
+        <div id="mainContentPanel" class="example-5">
+          <div id="ten" class="split split-horizontal">
+            <div id="twelve" class="split split-vertical">
+              <app-vots-tool-option [(Visible)]="matcheckbox.checked" #saveanddelete ButtonCaption="SAVE & DELETE" [(CurrentToolBar)]="saveanddeleteTBO"></app-vots-tool-option>
+              <app-vots-tool-option [(Visible)]="!matcheckbox.checked" #newandexecute ButtonCaption="New and Execute" [(CurrentToolBar)]="newandexecuteTBO"></app-vots-tool-option>
+              <p><mat-checkbox #matcheckbox [(ngModel)]="opened" (change)="toggleChange($event)">sidenav.opened</mat-checkbox></p>
+              <p><button id="sidenavtogglebutton" class="sidenavtogglebutton" #sidenavtogglebutton (click)="ToggleNavMenu()">sidenav.toggle() clickhere</button></p>
+              <p><button mat-button (click)="sidenav.toggle()">sidenav.toggle()</button></p>
+              <p>Events:</p>
+              <div class="example-events">
+                <div *ngFor="let e of events">{{e}}</div>
+                </div>
 
-        <app-vots-tool-option [(Visible)]="matcheckbox.checked"  #saveanddelete ButtonCaption="SAVE & DELETE" [(CurrentToolBar)]="saveanddeleteTBO"></app-vots-tool-option>
-        <app-vots-tool-option [(Visible)]="!matcheckbox.checked"  #newandexecute ButtonCaption="New and Execute" [(CurrentToolBar)]="newandexecuteTBO"></app-vots-tool-option>
-        <p><mat-checkbox #matcheckbox [(ngModel)]="opened" (change)="toggleChange($event)">sidenav.opened</mat-checkbox></p>
-        <p><button id="sidenavtogglebutton" class="sidenavtogglebutton" #sidenavtogglebutton (click)="ToggleNavMenu()">sidenav.toggle() clickhere</button></p>
-        <p><button mat-button (click)="sidenav.toggle()">sidenav.toggle()</button></p>
-        <p>Events:</p>
-        <div class="example-events">
-          <div *ngFor="let e of events">{{e}}</div>
+                <p>#twelve</p>
+                <p>#twelve</p>
+                <p>#twelve</p>
+                <p>#twelve</p>
+                <p>#twelve</p>
+                <p>#twelve</p>
+                <p>#twelve</p>
+                <p>#twelve</p>
+                <p>#twelve</p>
+                <p>#twelve</p>
+                <p>#twelve</p>
+                <p>#twelve</p>
+                <p>#twelve</p>
+                <p>#twelve</p>
+                <p>#twelve</p>
+                <p>#twelve</p>
+              </div>
+              <div id="thirteen" class="split split-vertical">
+                <p>#thirteen</p>
+              </div>
+            </div>
+          <div id="eleven" class="split split-horizontal">
+            <p>#eleven</p>
+          </div>
         </div>
       </mat-sidenav-content>
-    </mat-sidenav-container> 
+    </mat-sidenav-container>
   </div>
-     
-    <div id="footerSection" class="row row-eq-height" style="position:absolute; bottom:0px;width:100%;border-top:1px solid #aea9a9; background:#eae9e9;vertical-align:middle;height:30px;color:black">
-      Footer
-    </div>
+
+  <div id="footerSection" class="row row-eq-height" style="position:absolute; bottom:0px;width:100%;border-top:1px solid #aea9a9; background:#eae9e9;vertical-align:middle;height:30px;color:black">
+    Footer
   </div>
+</div>
 
 
