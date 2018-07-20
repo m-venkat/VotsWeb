@@ -9,9 +9,7 @@ import { ToolBarOptions } from '../models/dtos';
 })
 export class VotsToolBarComponent implements OnInit
 {
-  @HostBinding('style.width') width: Number;
-  @HostBinding('style.height') height: Number;
-  @ViewChild('saveButton') private btnSave: HTMLButtonElement ;
+  @ViewChild('saveButton') private btnSave: HTMLButtonElement;
   @ViewChild('deleteButton') private btnDelete: HTMLButtonElement;
   @ViewChild('executeButton') public btnExecute: HTMLButtonElement;
   @ViewChild('retrieveButton') public btnRetrieve: HTMLButtonElement;
