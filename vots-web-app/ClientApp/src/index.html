@@ -14,6 +14,8 @@
   <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <script src="assets/scripts/global.js"></script>
+  <script src="https://unpkg.com/split.js/split.min.js"></script>
+  <script src="assets/scripts/VotsSplitPane.js"></script>
   <link rel="stylesheet" href="assets/css/splicss.css">
   <link rel="stylesheet" href="assets/css/scrollbarStyle.css">
 
@@ -21,10 +23,10 @@
 <body>
   <app-root>Loading...</app-root>
 </body>
-<script src="https://unpkg.com/split.js/split.min.js"></script>
+
 <script>
-  Split(['#ten', '#eleven']);
-  Split(['#twelve', '#thirteen'], {
+  var mainContentNotificationSplit = Split(['#contentNavigationSplit', '#searchPanel']);
+  var searchPanelSplit = Split(['#contentPanel', '#notifcationPanel'], {
     direction: 'vertical'
   });
 </script>

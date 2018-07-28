@@ -8,7 +8,9 @@ import {
   ElementRef,
   ChangeDetectorRef
 } from '@angular/core';
-
+//import '../assets/scripts/votssplitpane.js'
+//import * as VotsSplitPane from '../assets/scripts/votssplitpane.js';
+import  '../assets/scripts/votssplitpane.js';
 import { SlimScroll } from 'angular-io-slimscroll';
 import { MatSidenav, MatButton, MatCheckbox, MatSidenavContainer } from '@angular/material';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
@@ -17,6 +19,8 @@ import { VotsToolBarComponent } from './vots-toolbar/vots-toolbar.component';
 import { VotsToolOptionComponent } from './vots-tool-option/vots-tool-option.component';
 import { ToolBarOptions } from './models/dtos';
 
+declare var VotsSplitPane: any;
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -24,9 +28,11 @@ import { ToolBarOptions } from './models/dtos';
 })
 export class AppComponent implements OnInit, AfterViewInit {
   title = 'app';
+  VotsSplitPane: any;
   @ViewChild('sidenav') public sidenav: MatSidenav;
   @ViewChild('sidenavtogglebutton') public sidenavtogglebutton: ElementRef;
   @ViewChild('matcheckbox') public cbox: MatCheckbox;
+  @ViewChild('searchBarPanelOpener') public searchBarPanelOpener: MatCheckbox;  
   private events: string[] = [""];
   @ViewChild('saveanddelete') saveanddelete: VotsToolOptionComponent;
   @ViewChild('newandexecute') newandexecute: VotsToolOptionComponent;
@@ -43,7 +49,7 @@ export class AppComponent implements OnInit, AfterViewInit {
     this.saveanddeleteTBO.CanDelete = true;
     this.newandexecuteTBO.CanNew = true;
     this.newandexecuteTBO.CanExecute = true;
-   
+      
 
     console.log("inside constructor...");
   }
@@ -51,7 +57,9 @@ export class AppComponent implements OnInit, AfterViewInit {
   public ngOnInit() {
     console.log("inside ngOnInit...");
     this.sideNavService.SetSideNav(this.sidenav);
-   
+    VotsSplitPane.init();
+    //VotsSplitPane.PrintCurrentDate();
+    console.log("Current Time is :"+VotsSplitPane.CurrentTime);
   }
   shouldRun = true;
 
@@ -64,6 +72,7 @@ export class AppComponent implements OnInit, AfterViewInit {
     console.log("inside ngAfterViewInit...");
     this.saveanddelete.SetCurrentToolBar();
     this.newandexecute.SetCurrentToolBar();
+   // VotsSplitPane.init();
     this.cd.detectChanges();        //To avoid the change detection errors
   }
 

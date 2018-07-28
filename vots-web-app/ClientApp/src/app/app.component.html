@@ -41,40 +41,25 @@
       <mat-sidenav-content class="sidnavcontent">
         <vots-toolbar id="toolBar" [ToolBarOptions]="sideNavService.ToolBarOptions"></vots-toolbar>
         <div id="mainContentPanel" class="mainContainerClass">
-          <div id="ten" class="split split-horizontal">
-            <div id="twelve" class="split split-vertical">
+          <div id="contentNavigationSplit" class="split split-horizontal">
+            <div id="contentPanel" class="split split-vertical">
               <app-vots-tool-option [(Visible)]="matcheckbox.checked" #saveanddelete ButtonCaption="SAVE & DELETE" [(CurrentToolBar)]="saveanddeleteTBO"></app-vots-tool-option>
               <app-vots-tool-option [(Visible)]="!matcheckbox.checked" #newandexecute ButtonCaption="New and Execute" [(CurrentToolBar)]="newandexecuteTBO"></app-vots-tool-option>
               <p><mat-checkbox #matcheckbox [(ngModel)]="opened" (change)="toggleChange($event)">sidenav.opened</mat-checkbox></p>
               <p><button id="sidenavtogglebutton" class="sidenavtogglebutton" #sidenavtogglebutton (click)="ToggleNavMenu()">sidenav.toggle() clickhere</button></p>
               <p><button mat-button (click)="sidenav.toggle()">sidenav.toggle()</button></p>
+              <p><mat-checkbox #searchBarPanelOpener [(ngModel)]="searchBar">Show Search Panel</mat-checkbox></p>
+
               <p>Events:</p>
               <div class="example-events">
                 <div *ngFor="let e of events">{{e}}</div>
-                </div>
-
-                <p>#twelve</p>
-                <p>#twelve</p>
-                <p>#twelve</p>
-                <p>#twelve</p>
-                <p>#twelve</p>
-                <p>#twelve</p>
-                <p>#twelve</p>
-                <p>#twelve</p>
-                <p>#twelve</p>
-                <p>#twelve</p>
-                <p>#twelve</p>
-                <p>#twelve</p>
-                <p>#twelve</p>
-                <p>#twelve</p>
-                <p>#twelve</p>
-                <p>#twelve</p>
-              </div>
-              <div id="thirteen" class="split split-vertical">
+              </div>        
+            </div>
+            <div id="notifcationPanel" class="split split-vertical">
                 <p>#thirteen</p>
               </div>
-            </div>
-          <div id="eleven" class="split split-horizontal">
+          </div>
+          <div id="searchPanel" class="split split-horizontal" [style.display]="searchBarPanelOpener.checked  ? 'block':'none' " >
             <p>#eleven</p>
           </div>
         </div>
