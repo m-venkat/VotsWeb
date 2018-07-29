@@ -22,46 +22,45 @@
 
   <div id="sidNavContainer" class="row row-eq-height" style="padding-top:1px">
     <mat-sidenav-container class="sidenavContainer">
+        <mat-sidenav class="sidenav"
+                     #sidenav mode="side"
+                     (opened)="this.events.push('Opened Here');"
+                     (closed)="this.events.push('Closed Here');">
 
-      <mat-sidenav class="sidenav"
-                   #sidenav mode="side"
-                   (opened)="this.events.push('Opened Here');"
-                   (closed)="this.events.push('Closed Here');">
-
-        One<br />
-        Two<br />
-        Three<br />
-        One<br />
-        Two<br />
-        Three<br />
-      </mat-sidenav>
-
-
-
-      <mat-sidenav-content class="sidnavcontent">
-        <vots-toolbar id="toolBar" [ToolBarOptions]="sideNavService.ToolBarOptions"></vots-toolbar>
-        <div id="mainContentPanel" class="mainContainerClass">
-          <div id="contentNavigationSplit" class="split split-horizontal">
-            <div id="contentPanel" class="split split-vertical">
-              <app-vots-tool-option [(Visible)]="matcheckbox.checked" #saveanddelete ButtonCaption="SAVE & DELETE" [(CurrentToolBar)]="saveanddeleteTBO"></app-vots-tool-option>
-              <app-vots-tool-option [(Visible)]="!matcheckbox.checked" #newandexecute ButtonCaption="New and Execute" [(CurrentToolBar)]="newandexecuteTBO"></app-vots-tool-option>
-              <p><mat-checkbox #matcheckbox [(ngModel)]="opened" (change)="toggleChange($event)">sidenav.opened</mat-checkbox></p>
-              <p><button id="sidenavtogglebutton" class="sidenavtogglebutton" #sidenavtogglebutton (click)="ToggleNavMenu()">sidenav.toggle() clickhere</button></p>
-              <p><button mat-button (click)="sidenav.toggle()">sidenav.toggle()</button></p>
-              <p><mat-checkbox #searchBarPanelOpener [(ngModel)]="searchBar">Show Search Panel</mat-checkbox></p>
-
-              <p>Events:</p>
-              <div class="example-events">
-                <div *ngFor="let e of events">{{e}}</div>
-              </div>        
-            </div>
-            <div id="notifcationPanel" class="split split-vertical">
-                <p>#thirteen</p>
-              </div>
-          </div>
-          <div id="searchPanel" class="split split-horizontal" [style.display]="searchBarPanelOpener.checked  ? 'block':'none' " >
-            <p>#eleven</p>
-          </div>
+          One<br />
+          Two<br />
+          Three<br />
+          One<br />
+          Two<br />
+          Three<br />
+        </mat-sidenav>
+        <mat-sidenav-content class="sidnavcontent">
+          <vots-toolbar id="toolBar" [ToolBarOptions]="sideNavService.ToolBarOptions"></vots-toolbar>
+            <div id="mainContentPanel" class="mainContainerClass">
+          <split direction="horizontal" useTransition="true" gutterSize="7" gutterColor="#efeff2">
+            <split-area size="70" >
+                <split direction="vertical" useTransition="true" gutterSize="7" gutterColor="#efeff2">
+                  <split-area size="70" >
+                    <app-vots-tool-option [(Visible)]="matcheckbox.checked" #saveanddelete ButtonCaption="SAVE & DELETE" [(CurrentToolBar)]="saveanddeleteTBO"></app-vots-tool-option>
+                    <app-vots-tool-option [(Visible)]="!matcheckbox.checked" #newandexecute ButtonCaption="New and Execute" [(CurrentToolBar)]="newandexecuteTBO"></app-vots-tool-option>
+                    <p><mat-checkbox #matcheckbox [(ngModel)]="opened" (change)="toggleChange($event)">sidenav.opened</mat-checkbox></p>
+                    <p><button id="sidenavtogglebutton" class="sidenavtogglebutton" #sidenavtogglebutton (click)="ToggleNavMenu()">sidenav.toggle() clickhere</button></p>
+                    <p><button mat-button (click)="sidenav.toggle()">sidenav.toggle()</button></p>
+                    <p><mat-checkbox #searchBarPanelOpener [(ngModel)]="searchBar">Show Search Panel</mat-checkbox></p>
+                    <p>Events:</p>
+                    <div class="example-events">
+                      <div *ngFor="let e of events">{{e}}</div>
+                    </div>
+                  </split-area>
+                    <split-area size="30">
+                      <p>Search Area</p>
+                    </split-area>
+                </split>
+            </split-area>
+            <split-area size="30" [visible]="searchBar" >
+              <p>#Notification</p>
+            </split-area>
+          </split>  
         </div>
       </mat-sidenav-content>
     </mat-sidenav-container>
@@ -72,4 +71,4 @@
   </div>
 </div>
 
-
+  

@@ -9,7 +9,7 @@ import { LayoutModule } from '@angular/cdk/layout';
 import { SideNavService } from './navigation-service/navigation.service';
 import { VotsToolBarComponent } from './vots-toolbar/vots-toolbar.component';
 import { ToolBarOptions } from './models/dtos';
-
+import { AngularSplitModule } from 'angular-split';
 
 
 import {
@@ -134,6 +134,7 @@ import { VotsToolOptionBaseComponent } from './vots-tool-option-base/vots-tool-o
     MatTooltipModule,
     MatStepperModule,
     MatTreeModule,
+    AngularSplitModule
   ],
   providers: [
     SideNavService,

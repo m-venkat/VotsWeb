@@ -54,7 +54,6 @@
     <Content Include="ClientApp\src\assets\scripts\global.js">
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
     </Content>
-    <Content Include="ClientApp\src\assets\scripts\split.min.js" />
   </ItemGroup>
 
   <ItemGroup>

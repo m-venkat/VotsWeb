@@ -8,9 +8,7 @@ import {
   ElementRef,
   ChangeDetectorRef
 } from '@angular/core';
-//import '../assets/scripts/votssplitpane.js'
-//import * as VotsSplitPane from '../assets/scripts/votssplitpane.js';
-import  '../assets/scripts/votssplitpane.js';
+
 import { SlimScroll } from 'angular-io-slimscroll';
 import { MatSidenav, MatButton, MatCheckbox, MatSidenavContainer } from '@angular/material';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
@@ -18,8 +16,8 @@ import { SideNavService } from './navigation-service/navigation.service';
 import { VotsToolBarComponent } from './vots-toolbar/vots-toolbar.component';
 import { VotsToolOptionComponent } from './vots-tool-option/vots-tool-option.component';
 import { ToolBarOptions } from './models/dtos';
+import { AngularSplitModule } from 'angular-split';
 
-declare var VotsSplitPane: any;
 
 @Component({
   selector: 'app-root',
@@ -28,7 +26,6 @@ declare var VotsSplitPane: any;
 })
 export class AppComponent implements OnInit, AfterViewInit {
   title = 'app';
-  VotsSplitPane: any;
   @ViewChild('sidenav') public sidenav: MatSidenav;
   @ViewChild('sidenavtogglebutton') public sidenavtogglebutton: ElementRef;
   @ViewChild('matcheckbox') public cbox: MatCheckbox;
@@ -56,10 +53,7 @@ export class AppComponent implements OnInit, AfterViewInit {
 
   public ngOnInit() {
     console.log("inside ngOnInit...");
-    this.sideNavService.SetSideNav(this.sidenav);
-    VotsSplitPane.init();
-    //VotsSplitPane.PrintCurrentDate();
-    console.log("Current Time is :"+VotsSplitPane.CurrentTime);
+    this.sideNavService.SetSideNav(this.sidenav);  
   }
   shouldRun = true;
 
@@ -72,7 +66,6 @@ export class AppComponent implements OnInit, AfterViewInit {
     console.log("inside ngAfterViewInit...");
     this.saveanddelete.SetCurrentToolBar();
     this.newandexecute.SetCurrentToolBar();
-   // VotsSplitPane.init();
     this.cd.detectChanges();        //To avoid the change detection errors
   }
 
