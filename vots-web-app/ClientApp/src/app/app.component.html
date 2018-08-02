@@ -1,0 +1,76 @@
+<div class="container-fluid">
+  <div id="headerDiv" class="row row-eq-height dropshadow" style="background-color:#00518D;flex:0 1 auto">
+    <div class="col-sm-9 col-lg-9 col-xs-9 " style="padding:5px 5px 5px 5px;align-content:center;">
+      <picture class="dropshadow">
+        <source media="(min-width: 900px)" srcset="../assets/img/DELWP1.jpg">
+        <source media="(min-width: 480px)" srcset="../assets/img/DELWP_mobile.jpg">
+        <img src="../assets/img/DELWP1.jpg" alt="../assets/img/DELWP1.jpg">
+      </picture>
+    </div>
+    <div class="col-sm-3 col-lg-3 col-xs-3" style="padding-right:20px;display: flex;align-items: center;justify-content: flex-end">
+      <table border="0" valign="middle" align="right">
+        <tr>
+          <td valign="middle" align="right"><i class="fa fa-arrows-alt" (click)="ToggleFullScreen()" matTooltip="Toggle FullScreen!" style="font-size:20px;color:white"></i></td>
+          <td valign="middle" align="right" style="padding-left:15px;"><i class="fas fa-user" style="font-size:20px;color:white"></i></td>
+          <td valign="middle" align="right" nowrap="nowrap"><span nowrap="nowrap" style="padding-left:15px; float:right;font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:15px; color:white">Venkatesh Muniyandi</span></td>
+          <td valign="middle" align="right"><i class="fa fa-caret-down" aria-hidden="true" style="font-size:20px;color:white;padding-left:5px;"></i></td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <!--Main Container-->
+
+  <div id="sidNavContainer" class="row row-eq-height" style="padding-top:1px">
+    <mat-sidenav-container class="sidenavContainer">
+        <mat-sidenav class="sidenav"
+                     #sidenav mode="side"
+                     (opened)="this.events.push('Opened Here');"
+                     (closed)="this.events.push('Closed Here');">
+
+          One<br />
+          Two<br />
+          Three<br />
+          One<br />
+          Two<br />
+          Three<br />
+        </mat-sidenav>
+        <mat-sidenav-content class="sidnavcontent">
+          <vots-toolbar id="toolBar" [ToolBarOptions]="sideNavService.ToolBarOptions"></vots-toolbar>
+            <div id="mainContentPanel" class="mainContainerClass">
+          <split direction="horizontal" useTransition="true" gutterSize="7" gutterColor="#efeff2">
+            <split-area size="70" >
+                <split direction="vertical" useTransition="true" gutterSize="7" gutterColor="#efeff2">
+                  <split-area size="70" >
+                    <div id="tabParentContainer" style="width:100%;">
+                      <app-vots-tool-option [(Visible)]="matcheckbox.checked" #saveanddelete ButtonCaption="SAVE & DELETE" [(CurrentToolBar)]="saveanddeleteTBO"></app-vots-tool-option>
+                      <app-vots-tool-option [(Visible)]="!matcheckbox.checked" #newandexecute ButtonCaption="New and Execute" [(CurrentToolBar)]="newandexecuteTBO"></app-vots-tool-option>
+                      <p><mat-checkbox #matcheckbox [(ngModel)]="opened" (change)="toggleChange($event)">sidenav.opened</mat-checkbox></p>
+                      <p><button id="sidenavtogglebutton" class="sidenavtogglebutton" #sidenavtogglebutton (click)="ToggleNavMenu()">sidenav.toggle() clickhere</button></p>
+                      <p><button mat-button (click)="sidenav.toggle()">sidenav.toggle()</button></p>
+                      <p><mat-checkbox #searchBarPanelOpener [(ngModel)]="searchBar">Show Search Panel</mat-checkbox></p>
+                      <p>Events:</p>
+                      <div class="example-events">
+                        <div *ngFor="let e of events">{{e}}</div>
+                      </div>                     
+                    </div>                    
+                  </split-area>
+                    <split-area size="30">
+                      <p>Search Area</p>
+                    </split-area>
+                </split>
+            </split-area>
+            <split-area size="30" [visible]="searchBar" >
+              <p>#Notification</p>
+            </split-area>
+          </split>  
+        </div>
+      </mat-sidenav-content>
+    </mat-sidenav-container>
+  </div>
+
+  <div id="footerSection" class="row row-eq-height" style="position:absolute; bottom:0px;width:100%;border-top:1px solid #aea9a9; background:#eae9e9;vertical-align:middle;height:30px;color:black">
+    Footer
+  </div>
+</div>
+
+  
