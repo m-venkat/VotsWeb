@@ -29,7 +29,8 @@
 
   <ItemGroup>
     <None Remove="ClientApp\src\app\models\dtos.ts" />
-    <None Remove="ClientApp\src\app\vots-tool-option\BaseComponent.ts" />
+    <None Remove="ClientApp\src\app\components\vots-tool-option\BaseComponent.ts" />
+    <None Remove="ClientApp\src\app\models\MenuModels.ts" />
     <None Remove="ClientApp\src\assets\img\DELWP.jpg" />
     <None Remove="ClientApp\src\assets\img\DELWP1.jpg" />
     <None Remove="ClientApp\src\assets\img\DELWP_mobile.jpg" />
@@ -58,6 +59,7 @@
 
   <ItemGroup>
     <TypeScriptCompile Include="ClientApp\src\app\models\dtos.ts" />
+    <TypeScriptCompile Include="ClientApp\src\app\models\MenuModels.ts" />
   </ItemGroup>
 
   <Target Name="DebugEnsureNodeEnv" BeforeTargets="Build" Condition=" '$(Configuration)' == 'Debug' And !Exists('$(SpaRoot)node_modules') ">

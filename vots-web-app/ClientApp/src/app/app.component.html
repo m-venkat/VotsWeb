@@ -22,18 +22,12 @@
 
   <div id="sidNavContainer" class="row row-eq-height" style="padding-top:1px">
     <mat-sidenav-container class="sidenavContainer">
-        <mat-sidenav class="sidenav"
-                     #sidenav mode="side"
-                     (opened)="this.events.push('Opened Here');"
-                     (closed)="this.events.push('Closed Here');">
-
-          One<br />
-          Two<br />
-          Three<br />
-          One<br />
-          Two<br />
-          Three<br />
-        </mat-sidenav>
+      <mat-sidenav class="sidenav"
+                   #sidenav mode="side"
+                   (opened)="this.events.push('Opened Here');"
+                   (closed)="this.events.push('Closed Here');">
+        <app-vots-sidemenu></app-vots-sidemenu> 
+      </mat-sidenav>
         <mat-sidenav-content class="sidnavcontent">
           <vots-toolbar id="toolBar" [ToolBarOptions]="sideNavService.ToolBarOptions"></vots-toolbar>
             <div id="mainContentPanel" class="mainContainerClass">
