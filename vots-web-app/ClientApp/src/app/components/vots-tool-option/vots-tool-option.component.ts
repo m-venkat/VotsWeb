@@ -9,10 +9,10 @@ import { VotsToolOptionBaseComponent } from '../vots-tool-option-base/vots-tool-
 })
 export class VotsToolOptionComponent extends VotsToolOptionBaseComponent implements OnInit {
 
-  @Input("ButtonCaption") ButtonCaption: string;
- 
-  ngOnInit() {    
-    console.log("Caption of Button :"+this.ButtonCaption);
+  @Input('ButtonCaption') ButtonCaption: string;
+
+  ngOnInit() {
+    console.log('Caption of Button :' + this.ButtonCaption);
   }
 
 }

@@ -6,8 +6,8 @@ import { RouterModule } from '@angular/router';
 import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { LayoutModule } from '@angular/cdk/layout';
-import { SideNavService } from './navigation-service/navigation.service';
-import { VotsToolBarComponent } from './vots-toolbar/vots-toolbar.component';
+import { SideNavService } from './services/navigation-service/navigation.service';
+import { VotsToolBarComponent } from './components/vots-toolbar/vots-toolbar.component';
 import { ToolBarOptions } from './models/dtos';
 import { AngularSplitModule } from 'angular-split';
 
@@ -46,8 +46,9 @@ import {
   MatStepperModule,
   MatTreeModule,
 } from '@angular/material';
-import { VotsToolOptionComponent } from './vots-tool-option/vots-tool-option.component';
-import { VotsToolOptionBaseComponent } from './vots-tool-option-base/vots-tool-option-base.component';
+import { VotsToolOptionComponent } from './components/vots-tool-option/vots-tool-option.component';
+import { VotsToolOptionBaseComponent } from './components/vots-tool-option-base/vots-tool-option-base.component';
+import { VotsSidemenuComponent } from './components/vots-sidemenu/vots-sidemenu.component';
 
 @NgModule({
   declarations: [
@@ -55,6 +56,7 @@ import { VotsToolOptionBaseComponent } from './vots-tool-option-base/vots-tool-o
     VotsToolBarComponent,
     VotsToolOptionComponent,
     VotsToolOptionBaseComponent,
+    VotsSidemenuComponent,
   ],
   exports: [
     BrowserAnimationsModule,
@@ -101,7 +103,7 @@ import { VotsToolOptionBaseComponent } from './vots-tool-option-base/vots-tool-o
       { path: 'home', component: AppComponent },
       { path: '**', redirectTo: 'home' }
     ]),
-   
+
     MatAutocompleteModule,
     MatButtonModule,
     MatButtonToggleModule,
@@ -139,7 +141,7 @@ import { VotsToolOptionBaseComponent } from './vots-tool-option-base/vots-tool-o
   providers: [
     SideNavService,
     ToolBarOptions,
-  
+
   ],
   bootstrap: [AppComponent]
 })

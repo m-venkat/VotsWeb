@@ -1,14 +1,14 @@
 import { Injectable } from '@angular/core';
 import { MatSidenav, MatDrawerToggleResult } from '@angular/material';
 import { Observable } from 'rxjs';
-import { ToolBarOptions} from '../models/dtos';
+import { ToolBarOptions} from '../../models/dtos';
 
 @Injectable({
   providedIn: 'root'
 })
 export class SideNavService {
   private sideNav: MatSidenav;
-  public ToolBarOptions: ToolBarOptions
+  public ToolBarOptions: ToolBarOptions;
 
   constructor() {
     this.ToolBarOptions = new ToolBarOptions();
@@ -25,7 +25,7 @@ export class SideNavService {
   }
 
   public Open(): Promise<MatDrawerToggleResult> {
-    return this.sideNav.open()
+    return this.sideNav.open();
   }
 
   public Close(): Promise<MatDrawerToggleResult> {
@@ -33,7 +33,7 @@ export class SideNavService {
   }
 
   public Toggle(): Promise<MatDrawerToggleResult> {
-   // console.log("Opened :" + this.sideNav.opened);    
+   // console.log("Opened :" + this.sideNav.opened);
     return this.sideNav.toggle();
   }
 }
