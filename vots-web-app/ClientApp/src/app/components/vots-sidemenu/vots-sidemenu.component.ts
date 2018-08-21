@@ -10,7 +10,7 @@ import { Observable } from 'rxjs';
 })
 export class VotsSidemenuComponent implements OnInit {
 
-  menu: VotsMenuItem[];
+  menu: Observable<VotsMenuItem[]>;
 
 
   constructor(public dataService: DataService) { }
@@ -20,10 +20,12 @@ export class VotsSidemenuComponent implements OnInit {
   }
 
   GetVotsSideMenu(): void {
-      this.dataService.GetVotsMenu().subscribe(data => {
-        this.menu = data;
-      },
-      error => { }
-    );
+    this.menu = this.dataService.GetVotsMenu();
+    
+    // this.dataService.GetVotsMenu().subscribe(data => {
+    //     this.menu = data;
+    //   },
+    //   error => { }
+    // );
   }
 }
