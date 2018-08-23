@@ -1,3 +1,35 @@
-<li *ngFor="let item of menu | async">
-  {{item.ChildMenuLabel}}
-</li>
+
+<mat-accordion>
+
+  <mat-expansion-panel *ngFor="let item of parentMenu">
+    <mat-expansion-panel-header >
+      {{item.ParentMenuLabel}}
+    </mat-expansion-panel-header>
+    <ul>
+      <li *ngFor="let childMenu of item.MenuItems">
+        {{childMenu.ChildMenuLabel}}
+      </li>
+    </ul>
+  </mat-expansion-panel>
+
+  <mat-expansion-panel>
+    <mat-expansion-panel-header>
+      This is the expansion 2 title
+    </mat-expansion-panel-header>
+
+    This the expansion 2 content
+
+  </mat-expansion-panel>
+
+</mat-accordion>
+
+<!--<ul>
+  <li class="parent" *ngFor="let item of parentMenu">
+    {{item.ParentMenuLabel}}
+    <ul>
+      <li *ngFor="let childMenu of item.MenuItems">
+        {{childMenu.ChildMenuLabel}}
+      </li>
+    </ul>
+  </li>
+</ul>-->

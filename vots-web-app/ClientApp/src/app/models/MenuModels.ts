@@ -8,3 +8,18 @@ export interface VotsMenuItem {
   ChildMenuId: string;
   ChildMenuLabel: string;
 }
+
+export interface MenuItem { 
+  ChildMenuId: string;
+  ChildMenuLabel: string;
+}
+
+export interface MenuItems {
+  ParenMenus: VotsMenuParent[];
+}
+
+export interface VotsMenuParent {
+  ParentMenuId: string;
+  ParentMenuLabel: string;
+  MenuItems: VotsMenuItem[];
+}
