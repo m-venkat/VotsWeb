@@ -22,6 +22,9 @@ export class VotsSidemenuComponent implements OnInit {
     this.GetVotsSideMenu();
   }
 
+  SideMenuSelected(selectedMenu: VotsMenuItem): void {
+    alert("Selected.."+JSON.stringify(selectedMenu));
+  }
 
   GetVotsSideMenu(): void {
     ///this.menu = this.dataService.GetVotsMenu();
