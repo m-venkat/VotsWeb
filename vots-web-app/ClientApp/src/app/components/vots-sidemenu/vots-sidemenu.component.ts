@@ -1,7 +1,9 @@
 import { Component, OnInit } from '@angular/core';
 import { DataService } from '../../services/data-service/data.service';
-import { VotsMenu, VotsMenuItem } from '../../models/MenuModels';
+import { VotsMenu, VotsMenuItem, MenuItems, VotsMenuParent } from '../../models/MenuModels';
 import { Observable } from 'rxjs';
+import { List } from 'linqts'
+import { MatAccordion, MatExpansionPanel, MatExpansionPanelHeader} from '@angular/material';
 
 @Component({
   selector: 'app-vots-sidemenu',
@@ -10,8 +12,9 @@ import { Observable } from 'rxjs';
 })
 export class VotsSidemenuComponent implements OnInit {
 
-  menu: VotsMenuItem[];
-
+  //menu: Observable<VotsMenuItem[]>;
+ 
+  parentMenu : VotsMenuParent[] = [];
 
   constructor(public dataService: DataService) { }
 
@@ -19,11 +22,38 @@ export class VotsSidemenuComponent implements OnInit {
     this.GetVotsSideMenu();
   }
 
+
   GetVotsSideMenu(): void {
-      this.dataService.GetVotsMenu().subscribe(data => {
-        this.menu = data;
-      },
-      error => { }
-    );
+    ///this.menu = this.dataService.GetVotsMenu();
+    
+    this.dataService.GetVotsMenu().subscribe(data => {
+      let menu: VotsMenuItem[];
+      menu = data;
+      let parentMenus = menu.map(item => ({ parentMenuId: item.ParentMenuId, parentMenuLabel: item.ParentMenuLabel }))
+        .filter((thing, index, self) =>
+          index === self.findIndex((t) => (
+            t.parentMenuId === thing.parentMenuId && t.parentMenuLabel === thing.parentMenuLabel
+          ))
+        );       
+
+       parentMenus.forEach(mnu => {
+        let parentWithChild = menu.filter(item => item.ParentMenuId == mnu.parentMenuId)
+          .filter((thing, index, self) =>
+            index === self.findIndex((t) => (
+              t.ChildMenuId === thing.ChildMenuId && t.ParentMenuId === thing.ParentMenuId
+            ))
+          )
+        let pm = <VotsMenuParent>{};
+        pm.ParentMenuId = mnu.parentMenuId;
+        pm.ParentMenuLabel = mnu.parentMenuLabel;
+        pm.MenuItems = parentWithChild;
+        this.parentMenu.push(pm);
+      });
+
+      console.log(this.parentMenu);
+      
+       },
+       error => { }
+     );
   }
 }
