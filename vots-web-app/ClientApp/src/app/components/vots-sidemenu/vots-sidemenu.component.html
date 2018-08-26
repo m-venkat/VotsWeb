@@ -1,14 +1,21 @@
-<div style="padding:15px;background-color:#dcdcdc;"> 
-    <mat-expansion-panel *ngFor="let item of parentMenu">
-      <mat-expansion-panel-header expandedHeight="40px" collapsedHeight="40px">
-        {{item.ParentMenuLabel}}
-      </mat-expansion-panel-header>
-      <ul>
-        <li *ngFor="let childMenu of item.MenuItems" (click)="SideMenuSelected(childMenu)">
-          {{childMenu.ChildMenuLabel}}
-        </li>
-      </ul>
-    </mat-expansion-panel>    
+
+
+<div style="padding:15px;background-color:#dcdcdc;">
+  <mat-form-field class="example-form-field" style="width:100%;padding-bottom:20px">
+    <input matInput type="text" style="width:100%;" />
+    <mat-hint align="start"><strong>Type here to search the menu</strong></mat-hint>
+  </mat-form-field>
+ 
+  <mat-expansion-panel *ngFor="let item of parentMenu">
+    <mat-expansion-panel-header expandedHeight="40px" collapsedHeight="40px">
+      {{item.ParentMenuLabel}}
+    </mat-expansion-panel-header>
+    <ul>
+      <li *ngFor="let childMenu of item.MenuItems" (click)="SideMenuSelected(childMenu)">
+        {{childMenu.ChildMenuLabel}}
+      </li>
+    </ul>
+  </mat-expansion-panel>
 </div>
 <!--<ul>
   <li class="parent" *ngFor="let item of parentMenu">
