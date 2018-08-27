@@ -17,19 +17,22 @@ export class VotsSidemenuComponent implements OnInit {
 
   //menu: Observable<VotsMenuItem[]>;
  
-  parentMenu : VotsMenuParent[] = [];
+  parentMenu : Observable<VotsMenuParent[]> ;
 
   constructor(public dataService: DataService) { }
 
   ngOnInit() {
-    this.GetVotsSideMenu();
+    this.parentMenu = this.GetVotsSideMenu();
   }
 
   SideMenuSelected(selectedMenu: VotsMenuItem): void {
     alert("Selected.."+JSON.stringify(selectedMenu));
   }
 
-  GetVotsSideMenu(): Observable<VotsMenuParent[]> {
+  //Returning as Observable
+  GetVotsSideMenu():  Observable<VotsMenuParent[]>
+  {
+   // return this.dataService.GetVotsMenu()
     return this.dataService.GetVotsMenu()
       .pipe
       (
@@ -41,7 +44,8 @@ export class VotsSidemenuComponent implements OnInit {
               index === self.findIndex((t) => (
                 t.parentMenuId === thing.parentMenuId && t.parentMenuLabel === thing.parentMenuLabel
               ))
-            );
+          );
+          let pmm: VotsMenuParent[] = [] ;
           parentMenus.forEach(mnu => {
             let parentWithChild = item.filter(item => item.ParentMenuId == mnu.parentMenuId)
               .filter((thing, index, self) =>
@@ -53,17 +57,20 @@ export class VotsSidemenuComponent implements OnInit {
             pm.ParentMenuId = mnu.parentMenuId;
             pm.ParentMenuLabel = mnu.parentMenuLabel;
             pm.MenuItems = parentWithChild;
-            this.parentMenu.push(pm);
-            
+            pmm.push(pm);
           }//end of item processing
-            return this.parentMenu;
+          );
+          return pmm;
         }
-           
-      )// End of map
-        
+        )// End of map
+      )//end of Pipe
+      //.subscribe(data => {
+      //  console.log(data);
+      //});
   }
   
   /*
+  // Returning it as Just Array and not as Observable
   GetVotsSideMenu(): void {
     this.dataService.GetVotsMenu().subscribe(data => {
       let menu: VotsMenuItem[];

@@ -30,11 +30,14 @@ color: #f9f7f7;
 cursor:not-allowed;
 /*Button disabled - CSS color class*/
 }
-
+mat-hint
+{
+  font-size:22px;
+}
 .ToolBarButton:disabled:hover {
-    background-color: #686565;
-    border: 1px solid #686565;
-    -webkit-box-shadow: 0 0px 0px #686565;
+  background-color: #686565;
+  border: 1px solid #686565;
+  -webkit-box-shadow: 0 0px 0px #686565;
 }
 
 .ToolBarButton:disabled span, i {
