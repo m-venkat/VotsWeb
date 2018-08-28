@@ -17,12 +17,15 @@ export class VotsSidemenuComponent implements OnInit {
 
   //menu: Observable<VotsMenuItem[]>;
  
-  parentMenu : Observable<VotsMenuParent[]> ;
+  parentMenu : VotsMenuParent[] ;
 
   constructor(public dataService: DataService) { }
 
   ngOnInit() {
-    this.parentMenu = this.GetVotsSideMenu();
+
+    this.GetVotsSideMenu().subscribe(menuTree => {
+      this.parentMenu = menuTree;
+    });
   }
 
   SideMenuSelected(selectedMenu: VotsMenuItem): void {
@@ -39,21 +42,16 @@ export class VotsSidemenuComponent implements OnInit {
       map
         (
         item => {
-          let parentMenus = item.map(item => ({ parentMenuId: item.ParentMenuId, parentMenuLabel: item.ParentMenuLabel }))
-            .filter((thing, index, self) =>
+          let parentMenus = item.map(item => ({ parentMenuId: item.ParentMenuId, parentMenuLabel: item.ParentMenuLabel }))//Parent Menu ID and Parent Menu Label only
+            .filter((thing, index, self) => // Filter for duplicates and get Distinct Parent Menu Items
               index === self.findIndex((t) => (
                 t.parentMenuId === thing.parentMenuId && t.parentMenuLabel === thing.parentMenuLabel
               ))
           );
           let pmm: VotsMenuParent[] = [] ;
-          parentMenus.forEach(mnu => {
-            let parentWithChild = item.filter(item => item.ParentMenuId == mnu.parentMenuId)
-              .filter((thing, index, self) =>
-                index === self.findIndex((t) => (
-                  t.ChildMenuId === thing.ChildMenuId && t.ParentMenuId === thing.ParentMenuId
-                ))
-              )
-            let pm = <VotsMenuParent>{};
+          parentMenus.forEach(mnu => { 
+            let parentWithChild = item.filter(item => item.ParentMenuId == mnu.parentMenuId)  //Get All the Children for current Parent      
+            let pm = <VotsMenuParent>{};  //Compose Hierarchical Object
             pm.ParentMenuId = mnu.parentMenuId;
             pm.ParentMenuLabel = mnu.parentMenuLabel;
             pm.MenuItems = parentWithChild;
