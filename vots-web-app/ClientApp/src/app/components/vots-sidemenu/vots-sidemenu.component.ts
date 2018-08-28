@@ -2,10 +2,11 @@ import { Component, OnInit } from '@angular/core';
 import { DataService } from '../../services/data-service/data.service';
 import { VotsMenu, VotsMenuItem, MenuItems, VotsMenuParent } from '../../models/MenuModels';
 import { Observable } from 'rxjs';
+import 'rxjs/add/observable/of';
 import { List } from 'linqts';
 import { MatInputModule } from '@angular/material/input';
 import { MatAccordion, MatExpansionPanel, MatExpansionPanelHeader,MatInput } from '@angular/material';
-import { from, of} from 'rxjs';
+import { from} from 'rxjs';
 import { map } from 'rxjs/operators';
 
 @Component({
@@ -15,16 +16,18 @@ import { map } from 'rxjs/operators';
 })
 export class VotsSidemenuComponent implements OnInit {
 
-  //menu: Observable<VotsMenuItem[]>;
+  flatMenu: VotsMenuItem[];
  
   parentMenu : VotsMenuParent[] ;
 
   constructor(public dataService: DataService) { }
 
   ngOnInit() {
-
-    this.GetVotsSideMenu().subscribe(menuTree => {
-      this.parentMenu = menuTree;
+    this.dataService.GetVotsMenu().subscribe(_flatMenu => {
+      this.flatMenu = _flatMenu;
+      this.GetVotsSideMenu(Observable.of(this.flatMenu)).subscribe(menuTree => {
+        this.parentMenu = menuTree;
+      });
     });
   }
 
@@ -33,11 +36,10 @@ export class VotsSidemenuComponent implements OnInit {
   }
 
   //Returning as Observable
-  GetVotsSideMenu():  Observable<VotsMenuParent[]>
+  GetVotsSideMenu(flatMenu: Observable<VotsMenuItem[]>):  Observable<VotsMenuParent[]>
   {
    // return this.dataService.GetVotsMenu()
-    return this.dataService.GetVotsMenu()
-      .pipe
+    return flatMenu.pipe
       (
       map
         (
