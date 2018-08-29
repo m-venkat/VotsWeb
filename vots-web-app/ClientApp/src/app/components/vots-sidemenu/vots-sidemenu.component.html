@@ -1,4 +1,4 @@
-<div style="padding:15px;background-color:#dcdcdc;">
+<div style="padding:15px;background-color:#dcdcdc;min-width:340px;height:100vh">
   <mat-form-field class="example-form-field" style="width:100%;padding-bottom:20px">
     <input matInput type="text" style="width:100%;"
            [(ngModel)]="currentlyFilteredMenu"
@@ -6,7 +6,7 @@
            autocomplete="off" />
     <mat-hint align="start"><strong>Type here to search the menu</strong></mat-hint>
   </mat-form-field>
-  <mat-expansion-panel *ngFor="let item of parentMenu | async ">
+  <mat-expansion-panel *ngFor="let item of parentMenu | async " >
     <mat-expansion-panel-header expandedHeight="40px" collapsedHeight="40px">
       {{item.ParentMenuLabel}}
     </mat-expansion-panel-header>
