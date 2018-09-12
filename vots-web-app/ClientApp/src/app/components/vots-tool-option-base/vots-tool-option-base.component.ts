@@ -11,7 +11,7 @@ export class VotsToolOptionBaseComponent implements OnInit {
 
   @Input('CurrentToolBar') public CurrentToolBar: ToolBarOptions;
   @Input('Visible') public Visible = true;
-  constructor(private sideNavService: SideNavService) { }
+  constructor(public sideNavService: SideNavService) { }
 
 
   ngOnInit() {
