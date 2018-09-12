@@ -27,10 +27,10 @@ export class AppComponent implements OnInit, AfterViewInit {
   public constructor(private cd: ChangeDetectorRef,
     public sideNavService: SideNavService) {
 
-    this.saveanddeleteTBO.CanSave = true;
-    this.saveanddeleteTBO.CanDelete = true;
-    this.newandexecuteTBO.CanNew = true;
-    this.newandexecuteTBO.CanExecute = true;
+    //this.saveanddeleteTBO.CanSave = true;
+    //this.saveanddeleteTBO.CanDelete = true;
+    //this.newandexecuteTBO.CanNew = true;
+    //this.newandexecuteTBO.CanExecute = true;
 
 
     console.log('inside constructor...');
@@ -41,18 +41,18 @@ export class AppComponent implements OnInit, AfterViewInit {
   /*End Fix ng build --prod error*/
 
   @ViewChild('sidenav') public sidenav: MatSidenav;
-  @ViewChild('sidenavtogglebutton') public sidenavtogglebutton: ElementRef;
-  @ViewChild('matcheckbox') public cbox: MatCheckbox;
-  @ViewChild('searchBarPanelOpener') public searchBarPanelOpener: MatCheckbox;
+  //@ViewChild('sidenavtogglebutton') public sidenavtogglebutton: ElementRef;
+  //@ViewChild('matcheckbox') public cbox: MatCheckbox;
+  //@ViewChild('searchBarPanelOpener') public searchBarPanelOpener: MatCheckbox;
   public events: string[] = [''];
-  @ViewChild('saveanddelete') saveanddelete: VotsToolOptionComponent;
-  @ViewChild('newandexecute') newandexecute: VotsToolOptionComponent;
-  saveanddeletecaption = 'Save and Delete';
-  newandexecutecaption = 'New and Execute';
-  public saveanddeleteTBO: ToolBarOptions = new ToolBarOptions();
-  public newandexecuteTBO: ToolBarOptions = new ToolBarOptions();
+  //@ViewChild('saveanddelete') saveanddelete: VotsToolOptionComponent;
+  //@ViewChild('newandexecute') newandexecute: VotsToolOptionComponent;
+  //saveanddeletecaption = 'Save and Delete';
+  //newandexecutecaption = 'New and Execute';
+  //public saveanddeleteTBO: ToolBarOptions = new ToolBarOptions();
+  //public newandexecuteTBO: ToolBarOptions = new ToolBarOptions();
   
-  VotsToolOptionComponent;
+  //VotsToolOptionComponent;
   shouldRun = true;
 
   public ngOnInit() {
@@ -67,8 +67,8 @@ export class AppComponent implements OnInit, AfterViewInit {
 
   ngAfterViewInit() {
     console.log('inside ngAfterViewInit...');
-    this.saveanddelete.SetCurrentToolBar();
-    this.newandexecute.SetCurrentToolBar();
+    //this.saveanddelete.SetCurrentToolBar();
+    //this.newandexecute.SetCurrentToolBar();
     this.cd.detectChanges();        // To avoid the change detection errors
   }
 
