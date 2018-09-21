@@ -34,19 +34,38 @@
           <split direction="horizontal" useTransition="true" gutterSize="7" gutterColor="#efeff2">
             <split-area size="70" >
                 <split direction="vertical" useTransition="true" gutterSize="7" gutterColor="#efeff2">
-                  <split-area size="70" >
-                    <div id="tabParentContainer" style="width:100%;">
-                      <!--<app-vots-tool-option [(Visible)]="matcheckbox.checked" #saveanddelete ButtonCaption="SAVE & DELETE" [(CurrentToolBar)]="saveanddeleteTBO"></app-vots-tool-option>
-                      <app-vots-tool-option [(Visible)]="!matcheckbox.checked" #newandexecute ButtonCaption="New and Execute" [(CurrentToolBar)]="newandexecuteTBO"></app-vots-tool-option>
-                      <p><mat-checkbox #matcheckbox [(ngModel)]="opened" (change)="toggleChange($event)">sidenav.opened</mat-checkbox></p>
-                      <p><button id="sidenavtogglebutton" class="sidenavtogglebutton" #sidenavtogglebutton (click)="ToggleNavMenu()">sidenav.toggle() clickhere</button></p>
-                      <p><button mat-button (click)="sidenav.toggle()">sidenav.toggle()</button></p>
-                      <p><mat-checkbox #searchBarPanelOpener [(ngModel)]="searchBar">Show Search Panel</mat-checkbox></p>
-                      <p>Events:</p>
-                      <div class="example-events">
-                        <div *ngFor="let e of events">{{e}}</div>
-                      </div> -->
-                    </div>
+                  <split-area size="70" >               
+                      <div id="tabParentContainer" style="height:100vh;width:100%;background-color:#dcdcdc;white-space:nowrap">
+                        <ul id="tabs">
+                          <li><a href="#" name="tab1">One</a></li>
+                          <li><a href="#" name="tab2">Two</a></li>
+                          <li><a href="#" name="tab3">Three</a></li>
+                          <li><a href="#" name="tab4">Four</a></li>
+                          <li><a href="#" name="tab1">One</a></li>
+                          <li><a href="#" name="tab2">Two</a></li>
+                          <li><a href="#" name="tab3">Three</a></li>
+                          <li><a href="#" name="tab4">Four</a></li>
+                          <li><a href="#" name="tab1">One</a></li>
+                          <li><a href="#" name="tab2">Two</a></li>
+                          <li><a href="#" name="tab3">Three</a></li>
+                          <li><a href="#" name="tab4">Four</a></li>
+                          <li><a href="#" name="tab1">One</a></li>
+                          <li><a href="#" name="tab2">Two</a></li>
+                          <li><a href="#" name="tab3">Three</a></li>
+                          <li><a href="#" name="tab4">Four</a></li>
+                          <li><a href="#" name="tab1">One</a></li>
+                          <li><a href="#" name="tab2">Two</a></li>
+                          <li><a href="#" name="tab3">Three</a></li>
+                          <li><a href="#" name="tab4">Four</a></li>
+                        </ul>
+
+                        <div id="content">
+                          <div id="tab1">...</div>
+                          <div id="tab2">...</div>
+                          <div id="tab3">...</div>
+                          <div id="tab4">...</div>
+                        </div>
+                      </div>
                   </split-area>
                     <split-area size="30" >
                       <p>Notification Area</p>

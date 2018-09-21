@@ -47,3 +47,10 @@ ul, li {
 mat-hint {
   font-size: 12px;
 }
+
+.sideMenuBackground {
+  padding: 15px;
+  background-color: #dcdcdc;
+  min-width: 340px;
+  height: 100vh;
+}

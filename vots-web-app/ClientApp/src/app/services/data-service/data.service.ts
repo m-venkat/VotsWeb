@@ -18,11 +18,11 @@ export class DataService {
   };
 
   constructor(private httpClient: HttpClient) {
-      this.baseUrl = environment.baseUrl;
+      
    }
 
   GetVotsMenu(): Observable<VotsMenuItem[]> {
-    return this.httpClient.get<VotsMenuItem[]>(this.baseUrl + 'assets/json/MenuData.json', this.httpOptions);
+    return this.httpClient.get<VotsMenuItem[]>('http://'+window.location.host + '/assets/json/MenuData.json', this.httpOptions);
   }
 
 
