@@ -7,6 +7,7 @@ import { List } from 'linqts';
 import { MatInputModule } from '@angular/material/input';
 import { MatAccordion, MatExpansionPanel, MatExpansionPanelHeader,MatInput, MatAutocomplete } from '@angular/material';
 import { map, debounceTime, filter, concatMap, scan, switchMap } from 'rxjs/operators';
+import { OrchestrationService } from '../../services/orchestration-service/orchestration.service';
 
 @Component({
   selector: 'app-vots-sidemenu',
@@ -19,7 +20,10 @@ export class VotsSidemenuComponent implements OnInit {
   currentlyFilteredMenu: string = "";
   parentMenu : Observable<VotsMenuParent[]>;
 
-  constructor(public dataService: DataService) { }
+  constructor(
+    public dataService: DataService,
+    public orchestrationService: OrchestrationService
+  ) { }
   /*
     Many new learning
     Observable.of vs for   (for emulates as individual Item), or projects as a single array
@@ -46,19 +50,7 @@ export class VotsSidemenuComponent implements OnInit {
     console.log('flm is ', flm);
     //flm.subscribe(sub => { console.log('Filtered :',sub) });
     this.parentMenu = this.GetVotsSideMenu(this.currentlyFilteredMenu == "" ? Observable.of(this.flatMenu) : flm);
-    //if (this.currentlyFilteredMenu == "") {
-     
-    //}
-    //else {
-    //}
-
-    //this.GetVotsSideMenu(flm).subscribe(menuTree => {  
-    //  console.log('menuTree', menuTree);
-    //  if(menuTree != undefined && menuTree.length > 0)
-    //    this.parentMenu = menuTree;
-
-    //});
-
+  
   }
 
   ngOnInit() {
@@ -72,7 +64,7 @@ export class VotsSidemenuComponent implements OnInit {
   }
 
   SideMenuSelected(selectedMenu: VotsMenuItem): void {
-    alert("Selected.."+JSON.stringify(selectedMenu));
+    this.orchestrationService.OnMenuSelected(selectedMenu);
   }
 
   //Returning as Observable
@@ -109,37 +101,5 @@ export class VotsSidemenuComponent implements OnInit {
       //});
   }
   
-  /*
-  // Returning it as Just Array and not as Observable
-  GetVotsSideMenu(): void {
-    this.dataService.GetVotsMenu().subscribe(data => {
-      let menu: VotsMenuItem[];
-      menu = data;
-      let parentMenus = menu.map(item => ({ parentMenuId: item.ParentMenuId, parentMenuLabel: item.ParentMenuLabel }))
-        .filter((thing, index, self) =>
-          index === self.findIndex((t) => (
-            t.parentMenuId === thing.parentMenuId && t.parentMenuLabel === thing.parentMenuLabel
-          ))
-        );       
-
-       parentMenus.forEach(mnu => {
-        let parentWithChild = menu.filter(item => item.ParentMenuId == mnu.parentMenuId)
-          .filter((thing, index, self) =>
-            index === self.findIndex((t) => (
-              t.ChildMenuId === thing.ChildMenuId && t.ParentMenuId === thing.ParentMenuId
-            ))
-          )
-        let pm = <VotsMenuParent>{};
-        pm.ParentMenuId = mnu.parentMenuId;
-        pm.ParentMenuLabel = mnu.parentMenuLabel;
-        pm.MenuItems = parentWithChild;
-        this.parentMenu.push(pm);
-      });
-
-      console.log(this.parentMenu);
-      
-       },
-       error => { }
-     );
-  }*/
+  
 }
