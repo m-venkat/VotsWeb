@@ -1,0 +1,56 @@
+/*mat-expansion-panel{
+  border:2px solid red;
+}
+mat-expansion-panel-header {
+  border: 2px solid green;
+  height:10px; 
+     padding: 20px;
+    margin: 20px;
+}
+
+*/
+@import url('https://fonts.googleapis.com/css?family=Abel');
+@import url('https://fonts.googleapis.com/css?family=Milonga');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+mat-expansion-panel-header {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 15px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left:15px;
+}
+ul {
+  list-style-type: none;
+  padding-left: 15px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+ul, li {
+  padding-left: 5px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  text-decoration: none;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 15px;
+}
+
+  li:hover {
+    -webkit-box-shadow: inset 1px 0 0 #dadce0, inset -1px 0 0 #dadce0, 0 1px 2px 0 rgba(60,64,67,.3), 0 1px 3px 1px rgba(60,64,67,.15);
+    box-shadow: inset 1px 0 0 #dadce0, inset -1px 0 0 #dadce0, 0 1px 2px 0 rgba(60,64,67,.3), 0 1px 3px 1px rgba(60,64,67,.15);
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Roboto Condensed', sans-serif;
+    cursor: grab;
+    background-color: darkslategray;
+    color: white;
+  }
+mat-hint {
+  font-size: 12px;
+}
+
+.sideMenuBackground {
+  padding: 15px;
+  background-color: #dcdcdc;
+  min-width: 340px;
+  height: 100vh;
+}

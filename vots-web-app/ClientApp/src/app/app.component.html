@@ -23,9 +23,7 @@
   <div id="sidNavContainer" class="row row-eq-height" style="padding-top:1px">
     <mat-sidenav-container class="sidenavContainer">
       <mat-sidenav class="sidenav"
-                   #sidenav mode="side"
-                   (opened)="this.events.push('Opened Here');"
-                   (closed)="this.events.push('Closed Here');">
+                   #sidenav mode="side"  >
         <app-vots-sidemenu></app-vots-sidemenu> 
       </mat-sidenav>
         <mat-sidenav-content class="sidnavcontent">
@@ -34,27 +32,16 @@
           <split direction="horizontal" useTransition="true" gutterSize="7" gutterColor="#efeff2">
             <split-area size="70" >
                 <split direction="vertical" useTransition="true" gutterSize="7" gutterColor="#efeff2">
-                  <split-area size="70" >
-                    <div id="tabParentContainer" style="width:100%;">
-                      <app-vots-tool-option [(Visible)]="matcheckbox.checked" #saveanddelete ButtonCaption="SAVE & DELETE" [(CurrentToolBar)]="saveanddeleteTBO"></app-vots-tool-option>
-                      <app-vots-tool-option [(Visible)]="!matcheckbox.checked" #newandexecute ButtonCaption="New and Execute" [(CurrentToolBar)]="newandexecuteTBO"></app-vots-tool-option>
-                      <p><mat-checkbox #matcheckbox [(ngModel)]="opened" (change)="toggleChange($event)">sidenav.opened</mat-checkbox></p>
-                      <p><button id="sidenavtogglebutton" class="sidenavtogglebutton" #sidenavtogglebutton (click)="ToggleNavMenu()">sidenav.toggle() clickhere</button></p>
-                      <p><button mat-button (click)="sidenav.toggle()">sidenav.toggle()</button></p>
-                      <p><mat-checkbox #searchBarPanelOpener [(ngModel)]="searchBar">Show Search Panel</mat-checkbox></p>
-                      <p>Events:</p>
-                      <div class="example-events">
-                        <div *ngFor="let e of events">{{e}}</div>
-                      </div>                     
-                    </div>                    
+                  <split-area size="70">
+                    <app-tabstrip-container></app-tabstrip-container>
                   </split-area>
-                    <split-area size="30">
-                      <p>Search Area</p>
+                    <split-area size="30" >
+                      <p>Notification Area</p>
                     </split-area>
                 </split>
             </split-area>
             <split-area size="30" [visible]="searchBar" >
-              <p>#Notification</p>
+              <p>#Search Area</p>
             </split-area>
           </split>  
         </div>

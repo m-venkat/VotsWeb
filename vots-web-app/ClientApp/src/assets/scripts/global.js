@@ -15,10 +15,6 @@ function resizeContainer() {
     console.log(expectedMainPanelHeight + "|" + windowHeight + " |" + toolbarHeight + " | " + footerHeight + "| "+ headerHeight);
     
 }
-$(window).on('load', resizeContainer)
+$(window).on('load', resizeContainer);
 
 $(window).resize(resizeContainer);
-
-
-
-

@@ -49,6 +49,7 @@ import {
 import { VotsToolOptionComponent } from './components/vots-tool-option/vots-tool-option.component';
 import { VotsToolOptionBaseComponent } from './components/vots-tool-option-base/vots-tool-option-base.component';
 import { VotsSidemenuComponent } from './components/vots-sidemenu/vots-sidemenu.component';
+import { TabstripContainerComponent } from './components/tabstrip-container/tabstrip-container.component';
 
 @NgModule({
   declarations: [
@@ -57,6 +58,7 @@ import { VotsSidemenuComponent } from './components/vots-sidemenu/vots-sidemenu.
     VotsToolOptionComponent,
     VotsToolOptionBaseComponent,
     VotsSidemenuComponent,
+    TabstripContainerComponent,
   ],
   exports: [
     BrowserAnimationsModule,

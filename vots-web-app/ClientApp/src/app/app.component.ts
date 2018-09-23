@@ -9,7 +9,6 @@ import {
   ChangeDetectorRef
 } from '@angular/core';
 
-import { SlimScroll } from 'angular-io-slimscroll';
 import { MatSidenav, MatButton, MatCheckbox, MatSidenavContainer } from '@angular/material';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { SideNavService } from './services/navigation-service/navigation.service';
@@ -26,29 +25,34 @@ import { AngularSplitModule } from 'angular-split';
 })
 export class AppComponent implements OnInit, AfterViewInit {
   public constructor(private cd: ChangeDetectorRef,
-    private sideNavService: SideNavService) {
+    public sideNavService: SideNavService) {
 
-    this.saveanddeleteTBO.CanSave = true;
-    this.saveanddeleteTBO.CanDelete = true;
-    this.newandexecuteTBO.CanNew = true;
-    this.newandexecuteTBO.CanExecute = true;
+    //this.saveanddeleteTBO.CanSave = true;
+    //this.saveanddeleteTBO.CanDelete = true;
+    //this.newandexecuteTBO.CanNew = true;
+    //this.newandexecuteTBO.CanExecute = true;
 
 
     console.log('inside constructor...');
   }
   title = 'app';
+  /*Fix ng build --prod error*/
+  public searchBar: boolean; public opened: boolean;
+  /*End Fix ng build --prod error*/
+
   @ViewChild('sidenav') public sidenav: MatSidenav;
-  @ViewChild('sidenavtogglebutton') public sidenavtogglebutton: ElementRef;
-  @ViewChild('matcheckbox') public cbox: MatCheckbox;
-  @ViewChild('searchBarPanelOpener') public searchBarPanelOpener: MatCheckbox;
-  private events: string[] = [''];
-  @ViewChild('saveanddelete') saveanddelete: VotsToolOptionComponent;
-  @ViewChild('newandexecute') newandexecute: VotsToolOptionComponent;
-  saveanddeletecaption = 'Save and Delete';
-  newandexecutecaption = 'New and Execute';
-  public saveanddeleteTBO: ToolBarOptions = new ToolBarOptions();
-  public newandexecuteTBO: ToolBarOptions = new ToolBarOptions();
-  VotsToolOptionComponent;
+  //@ViewChild('sidenavtogglebutton') public sidenavtogglebutton: ElementRef;
+  //@ViewChild('matcheckbox') public cbox: MatCheckbox;
+  //@ViewChild('searchBarPanelOpener') public searchBarPanelOpener: MatCheckbox;
+  public events: string[] = [''];
+  //@ViewChild('saveanddelete') saveanddelete: VotsToolOptionComponent;
+  //@ViewChild('newandexecute') newandexecute: VotsToolOptionComponent;
+  //saveanddeletecaption = 'Save and Delete';
+  //newandexecutecaption = 'New and Execute';
+  //public saveanddeleteTBO: ToolBarOptions = new ToolBarOptions();
+  //public newandexecuteTBO: ToolBarOptions = new ToolBarOptions();
+  
+  //VotsToolOptionComponent;
   shouldRun = true;
 
   public ngOnInit() {
@@ -63,8 +67,8 @@ export class AppComponent implements OnInit, AfterViewInit {
 
   ngAfterViewInit() {
     console.log('inside ngAfterViewInit...');
-    this.saveanddelete.SetCurrentToolBar();
-    this.newandexecute.SetCurrentToolBar();
+    //this.saveanddelete.SetCurrentToolBar();
+    //this.newandexecute.SetCurrentToolBar();
     this.cd.detectChanges();        // To avoid the change detection errors
   }
 
@@ -72,7 +76,7 @@ export class AppComponent implements OnInit, AfterViewInit {
     console.log('ToggleNavMenu Called');
   }
 
-  ToggleFullScreen(event: any) {
+  ToggleFullScreen() {
     this.LaunchFullScreen();
   }
 

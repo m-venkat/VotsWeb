@@ -64,6 +64,7 @@ html, body {
   padding-top: 0px;
   display: flex;
   height: 100%;
+  min-width:340px;
   border-right: 1px #808080 solid;
   background-color: #f5f1f1;
   /*margin-top:0px;
@@ -84,3 +85,5 @@ html, body {
   width: 100%;
   background-color: beige;
 }
+
+

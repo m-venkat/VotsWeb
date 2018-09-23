@@ -1,0 +1,29 @@
+<div id="tabParentContainer" style="height:100vh;width:100%;background-color:#dcdcdc;white-space:nowrap;" *ngIf="SelectedMenusAsTab.length > 0">
+  <table border="0" style="width:100%;border-collapse:collapse">
+    <tr>
+      <td>
+        <ul id="tabs">
+          <li *ngFor="let childMenu of this.SelectedMenusAsTab">
+            <a href="#" onclick="return false;" [title]="childMenu.ChildMenuLabel">{{childMenu.ChildMenuLabel}}</a>
+          </li>       
+        </ul>
+      </td>
+      <td>
+        <div class="btn-group" style="padding-right:10px;padding-top:10px;float:right">
+          <button type="button" class="btn btn-secondary btn-sm dropdown-toggle" style="width:25px;height:25px;" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></button>
+          <div class="dropdown-menu dropdown-menu-right">
+            <a class="dropdown-item" onclick="return false;" href="#" *ngFor="let childMenu of this.SelectedMenusAsTab" [title]="childMenu.ChildMenuLabel">{{childMenu.ChildMenuLabel}}</a>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <div id="content">
+         
+        </div>
+      </td>
+    </tr>
+  </table>
+  
+</div>
