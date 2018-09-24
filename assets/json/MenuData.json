@@ -1,0 +1,4430 @@
+[
+  {
+    "ParentMenuId": "aa085ccc-643d-48f6-9ecc-aac60d67a47c",
+    "ParentMenuLabel": "1 LV Registration Enquires",
+    "ChildMenuId": "eeced558-a925-4b0f-946f-806c7370d3f0",
+    "ChildMenuLabel": "Electronic Dealings WorkIn Progr Enq"
+  },
+  {
+    "ParentMenuId": "aa085ccc-643d-48f6-9ecc-aac60d67a47c",
+    "ParentMenuLabel": "1 LV Registration Enquires",
+    "ChildMenuId": "2c75e75d-02f3-4f6d-b999-2d2827fddf7d",
+    "ChildMenuLabel": "Customer Transaction Enquiry"
+  },
+  {
+    "ParentMenuId": "aa085ccc-643d-48f6-9ecc-aac60d67a47c",
+    "ParentMenuLabel": "1 LV Registration Enquires",
+    "ChildMenuId": "aa875bf8-9d50-45eb-911d-063e151171f4",
+    "ChildMenuLabel": "Dealing Enquiry"
+  },
+  {
+    "ParentMenuId": "aa085ccc-643d-48f6-9ecc-aac60d67a47c",
+    "ParentMenuLabel": "1 LV Registration Enquires",
+    "ChildMenuId": "5f12dc87-2c40-4f20-a4ef-87b15c6f45e4",
+    "ChildMenuLabel": "Dealings on a Folio Enquiry"
+  },
+  {
+    "ParentMenuId": "aa085ccc-643d-48f6-9ecc-aac60d67a47c",
+    "ParentMenuLabel": "1 LV Registration Enquires",
+    "ChildMenuId": "4af16c7b-3bc5-4b26-a66d-c4e3f8bbce83",
+    "ChildMenuLabel": "Electronic Dealing Queue Enquiry"
+  },
+  {
+    "ParentMenuId": "aa085ccc-643d-48f6-9ecc-aac60d67a47c",
+    "ParentMenuLabel": "1 LV Registration Enquires",
+    "ChildMenuId": "d149c26d-56f4-48c4-8c9b-cdc4ac9aef28",
+    "ChildMenuLabel": "Electronic Instrument Enquiry"
+  },
+  {
+    "ParentMenuId": "aa085ccc-643d-48f6-9ecc-aac60d67a47c",
+    "ParentMenuLabel": "1 LV Registration Enquires",
+    "ChildMenuId": "cb180004-2fee-46d3-b6e5-bd883f867037",
+    "ChildMenuLabel": "Folio Enquiry"
+  },
+  {
+    "ParentMenuId": "aa085ccc-643d-48f6-9ecc-aac60d67a47c",
+    "ParentMenuLabel": "1 LV Registration Enquires",
+    "ChildMenuId": "b2d58129-58b2-42c0-b3f0-06a30ceb628e",
+    "ChildMenuLabel": "Folio History Enquiry"
+  },
+  {
+    "ParentMenuId": "aa085ccc-643d-48f6-9ecc-aac60d67a47c",
+    "ParentMenuLabel": "1 LV Registration Enquires",
+    "ChildMenuId": "59d28093-5af5-41cf-9d3a-2707af0e2d0b",
+    "ChildMenuLabel": "Follow Through Enquiry"
+  },
+  {
+    "ParentMenuId": "aa085ccc-643d-48f6-9ecc-aac60d67a47c",
+    "ParentMenuLabel": "1 LV Registration Enquires",
+    "ChildMenuId": "a30c3baf-5dbf-4708-9d55-5883bd4e2fd0",
+    "ChildMenuLabel": "Lodgement Progress Enquiry"
+  },
+  {
+    "ParentMenuId": "aa085ccc-643d-48f6-9ecc-aac60d67a47c",
+    "ParentMenuLabel": "1 LV Registration Enquires",
+    "ChildMenuId": "3b7d1c65-b993-4468-94aa-b24bb43a4153",
+    "ChildMenuLabel": "Owners Corporation Enquiry"
+  },
+  {
+    "ParentMenuId": "aa085ccc-643d-48f6-9ecc-aac60d67a47c",
+    "ParentMenuLabel": "1 LV Registration Enquires",
+    "ChildMenuId": "af3fef6a-86e4-44a6-bbe9-d106615b76d7",
+    "ChildMenuLabel": "Owners Corporation Preview Enquiry"
+  },
+  {
+    "ParentMenuId": "aa085ccc-643d-48f6-9ecc-aac60d67a47c",
+    "ParentMenuLabel": "1 LV Registration Enquires",
+    "ChildMenuId": "6a7d4840-6c55-4f43-af7c-57ae329d2a50",
+    "ChildMenuLabel": "Pending Registration Enquiry"
+  },
+  {
+    "ParentMenuId": "aa085ccc-643d-48f6-9ecc-aac60d67a47c",
+    "ParentMenuLabel": "1 LV Registration Enquires",
+    "ChildMenuId": "8709c815-9da8-4d1c-84b3-27320dca8486",
+    "ChildMenuLabel": "Pre Lodgement Enquiry"
+  },
+  {
+    "ParentMenuId": "aa085ccc-643d-48f6-9ecc-aac60d67a47c",
+    "ParentMenuLabel": "1 LV Registration Enquires",
+    "ChildMenuId": "85c44696-4940-4b03-88f3-bfccb20f5178",
+    "ChildMenuLabel": "Print Dealing Label"
+  },
+  {
+    "ParentMenuId": "aa085ccc-643d-48f6-9ecc-aac60d67a47c",
+    "ParentMenuLabel": "1 LV Registration Enquires",
+    "ChildMenuId": "44087ad2-6b09-4e2c-bf1a-d477cab2ef9c",
+    "ChildMenuLabel": "Refused Dealing Enquiry"
+  },
+  {
+    "ParentMenuId": "aa085ccc-643d-48f6-9ecc-aac60d67a47c",
+    "ParentMenuLabel": "1 LV Registration Enquires",
+    "ChildMenuId": "b973b1b6-74e5-4297-9919-91fb827d8c45",
+    "ChildMenuLabel": "Unregistered Dealing Enquiry"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "7e470811-d674-4994-b6d5-3db4dda8c5a1",
+    "ChildMenuLabel": "View Historical Print Files"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "daec7d1a-62ea-0c88-e044-0003bab03ed6",
+    "ChildMenuLabel": "Cash Drawer Transaction Report"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "1e41fac4-57bf-2df8-e054-0003bab01c82",
+    "ChildMenuLabel": "Add Nomination of pCT"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "1e41fac4-57c9-2df8-e054-0003bab01c82",
+    "ChildMenuLabel": "Withdraw a Nominated pCT"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "2fdc8d7c-7af8-13f8-e054-0003bab01c82",
+    "ChildMenuLabel": "Allocate Allotment Numbers"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "9d6b047b-f4bf-25e1-e040-007f01002b47",
+    "ChildMenuLabel": "Affected Current Proprietors Maint."
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "9d75c9c5-88d9-20a1-e040-007f01003026",
+    "ChildMenuLabel": "Affected Encumbrance Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "482f42f0-5fa6-461d-854e-e269034e74e1",
+    "ChildMenuLabel": "Affected Land Parcel Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "bf149b30-ff1f-4241-839f-14f5af18783b",
+    "ChildMenuLabel": "Allocate Numbers"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "48e8a8e2-e42c-4478-9727-afd53ef372ff",
+    "ChildMenuLabel": "ALTS Dealing History Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "96f498d7-3715-4238-93bf-f7d5c97c5071",
+    "ChildMenuLabel": "As to Part Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "f5a1e4ce-fe97-4c58-9191-c48b5a958dda",
+    "ChildMenuLabel": "Bank Deposit Slip"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "4e449086-5c40-43ea-ac33-96d1864fde1c",
+    "ChildMenuLabel": "Bar/Debar Case Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "6e3da73c-e116-4bb3-affe-c5c56d7880c9",
+    "ChildMenuLabel": "Bar/Debar Folio Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "01124392-ba9b-4cee-9572-3d18dccc4406",
+    "ChildMenuLabel": "Case Location Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "9df00e5c-e0fb-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Case Creation"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "81424597-4665-4124-b462-9f70804664b9",
+    "ChildMenuLabel": "Case Management"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "168a8d12-5a71-4d2d-b2c8-d36b9c21544a",
+    "ChildMenuLabel": "Case Registration"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "8e227686-cc5c-9fda-e040-007f01005535",
+    "ChildMenuLabel": "Cash Drawer Assignment Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "8e227686-cc55-9fda-e040-007f01005535",
+    "ChildMenuLabel": "Cash Drawer Balance Adjustment"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "8d5d9d88-d565-f491-e040-007f010009de",
+    "ChildMenuLabel": "Cash Drawer Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "7d9156ad-cc40-4127-b58f-913c78cc8d92",
+    "ChildMenuLabel": "Certificate of Title Reprint"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "75f141e9-5ebf-4332-8825-2c59228ca00b",
+    "ChildMenuLabel": "Change Dealing Type Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "6fce3ca3-6a44-4023-958b-e5ee56cc0565",
+    "ChildMenuLabel": "CofT Batch Print Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "9f979227-abe0-497e-9e62-e11548a5b0bc",
+    "ChildMenuLabel": "Completed OCR Lodgements"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "83d94b0c-4d2c-46c6-955d-2f000801a565",
+    "ChildMenuLabel": "Crown Desc. Range Group Maint."
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "8e101db7-5100-b712-e040-007f0100024d",
+    "ChildMenuLabel": "Customer Credit Limit Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "33421428-5a51-43c5-b4f5-938378d39e62",
+    "ChildMenuLabel": "Customer Direct Debit Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "e0bda49e-5e0e-4c51-9da7-561197bbaa73",
+    "ChildMenuLabel": "Customer Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "420c9240-f961-43d1-b549-ab1da382ecbd",
+    "ChildMenuLabel": "Dealing Details Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "2b352998-a3ae-4d99-9b24-132410e8585e",
+    "ChildMenuLabel": "Dealing File Note Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "9ba79c8e-2e0e-6057-e040-007f01002294",
+    "ChildMenuLabel": "Dealing Refusal Advice"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "a12ff0c6-439f-4811-b548-b292403ee82f",
+    "ChildMenuLabel": "Dealing Secondary File Note Maint."
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "c9cb027c-37ce-41df-8a2a-839a24cfd37a",
+    "ChildMenuLabel": "EC Customer Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "674148ed-610b-4380-ab43-634e18165813",
+    "ChildMenuLabel": "eCT Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "9e10f2ed-e5c0-43d1-aec8-71d4f1a61127",
+    "ChildMenuLabel": "Electronic Dealing Registration"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "9df00e5c-e103-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Encum No Longer Affects Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "9df00e5c-e11b-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Encumbrance Party Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "9d75c9c5-88e1-20a1-e040-007f01003026",
+    "ChildMenuLabel": "Encumbrance Removal"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "c1ec2b8c-113d-027f-e044-002128c31ddb",
+    "ChildMenuLabel": "Examination Report"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "c1ec2b8c-113c-027f-e044-002128c31ddb",
+    "ChildMenuLabel": "Examination Report Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "9df00e5c-e139-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Folio Creation Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "ffc1ab20-49b2-4bb3-aead-eeeae42ee67b",
+    "ChildMenuLabel": "Folio Notation Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "9df00e5c-e131-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Folio Parentage Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "34da73e3-6e47-4b41-8731-ed3f93a94699",
+    "ChildMenuLabel": "Folio TID Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "9df00e5c-e149-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Free Format Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "9df00e5c-e141-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Interest Folio Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "9df00e5c-e12a-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Issue Details Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "92b137d7-353b-4cd8-94fb-27f295b3dc58",
+    "ChildMenuLabel": "Land Parcel Address Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "9df00e5c-e10b-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Land Parcel Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "9df00e5c-e0ec-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Lodgement Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "4cfca22a-274b-40e2-aaed-e67cef562ddf",
+    "ChildMenuLabel": "Lodgement Queue Tracking"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "4bfe4b84-bf60-43ad-b902-405e2f64b649",
+    "ChildMenuLabel": "Lot on Plan Range Group Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "cf54c4ae-4141-43bf-aa8f-ac7cbddbfa89",
+    "ChildMenuLabel": "Lot on TP Range Group Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "0693dba8-7c90-47a3-b132-b697a7a166c8",
+    "ChildMenuLabel": "New Folio Balance Land Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "e444dfb0-7529-4bf0-bb74-e2ff76f95de4",
+    "ChildMenuLabel": "New Folio Encumb. Aff. Prop. Maint."
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "674973c9-8f38-4416-86d9-6061c21127ec",
+    "ChildMenuLabel": "New Folio Encumbrance Creation"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "9896e952-0297-4e65-b902-c766c6fe088e",
+    "ChildMenuLabel": "New Folio Encumbrance Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "8002f0ec-2462-4834-b38f-74cb1cdbf1b2",
+    "ChildMenuLabel": "New Folio Exec/Admin/Trust Maint."
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "c70d88d5-6c27-4f68-9f30-035b0e3fa5ec",
+    "ChildMenuLabel": "New Folio Land Free Text Maint."
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "9af3dad1-ab8e-4e06-9202-313aca0e4891",
+    "ChildMenuLabel": "NewFolio Prop. GroupFree TextMaint."
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "80e0b379-f244-42fd-8499-e51ebbf1d322",
+    "ChildMenuLabel": "New Folio Proprietor Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "60e5de0e-b926-4dbb-b116-b8e3995ee430",
+    "ChildMenuLabel": "New Folio Setup"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "074f8e71-ff6a-4553-9743-ff99cd990799",
+    "ChildMenuLabel": "Notice Creation"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "034ccca0-f39d-4d0d-a986-b972e677b54c",
+    "ChildMenuLabel": "Notice Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "ddd963bf-2ac3-4b2b-b85f-848f7209fb60",
+    "ChildMenuLabel": "OCR Case Document Processing"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "d6e3c118-73bd-40aa-a8ef-71a7f3b2d328",
+    "ChildMenuLabel": "OCR Case Registration"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "914dd9ff-eb0c-97e7-e040-007f010025ea",
+    "ChildMenuLabel": "OCR Examination"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "41682523-6cbd-4bfa-bd44-099e4e08d4f4",
+    "ChildMenuLabel": "OCR Rescan Requests"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "9df00e5c-e0f4-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Officer Availability Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "170a3fd9-339a-4870-9a44-96645aced37f",
+    "ChildMenuLabel": "Owners Corporation Address Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "ff5636cb-985c-4554-99d8-40388e666f50",
+    "ChildMenuLabel": "Owners Corporation Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "4e06090c-ec2a-43b6-ad47-baea5dd64825",
+    "ChildMenuLabel": "Owners Corporation No Longer Affects"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "36b22d26-9ce5-4e24-8b5b-538cc696da56",
+    "ChildMenuLabel": "pCT to eCT Conversion"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "85c44696-4940-4b03-88f3-bfccb20f5178",
+    "ChildMenuLabel": "Print Dealing Label"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "9df00e5c-e113-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Proprietor Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "bf69b999-418d-4895-ad7b-3fd17d91c137",
+    "ChildMenuLabel": "Receipt Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "9df00e5c-e123-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Rectification Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "18a45feb-5a2d-4942-8e74-bf4b26ab1da4",
+    "ChildMenuLabel": "Refund Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "6eab157f-da1a-43fe-bd1d-af767738a798",
+    "ChildMenuLabel": "Registration Bar Folio Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "27461f01-19e0-4dc2-8a11-f7bd0a135b22",
+    "ChildMenuLabel": "Registration Preview"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "d8d7c3d3-4aa0-4449-95ba-3d5c50fd3071",
+    "ChildMenuLabel": "Unwanted CofT Notice Advice"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "687eb7d2-e18e-4922-bc61-6fab362a7775",
+    "ChildMenuLabel": "Variation of Priority Maintenance"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "526f547c-15da-4749-b965-3f92835d71f0",
+    "ChildMenuLabel": "Void Number Sales"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "80ee9bdc-479e-4095-8075-97da904694b5",
+    "ChildMenuLabel": "Void Receipt"
+  },
+  {
+    "ParentMenuId": "a3122093-ed42-4f28-a1e2-5a9d5d95a609",
+    "ParentMenuLabel": "2 LV Registration Officers",
+    "ChildMenuId": "69576dcb-df98-4834-b77a-764fe3552d2b",
+    "ChildMenuLabel": "Withdraw, Reject or Abandon Case"
+  },
+  {
+    "ParentMenuId": "92207545-3c5c-4b61-90f5-2af1c7f97318",
+    "ParentMenuLabel": "3 LV Reports",
+    "ChildMenuId": "1e41fac4-57c2-2df8-e054-0003bab01c82",
+    "ChildMenuLabel": "CT Nomination Report"
+  },
+  {
+    "ParentMenuId": "92207545-3c5c-4b61-90f5-2af1c7f97318",
+    "ParentMenuLabel": "3 LV Reports",
+    "ChildMenuId": "9ba79c8e-2e15-6057-e040-007f01002294",
+    "ChildMenuLabel": "Outstanding Lodg. Payments Report"
+  },
+  {
+    "ParentMenuId": "92207545-3c5c-4b61-90f5-2af1c7f97318",
+    "ParentMenuLabel": "3 LV Reports",
+    "ChildMenuId": "f945a02f-afed-4ea0-a67e-ae4f5b824564",
+    "ChildMenuLabel": "Cash Drawer Cheque Report"
+  },
+  {
+    "ParentMenuId": "92207545-3c5c-4b61-90f5-2af1c7f97318",
+    "ParentMenuLabel": "3 LV Reports",
+    "ChildMenuId": "25317d6d-b670-42c4-9cde-b475ea1f2dc2",
+    "ChildMenuLabel": "Dealing Productivity Report"
+  },
+  {
+    "ParentMenuId": "92207545-3c5c-4b61-90f5-2af1c7f97318",
+    "ParentMenuLabel": "3 LV Reports",
+    "ChildMenuId": "9ba79c8e-2e0e-6057-e040-007f01002294",
+    "ChildMenuLabel": "Dealing Refusal Advice"
+  },
+  {
+    "ParentMenuId": "92207545-3c5c-4b61-90f5-2af1c7f97318",
+    "ParentMenuLabel": "3 LV Reports",
+    "ChildMenuId": "e221611f-d7b9-440d-b6a7-093b75ef935a",
+    "ChildMenuLabel": "eCT Control Report"
+  },
+  {
+    "ParentMenuId": "92207545-3c5c-4b61-90f5-2af1c7f97318",
+    "ParentMenuLabel": "3 LV Reports",
+    "ChildMenuId": "a0dbe8e4-49c4-42db-bc6c-67cd8f724382",
+    "ChildMenuLabel": "Expired Notice Report"
+  },
+  {
+    "ParentMenuId": "92207545-3c5c-4b61-90f5-2af1c7f97318",
+    "ParentMenuLabel": "3 LV Reports",
+    "ChildMenuId": "9ba79c8e-2e24-6057-e040-007f01002294",
+    "ChildMenuLabel": "Issue Details Report"
+  },
+  {
+    "ParentMenuId": "92207545-3c5c-4b61-90f5-2af1c7f97318",
+    "ParentMenuLabel": "3 LV Reports",
+    "ChildMenuId": "da8789a7-3caf-48d5-850f-c97b20edfdaa",
+    "ChildMenuLabel": "Issue Report"
+  },
+  {
+    "ParentMenuId": "92207545-3c5c-4b61-90f5-2af1c7f97318",
+    "ParentMenuLabel": "3 LV Reports",
+    "ChildMenuId": "bb1c03a8-123f-43cf-9bb6-75caca978449",
+    "ChildMenuLabel": "Leader/Follower Report"
+  },
+  {
+    "ParentMenuId": "92207545-3c5c-4b61-90f5-2af1c7f97318",
+    "ParentMenuLabel": "3 LV Reports",
+    "ChildMenuId": "9ba79c8e-2e19-6057-e040-007f01002294",
+    "ChildMenuLabel": "Lodgement Summary Report"
+  },
+  {
+    "ParentMenuId": "92207545-3c5c-4b61-90f5-2af1c7f97318",
+    "ParentMenuLabel": "3 LV Reports",
+    "ChildMenuId": "2bb84529-dc76-4bcb-b0a5-445e23402dde",
+    "ChildMenuLabel": "OCR Lodgement Batch Archive Report"
+  },
+  {
+    "ParentMenuId": "92207545-3c5c-4b61-90f5-2af1c7f97318",
+    "ParentMenuLabel": "3 LV Reports",
+    "ChildMenuId": "9a731c83-b221-4ccf-9a16-b2a5320c06aa",
+    "ChildMenuLabel": "Rectification Dealing Report"
+  },
+  {
+    "ParentMenuId": "92207545-3c5c-4b61-90f5-2af1c7f97318",
+    "ParentMenuLabel": "3 LV Reports",
+    "ChildMenuId": "11ee62a1-b67b-4037-ab85-895106df455a",
+    "ChildMenuLabel": "Registration Notification Report"
+  },
+  {
+    "ParentMenuId": "92207545-3c5c-4b61-90f5-2af1c7f97318",
+    "ParentMenuLabel": "3 LV Reports",
+    "ChildMenuId": "d8d7c3d3-4aa0-4449-95ba-3d5c50fd3071",
+    "ChildMenuLabel": "Unwanted CofT Notice Advice"
+  },
+  {
+    "ParentMenuId": "79a9cd8d-78b6-4908-b1df-f7d1fc3d1db9",
+    "ParentMenuLabel": "4 LV Management Reports",
+    "ChildMenuId": "4868db3d-37ce-426f-af68-d75ecd0588a3",
+    "ChildMenuLabel": "Dealings YTD Financial Stat. Report"
+  },
+  {
+    "ParentMenuId": "79a9cd8d-78b6-4908-b1df-f7d1fc3d1db9",
+    "ParentMenuLabel": "4 LV Management Reports",
+    "ChildMenuId": "9ba79c8e-2e27-6057-e040-007f01002294",
+    "ChildMenuLabel": "Customer Daily Elect. Lodge. Report"
+  },
+  {
+    "ParentMenuId": "79a9cd8d-78b6-4908-b1df-f7d1fc3d1db9",
+    "ParentMenuLabel": "4 LV Management Reports",
+    "ChildMenuId": "daec7d1a-62ea-0c88-e044-0003bab03ed6",
+    "ChildMenuLabel": "Cash Drawer Transaction Report"
+  },
+  {
+    "ParentMenuId": "79a9cd8d-78b6-4908-b1df-f7d1fc3d1db9",
+    "ParentMenuLabel": "4 LV Management Reports",
+    "ChildMenuId": "72c5ac8c-6446-4a34-a1c4-a52120075c95",
+    "ChildMenuLabel": "Electronic Examination Reasons Rpt"
+  },
+  {
+    "ParentMenuId": "79a9cd8d-78b6-4908-b1df-f7d1fc3d1db9",
+    "ParentMenuLabel": "4 LV Management Reports",
+    "ChildMenuId": "8e212301-e174-4aa8-8379-8cdf163f4ed5",
+    "ChildMenuLabel": "Electronic Dealing Stats. Report"
+  },
+  {
+    "ParentMenuId": "79a9cd8d-78b6-4908-b1df-f7d1fc3d1db9",
+    "ParentMenuLabel": "4 LV Management Reports",
+    "ChildMenuId": "9a3b079f-26fd-405c-91cb-f61dcafbd438",
+    "ChildMenuLabel": "Audit Report"
+  },
+  {
+    "ParentMenuId": "79a9cd8d-78b6-4908-b1df-f7d1fc3d1db9",
+    "ParentMenuLabel": "4 LV Management Reports",
+    "ChildMenuId": "17036cce-78ba-48fe-b1d9-f5ab83db66e4",
+    "ChildMenuLabel": "Cash Drawer Balance Details Report"
+  },
+  {
+    "ParentMenuId": "79a9cd8d-78b6-4908-b1df-f7d1fc3d1db9",
+    "ParentMenuLabel": "4 LV Management Reports",
+    "ChildMenuId": "3edc5a79-861b-4121-a7bc-a5e45f381dbd",
+    "ChildMenuLabel": "Customer Extract"
+  },
+  {
+    "ParentMenuId": "79a9cd8d-78b6-4908-b1df-f7d1fc3d1db9",
+    "ParentMenuLabel": "4 LV Management Reports",
+    "ChildMenuId": "e205ee87-5c4e-4114-94ee-0c5a34c8166f",
+    "ChildMenuLabel": "Customer Lodgement Report"
+  },
+  {
+    "ParentMenuId": "79a9cd8d-78b6-4908-b1df-f7d1fc3d1db9",
+    "ParentMenuLabel": "4 LV Management Reports",
+    "ChildMenuId": "9ba79c8e-2e29-6057-e040-007f01002294",
+    "ChildMenuLabel": "Customer Outstanding Balance Report"
+  },
+  {
+    "ParentMenuId": "79a9cd8d-78b6-4908-b1df-f7d1fc3d1db9",
+    "ParentMenuLabel": "4 LV Management Reports",
+    "ChildMenuId": "0c48b046-ae70-4006-bc73-2b934e2ec916",
+    "ChildMenuLabel": "Dealing Combination Report"
+  },
+  {
+    "ParentMenuId": "79a9cd8d-78b6-4908-b1df-f7d1fc3d1db9",
+    "ParentMenuLabel": "4 LV Management Reports",
+    "ChildMenuId": "25317d6d-b670-42c4-9cde-b475ea1f2dc2",
+    "ChildMenuLabel": "Dealing Productivity Report"
+  },
+  {
+    "ParentMenuId": "79a9cd8d-78b6-4908-b1df-f7d1fc3d1db9",
+    "ParentMenuLabel": "4 LV Management Reports",
+    "ChildMenuId": "2b303365-87d6-454d-afcd-6c4c7f524cb4",
+    "ChildMenuLabel": "Dealing Statistics Report"
+  },
+  {
+    "ParentMenuId": "79a9cd8d-78b6-4908-b1df-f7d1fc3d1db9",
+    "ParentMenuLabel": "4 LV Management Reports",
+    "ChildMenuId": "b5dc6cb4-8f60-4cab-8360-d09fc32ba692",
+    "ChildMenuLabel": "E-Lodge Case Signature Report"
+  },
+  {
+    "ParentMenuId": "79a9cd8d-78b6-4908-b1df-f7d1fc3d1db9",
+    "ParentMenuLabel": "4 LV Management Reports",
+    "ChildMenuId": "a0dbe8e4-49c4-42db-bc6c-67cd8f724382",
+    "ChildMenuLabel": "Expired Notice Report"
+  },
+  {
+    "ParentMenuId": "79a9cd8d-78b6-4908-b1df-f7d1fc3d1db9",
+    "ParentMenuLabel": "4 LV Management Reports",
+    "ChildMenuId": "849126ab-68cb-474d-8bf7-b987e0a76f85",
+    "ChildMenuLabel": "Fee Variations Report"
+  },
+  {
+    "ParentMenuId": "79a9cd8d-78b6-4908-b1df-f7d1fc3d1db9",
+    "ParentMenuLabel": "4 LV Management Reports",
+    "ChildMenuId": "9ba79c8e-2e10-6057-e040-007f01002294",
+    "ChildMenuLabel": "Image Exception Report"
+  },
+  {
+    "ParentMenuId": "79a9cd8d-78b6-4908-b1df-f7d1fc3d1db9",
+    "ParentMenuLabel": "4 LV Management Reports",
+    "ChildMenuId": "1568fa5e-7e84-41cc-ba6d-10f755d82c97",
+    "ChildMenuLabel": "Leader/Follower Audit Report"
+  },
+  {
+    "ParentMenuId": "79a9cd8d-78b6-4908-b1df-f7d1fc3d1db9",
+    "ParentMenuLabel": "4 LV Management Reports",
+    "ChildMenuId": "88cb9689-b418-4369-9731-402179bec411",
+    "ChildMenuLabel": "Plan Certification Report"
+  },
+  {
+    "ParentMenuId": "79a9cd8d-78b6-4908-b1df-f7d1fc3d1db9",
+    "ParentMenuLabel": "4 LV Management Reports",
+    "ChildMenuId": "2b0812cb-1bbf-47de-82ba-549dcfad250d",
+    "ChildMenuLabel": "Productivity Report"
+  },
+  {
+    "ParentMenuId": "79a9cd8d-78b6-4908-b1df-f7d1fc3d1db9",
+    "ParentMenuLabel": "4 LV Management Reports",
+    "ChildMenuId": "f52b2b65-446a-4273-8522-5e9877575ebf",
+    "ChildMenuLabel": "Rectification Report"
+  },
+  {
+    "ParentMenuId": "79a9cd8d-78b6-4908-b1df-f7d1fc3d1db9",
+    "ParentMenuLabel": "4 LV Management Reports",
+    "ChildMenuId": "06f5a03f-df9e-4cb3-8cb1-1f9ed89bb58c",
+    "ChildMenuLabel": "Subdivision Service Standard Report"
+  },
+  {
+    "ParentMenuId": "79a9cd8d-78b6-4908-b1df-f7d1fc3d1db9",
+    "ParentMenuLabel": "4 LV Management Reports",
+    "ChildMenuId": "4c6d7163-634e-4883-9241-ff8590a036b8",
+    "ChildMenuLabel": "Subscriber Alert Report"
+  },
+  {
+    "ParentMenuId": "79a9cd8d-78b6-4908-b1df-f7d1fc3d1db9",
+    "ParentMenuLabel": "4 LV Management Reports",
+    "ChildMenuId": "3fa5b3e9-efe3-46e0-aa3f-c1b2a9a33475",
+    "ChildMenuLabel": "LRS Dealing Report"
+  },
+  {
+    "ParentMenuId": "79a9cd8d-78b6-4908-b1df-f7d1fc3d1db9",
+    "ParentMenuLabel": "4 LV Management Reports",
+    "ChildMenuId": "40c1918f-310a-4388-a0f6-b9a26004993c",
+    "ChildMenuLabel": "TRS Summary Report"
+  },
+  {
+    "ParentMenuId": "05766203-70ef-495e-b743-146367605e39",
+    "ParentMenuLabel": "5 LV Data Quality Assurance",
+    "ChildMenuId": "7e470811-d674-4994-b6d5-3db4dda8c5a1",
+    "ChildMenuLabel": "View Historical Print Files"
+  },
+  {
+    "ParentMenuId": "05766203-70ef-495e-b743-146367605e39",
+    "ParentMenuLabel": "5 LV Data Quality Assurance",
+    "ChildMenuId": "168a8d12-5a71-4d2d-b2c8-d36b9c21544a",
+    "ChildMenuLabel": "Case Registration"
+  },
+  {
+    "ParentMenuId": "05766203-70ef-495e-b743-146367605e39",
+    "ParentMenuLabel": "5 LV Data Quality Assurance",
+    "ChildMenuId": "8e227686-cc5c-9fda-e040-007f01005535",
+    "ChildMenuLabel": "Cash Drawer Assignment Maintenance"
+  },
+  {
+    "ParentMenuId": "05766203-70ef-495e-b743-146367605e39",
+    "ParentMenuLabel": "5 LV Data Quality Assurance",
+    "ChildMenuId": "8e227686-cc55-9fda-e040-007f01005535",
+    "ChildMenuLabel": "Cash Drawer Balance Adjustment"
+  },
+  {
+    "ParentMenuId": "05766203-70ef-495e-b743-146367605e39",
+    "ParentMenuLabel": "5 LV Data Quality Assurance",
+    "ChildMenuId": "420c9240-f961-43d1-b549-ab1da382ecbd",
+    "ChildMenuLabel": "Dealing Details Maintenance"
+  },
+  {
+    "ParentMenuId": "05766203-70ef-495e-b743-146367605e39",
+    "ParentMenuLabel": "5 LV Data Quality Assurance",
+    "ChildMenuId": "9df00e5c-e149-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Free Format Maintenance"
+  },
+  {
+    "ParentMenuId": "05766203-70ef-495e-b743-146367605e39",
+    "ParentMenuLabel": "5 LV Data Quality Assurance",
+    "ChildMenuId": "9ba79c8e-2e10-6057-e040-007f01002294",
+    "ChildMenuLabel": "Image Exception Report"
+  },
+  {
+    "ParentMenuId": "05766203-70ef-495e-b743-146367605e39",
+    "ParentMenuLabel": "5 LV Data Quality Assurance",
+    "ChildMenuId": "92b137d7-353b-4cd8-94fb-27f295b3dc58",
+    "ChildMenuLabel": "Land Parcel Address Maintenance"
+  },
+  {
+    "ParentMenuId": "05766203-70ef-495e-b743-146367605e39",
+    "ParentMenuLabel": "5 LV Data Quality Assurance",
+    "ChildMenuId": "9df00e5c-e10b-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Land Parcel Maintenance"
+  },
+  {
+    "ParentMenuId": "05766203-70ef-495e-b743-146367605e39",
+    "ParentMenuLabel": "5 LV Data Quality Assurance",
+    "ChildMenuId": "034ccca0-f39d-4d0d-a986-b972e677b54c",
+    "ChildMenuLabel": "Notice Maintenance"
+  },
+  {
+    "ParentMenuId": "05766203-70ef-495e-b743-146367605e39",
+    "ParentMenuLabel": "5 LV Data Quality Assurance",
+    "ChildMenuId": "074f8e71-ff6a-4553-9743-ff99cd990799",
+    "ChildMenuLabel": "Notice Creation"
+  },
+  {
+    "ParentMenuId": "05766203-70ef-495e-b743-146367605e39",
+    "ParentMenuLabel": "5 LV Data Quality Assurance",
+    "ChildMenuId": "af3fef6a-86e4-44a6-bbe9-d106615b76d7",
+    "ChildMenuLabel": "Owners Corporation Preview Enquiry"
+  },
+  {
+    "ParentMenuId": "05766203-70ef-495e-b743-146367605e39",
+    "ParentMenuLabel": "5 LV Data Quality Assurance",
+    "ChildMenuId": "9df00e5c-e123-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Rectification Maintenance"
+  },
+  {
+    "ParentMenuId": "05766203-70ef-495e-b743-146367605e39",
+    "ParentMenuLabel": "5 LV Data Quality Assurance",
+    "ChildMenuId": "27461f01-19e0-4dc2-8a11-f7bd0a135b22",
+    "ChildMenuLabel": "Registration Preview"
+  },
+  {
+    "ParentMenuId": "05766203-70ef-495e-b743-146367605e39",
+    "ParentMenuLabel": "5 LV Data Quality Assurance",
+    "ChildMenuId": "addc9c2a-d7cf-41e3-9604-0ca8facba754",
+    "ChildMenuLabel": "VicMap Import Rejection Report"
+  },
+  {
+    "ParentMenuId": "98c5519f-0bf4-44c7-b0f5-1e3f4785bfc5",
+    "ParentMenuLabel": "Access Administration",
+    "ChildMenuId": "512b159f-7a44-435f-a333-b45430aa5dbf",
+    "ChildMenuLabel": "Access Administration"
+  },
+  {
+    "ParentMenuId": "4bdece96-2fde-409a-8c71-2c5e513a5b9a",
+    "ParentMenuLabel": "Additional Transactions Module",
+    "ChildMenuId": "72c5ac8c-6446-4a34-a1c4-a52120075c95",
+    "ChildMenuLabel": "Electronic Examination Reasons Rpt"
+  },
+  {
+    "ParentMenuId": "4bdece96-2fde-409a-8c71-2c5e513a5b9a",
+    "ParentMenuLabel": "Additional Transactions Module",
+    "ChildMenuId": "e358e6eb-a5cd-49fe-8a33-5b7a7a6ff7d8",
+    "ChildMenuLabel": "Electronic Examination Guide Maint."
+  },
+  {
+    "ParentMenuId": "4bdece96-2fde-409a-8c71-2c5e513a5b9a",
+    "ParentMenuLabel": "Additional Transactions Module",
+    "ChildMenuId": "c7e9300f-84ef-4a42-9ffc-7bc964e957e1",
+    "ChildMenuLabel": "Caveat Combination Maintenance"
+  },
+  {
+    "ParentMenuId": "4bdece96-2fde-409a-8c71-2c5e513a5b9a",
+    "ParentMenuLabel": "Additional Transactions Module",
+    "ChildMenuId": "33421428-5a51-43c5-b4f5-938378d39e62",
+    "ChildMenuLabel": "Customer Direct Debit Maintenance"
+  },
+  {
+    "ParentMenuId": "4bdece96-2fde-409a-8c71-2c5e513a5b9a",
+    "ParentMenuLabel": "Additional Transactions Module",
+    "ChildMenuId": "d5794269-8621-407e-aa7a-8fe2ab372711",
+    "ChildMenuLabel": "Fee Type Code Report"
+  },
+  {
+    "ParentMenuId": "4bdece96-2fde-409a-8c71-2c5e513a5b9a",
+    "ParentMenuLabel": "Additional Transactions Module",
+    "ChildMenuId": "89b96ffc-de78-4cb2-8bac-8c21585e1ed8",
+    "ChildMenuLabel": "Fee Unit Maintenance"
+  },
+  {
+    "ParentMenuId": "4bdece96-2fde-409a-8c71-2c5e513a5b9a",
+    "ParentMenuLabel": "Additional Transactions Module",
+    "ChildMenuId": "02fe7244-df9e-4b61-b860-d2054531e371",
+    "ChildMenuLabel": "Government Proprietor Maintenance"
+  },
+  {
+    "ParentMenuId": "4bdece96-2fde-409a-8c71-2c5e513a5b9a",
+    "ParentMenuLabel": "Additional Transactions Module",
+    "ChildMenuId": "d6e3c118-73bd-40aa-a8ef-71a7f3b2d328",
+    "ChildMenuLabel": "OCR Case Registration"
+  },
+  {
+    "ParentMenuId": "4bdece96-2fde-409a-8c71-2c5e513a5b9a",
+    "ParentMenuLabel": "Additional Transactions Module",
+    "ChildMenuId": "ddd963bf-2ac3-4b2b-b85f-848f7209fb60",
+    "ChildMenuLabel": "OCR Case Document Processing"
+  },
+  {
+    "ParentMenuId": "4bdece96-2fde-409a-8c71-2c5e513a5b9a",
+    "ParentMenuLabel": "Additional Transactions Module",
+    "ChildMenuId": "2bb84529-dc76-4bcb-b0a5-445e23402dde",
+    "ChildMenuLabel": "OCR Lodgement Batch Archive Report"
+  },
+  {
+    "ParentMenuId": "4bdece96-2fde-409a-8c71-2c5e513a5b9a",
+    "ParentMenuLabel": "Additional Transactions Module",
+    "ChildMenuId": "41682523-6cbd-4bfa-bd44-099e4e08d4f4",
+    "ChildMenuLabel": "OCR Rescan Requests"
+  },
+  {
+    "ParentMenuId": "4bdece96-2fde-409a-8c71-2c5e513a5b9a",
+    "ParentMenuLabel": "Additional Transactions Module",
+    "ChildMenuId": "c4380d1a-4e78-4453-8482-4c21d260ac76",
+    "ChildMenuLabel": "Rules Group Maintenance"
+  },
+  {
+    "ParentMenuId": "4bdece96-2fde-409a-8c71-2c5e513a5b9a",
+    "ParentMenuLabel": "Additional Transactions Module",
+    "ChildMenuId": "4c6d7163-634e-4883-9241-ff8590a036b8",
+    "ChildMenuLabel": "Subscriber Alert Report"
+  },
+  {
+    "ParentMenuId": "4bdece96-2fde-409a-8c71-2c5e513a5b9a",
+    "ParentMenuLabel": "Additional Transactions Module",
+    "ChildMenuId": "d8d7c3d3-4aa0-4449-95ba-3d5c50fd3071",
+    "ChildMenuLabel": "Unwanted CofT Notice Advice"
+  },
+  {
+    "ParentMenuId": "06622d66-3f03-4508-b814-a5acd5ad8e0b",
+    "ParentMenuLabel": "Batch Processing",
+    "ChildMenuId": "398ccb4f-7afb-4e64-82ad-d50d8a0d0328",
+    "ChildMenuLabel": "VicMap Import Review Report"
+  },
+  {
+    "ParentMenuId": "06622d66-3f03-4508-b814-a5acd5ad8e0b",
+    "ParentMenuLabel": "Batch Processing",
+    "ChildMenuId": "24291f0e-5f82-4f12-8d10-156d95d08499",
+    "ChildMenuLabel": "Resubmit CofT Batch"
+  },
+  {
+    "ParentMenuId": "06622d66-3f03-4508-b814-a5acd5ad8e0b",
+    "ParentMenuLabel": "Batch Processing",
+    "ChildMenuId": "6ca0b224-93e2-4ff9-bcb9-178ac657545e",
+    "ChildMenuLabel": "Resubmit Notice Batch"
+  },
+  {
+    "ParentMenuId": "06622d66-3f03-4508-b814-a5acd5ad8e0b",
+    "ParentMenuLabel": "Batch Processing",
+    "ChildMenuId": "8b23b511-6e5b-4fbf-9f91-0022c257c1cf",
+    "ChildMenuLabel": "Resubmit Notice Batch Print"
+  },
+  {
+    "ParentMenuId": "06622d66-3f03-4508-b814-a5acd5ad8e0b",
+    "ParentMenuLabel": "Batch Processing",
+    "ChildMenuId": "59efd431-24d4-430a-acd7-d674efdb5831",
+    "ChildMenuLabel": "Multi CofT Reprint Report"
+  },
+  {
+    "ParentMenuId": "06622d66-3f03-4508-b814-a5acd5ad8e0b",
+    "ParentMenuLabel": "Batch Processing",
+    "ChildMenuId": "ad27e290-cb31-46c8-b037-f2597f00b6ea",
+    "ChildMenuLabel": "Notice Batch Completion Report"
+  },
+  {
+    "ParentMenuId": "06622d66-3f03-4508-b814-a5acd5ad8e0b",
+    "ParentMenuLabel": "Batch Processing",
+    "ChildMenuId": "9bbb1c7d-3dd7-45ee-aeb9-8370d91e6647",
+    "ChildMenuLabel": "CofT Batch Bulk Report"
+  },
+  {
+    "ParentMenuId": "06622d66-3f03-4508-b814-a5acd5ad8e0b",
+    "ParentMenuLabel": "Batch Processing",
+    "ChildMenuId": "833e6bbd-213e-4ec1-8024-68f9ad593c4b",
+    "ChildMenuLabel": "CofT Batch Completion Report"
+  },
+  {
+    "ParentMenuId": "06622d66-3f03-4508-b814-a5acd5ad8e0b",
+    "ParentMenuLabel": "Batch Processing",
+    "ChildMenuId": "93e684a6-9142-496c-a62a-280a22d39554",
+    "ChildMenuLabel": "Folio Upload Report"
+  },
+  {
+    "ParentMenuId": "06622d66-3f03-4508-b814-a5acd5ad8e0b",
+    "ParentMenuLabel": "Batch Processing",
+    "ChildMenuId": "bf2cd9fb-846c-6a81-e044-002128c31ddb",
+    "ChildMenuLabel": "Batch Print Statistics Report"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "daec7d1a-62ea-0c88-e044-0003bab03ed6",
+    "ChildMenuLabel": "Cash Drawer Transaction Report"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "2d3187ea-c8a0-2a1a-e054-0003bab01c82",
+    "ChildMenuLabel": "Paper Administrative Notices Lodgement"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "9df00e5c-e0fb-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Case Creation"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "9d6b047b-f4bf-25e1-e040-007f01002b47",
+    "ChildMenuLabel": "Affected Current Proprietors Maint."
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "4868db3d-37ce-426f-af68-d75ecd0588a3",
+    "ChildMenuLabel": "Dealings YTD Financial Stat. Report"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "a12ff0c6-439f-4811-b548-b292403ee82f",
+    "ChildMenuLabel": "Dealing Secondary File Note Maint."
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "9df00e5c-e113-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Proprietor Maintenance"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "85c44696-4940-4b03-88f3-bfccb20f5178",
+    "ChildMenuLabel": "Print Dealing Label"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "034ccca0-f39d-4d0d-a986-b972e677b54c",
+    "ChildMenuLabel": "Notice Maintenance"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "074f8e71-ff6a-4553-9743-ff99cd990799",
+    "ChildMenuLabel": "Notice Creation"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "5f12dc87-2c40-4f20-a4ef-87b15c6f45e4",
+    "ChildMenuLabel": "Dealings on a Folio Enquiry"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "81424597-4665-4124-b462-9f70804664b9",
+    "ChildMenuLabel": "Case Management"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "168a8d12-5a71-4d2d-b2c8-d36b9c21544a",
+    "ChildMenuLabel": "Case Registration"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "6a7d4840-6c55-4f43-af7c-57ae329d2a50",
+    "ChildMenuLabel": "Pending Registration Enquiry"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "aa875bf8-9d50-45eb-911d-063e151171f4",
+    "ChildMenuLabel": "Dealing Enquiry"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "9df00e5c-e10b-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Land Parcel Maintenance"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "69576dcb-df98-4834-b77a-764fe3552d2b",
+    "ChildMenuLabel": "Withdraw, Reject or Abandon Case"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "6eab157f-da1a-43fe-bd1d-af767738a798",
+    "ChildMenuLabel": "Registration Bar Folio Maintenance"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "27461f01-19e0-4dc2-8a11-f7bd0a135b22",
+    "ChildMenuLabel": "Registration Preview"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "2b352998-a3ae-4d99-9b24-132410e8585e",
+    "ChildMenuLabel": "Dealing File Note Maintenance"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "420c9240-f961-43d1-b549-ab1da382ecbd",
+    "ChildMenuLabel": "Dealing Details Maintenance"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "75f141e9-5ebf-4332-8825-2c59228ca00b",
+    "ChildMenuLabel": "Change Dealing Type Maintenance"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "40c1918f-310a-4388-a0f6-b9a26004993c",
+    "ChildMenuLabel": "TRS Summary Report"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "88cb9689-b418-4369-9731-402179bec411",
+    "ChildMenuLabel": "Plan Certification Report"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "9df00e5c-e103-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Encum No Longer Affects Maintenance"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "4e449086-5c40-43ea-ac33-96d1864fde1c",
+    "ChildMenuLabel": "Bar/Debar Case Maintenance"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "48e8a8e2-e42c-4478-9727-afd53ef372ff",
+    "ChildMenuLabel": "ALTS Dealing History Maintenance"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "b973b1b6-74e5-4297-9919-91fb827d8c45",
+    "ChildMenuLabel": "Unregistered Dealing Enquiry"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "01124392-ba9b-4cee-9572-3d18dccc4406",
+    "ChildMenuLabel": "Case Location Maintenance"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "9ba79c8e-2e0e-6057-e040-007f01002294",
+    "ChildMenuLabel": "Dealing Refusal Advice"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "9ba79c8e-2e25-6057-e040-007f01002294",
+    "ChildMenuLabel": "Dealing Enquiry Report"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "ffc1ab20-49b2-4bb3-aead-eeeae42ee67b",
+    "ChildMenuLabel": "Folio Notation Maintenance"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "96f498d7-3715-4238-93bf-f7d5c97c5071",
+    "ChildMenuLabel": "As to Part Maintenance"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "c7e9300f-84ef-4a42-9ffc-7bc964e957e1",
+    "ChildMenuLabel": "Caveat Combination Maintenance"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "25317d6d-b670-42c4-9cde-b475ea1f2dc2",
+    "ChildMenuLabel": "Dealing Productivity Report"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "2b303365-87d6-454d-afcd-6c4c7f524cb4",
+    "ChildMenuLabel": "Dealing Statistics Report"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "0c48b046-ae70-4006-bc73-2b934e2ec916",
+    "ChildMenuLabel": "Dealing Combination Report"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "9d75c9c5-88d9-20a1-e040-007f01003026",
+    "ChildMenuLabel": "Affected Encumbrance Maintenance"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "482f42f0-5fa6-461d-854e-e269034e74e1",
+    "ChildMenuLabel": "Affected Land Parcel Maintenance"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "9df00e5c-e11b-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Encumbrance Party Maintenance"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "9d75c9c5-88e1-20a1-e040-007f01003026",
+    "ChildMenuLabel": "Encumbrance Removal"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "bb1c03a8-123f-43cf-9bb6-75caca978449",
+    "ChildMenuLabel": "Leader/Follower Report"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "f08e3d6e-135a-40d9-bc31-ed18adb8bdd8",
+    "ChildMenuLabel": "Pending Registration Report"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "9a731c83-b221-4ccf-9a16-b2a5320c06aa",
+    "ChildMenuLabel": "Rectification Dealing Report"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "9df00e5c-e123-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Rectification Maintenance"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "f52b2b65-446a-4273-8522-5e9877575ebf",
+    "ChildMenuLabel": "Rectification Report"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "44087ad2-6b09-4e2c-bf1a-d477cab2ef9c",
+    "ChildMenuLabel": "Refused Dealing Enquiry"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "11ee62a1-b67b-4037-ab85-895106df455a",
+    "ChildMenuLabel": "Registration Notification Report"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "705a42bf-176a-4010-833e-39d0c42032f2",
+    "ChildMenuLabel": "Registration Preview Report"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "3fa5b3e9-efe3-46e0-aa3f-c1b2a9a33475",
+    "ChildMenuLabel": "LRS Dealing Report"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "687eb7d2-e18e-4922-bc61-6fab362a7775",
+    "ChildMenuLabel": "Variation of Priority Maintenance"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "9df00e5c-e149-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Free Format Maintenance"
+  },
+  {
+    "ParentMenuId": "cd34acee-0248-4a63-a3b2-9b28ab56286e",
+    "ParentMenuLabel": "Case and Dealing",
+    "ChildMenuId": "ebc0ac20-7895-25b9-e044-0003bab03ed6",
+    "ChildMenuLabel": "Caveat Claim Maintenance"
+  },
+  {
+    "ParentMenuId": "bf648098-4df8-4d63-9667-a86dfc461286",
+    "ParentMenuLabel": "CofT",
+    "ChildMenuId": "7d9156ad-cc40-4127-b58f-913c78cc8d92",
+    "ChildMenuLabel": "Certificate of Title Reprint"
+  },
+  {
+    "ParentMenuId": "bf648098-4df8-4d63-9667-a86dfc461286",
+    "ParentMenuLabel": "CofT",
+    "ChildMenuId": "d8d7c3d3-4aa0-4449-95ba-3d5c50fd3071",
+    "ChildMenuLabel": "Unwanted CofT Notice Advice"
+  },
+  {
+    "ParentMenuId": "bf648098-4df8-4d63-9667-a86dfc461286",
+    "ParentMenuLabel": "CofT",
+    "ChildMenuId": "6fce3ca3-6a44-4023-958b-e5ee56cc0565",
+    "ChildMenuLabel": "CofT Batch Print Maintenance"
+  },
+  {
+    "ParentMenuId": "bf648098-4df8-4d63-9667-a86dfc461286",
+    "ParentMenuLabel": "CofT",
+    "ChildMenuId": "9bbb1c7d-3dd7-45ee-aeb9-8370d91e6647",
+    "ChildMenuLabel": "CofT Batch Bulk Report"
+  },
+  {
+    "ParentMenuId": "bf648098-4df8-4d63-9667-a86dfc461286",
+    "ParentMenuLabel": "CofT",
+    "ChildMenuId": "833e6bbd-213e-4ec1-8024-68f9ad593c4b",
+    "ChildMenuLabel": "CofT Batch Completion Report"
+  },
+  {
+    "ParentMenuId": "bf648098-4df8-4d63-9667-a86dfc461286",
+    "ParentMenuLabel": "CofT",
+    "ChildMenuId": "7995d4a7-097c-4fe6-ba02-9e22732cbb0d",
+    "ChildMenuLabel": "Coft Reprint Report"
+  },
+  {
+    "ParentMenuId": "ee39b65f-5ebd-4e67-9f50-6ac4c73f8821",
+    "ParentMenuLabel": "Crown Land Management",
+    "ChildMenuId": "35e19b50-02a1-4a31-a8a2-37807ddd4fef",
+    "ChildMenuLabel": "Native Title Deter. Load Excpt. Rpt"
+  },
+  {
+    "ParentMenuId": "ee39b65f-5ebd-4e67-9f50-6ac4c73f8821",
+    "ParentMenuLabel": "Crown Land Management",
+    "ChildMenuId": "b24fc86a-8ab4-44cd-b04b-aa0f68cc8cfb",
+    "ChildMenuLabel": "Crown Land Rectification Report"
+  },
+  {
+    "ParentMenuId": "ee39b65f-5ebd-4e67-9f50-6ac4c73f8821",
+    "ParentMenuLabel": "Crown Land Management",
+    "ChildMenuId": "9147836d-c4aa-39f5-e040-007f01005a59",
+    "ChildMenuLabel": "Crown Land Parcel Maintenance"
+  },
+  {
+    "ParentMenuId": "ee39b65f-5ebd-4e67-9f50-6ac4c73f8821",
+    "ParentMenuLabel": "Crown Land Management",
+    "ChildMenuId": "91728b67-80bc-0333-e040-007f0100504b",
+    "ChildMenuLabel": "Crown Land Status Maintenance"
+  },
+  {
+    "ParentMenuId": "ee39b65f-5ebd-4e67-9f50-6ac4c73f8821",
+    "ParentMenuLabel": "Crown Land Management",
+    "ChildMenuId": "34cb3440-0850-4c01-a451-dc7a8838df33",
+    "ChildMenuLabel": "Land Status Maintenance"
+  },
+  {
+    "ParentMenuId": "ee39b65f-5ebd-4e67-9f50-6ac4c73f8821",
+    "ParentMenuLabel": "Crown Land Management",
+    "ChildMenuId": "8e101db7-511c-b712-e040-007f0100024d",
+    "ChildMenuLabel": "Land Administrator Maintenance"
+  },
+  {
+    "ParentMenuId": "ee39b65f-5ebd-4e67-9f50-6ac4c73f8821",
+    "ParentMenuLabel": "Crown Land Management",
+    "ChildMenuId": "67aa6ae0-f39f-4e73-84d2-d3325aeb71ac",
+    "ChildMenuLabel": "Park Maintenance"
+  },
+  {
+    "ParentMenuId": "ee39b65f-5ebd-4e67-9f50-6ac4c73f8821",
+    "ParentMenuLabel": "Crown Land Management",
+    "ChildMenuId": "b9d23503-7442-4458-a9a9-a41939fd78d3",
+    "ChildMenuLabel": "Reserve Purpose Maintenance"
+  },
+  {
+    "ParentMenuId": "ee39b65f-5ebd-4e67-9f50-6ac4c73f8821",
+    "ParentMenuLabel": "Crown Land Management",
+    "ChildMenuId": "dfaa28f8-00a0-4e51-9978-22bf87e2c49e",
+    "ChildMenuLabel": "Status Remark Maintenance"
+  },
+  {
+    "ParentMenuId": "ee39b65f-5ebd-4e67-9f50-6ac4c73f8821",
+    "ParentMenuLabel": "Crown Land Management",
+    "ChildMenuId": "12f127b9-3687-4936-98a0-e11433aaf4af",
+    "ChildMenuLabel": "Crown Land Status Report"
+  },
+  {
+    "ParentMenuId": "ee39b65f-5ebd-4e67-9f50-6ac4c73f8821",
+    "ParentMenuLabel": "Crown Land Management",
+    "ChildMenuId": "96c5531d-daae-4c5a-9f82-a443c0493e8b",
+    "ChildMenuLabel": "Crown Land Tenure History Report"
+  },
+  {
+    "ParentMenuId": "ee39b65f-5ebd-4e67-9f50-6ac4c73f8821",
+    "ParentMenuLabel": "Crown Land Management",
+    "ChildMenuId": "31440c94-4cdc-4b0f-b917-7c9e4e028be3",
+    "ChildMenuLabel": "Parish Land Status Report"
+  },
+  {
+    "ParentMenuId": "ee39b65f-5ebd-4e67-9f50-6ac4c73f8821",
+    "ParentMenuLabel": "Crown Land Management",
+    "ChildMenuId": "03485249-6315-4562-9734-54fe193c0911",
+    "ChildMenuLabel": "Parish Land Verification Report"
+  },
+  {
+    "ParentMenuId": "ee39b65f-5ebd-4e67-9f50-6ac4c73f8821",
+    "ParentMenuLabel": "Crown Land Management",
+    "ChildMenuId": "e776abd0-a45a-40d1-b15c-3511ad0482b5",
+    "ChildMenuLabel": "Register of Rights Report"
+  },
+  {
+    "ParentMenuId": "ee39b65f-5ebd-4e67-9f50-6ac4c73f8821",
+    "ParentMenuLabel": "Crown Land Management",
+    "ChildMenuId": "b86d74dd-6b3c-492a-8653-8a284a3e69d8",
+    "ChildMenuLabel": "CLIS Report"
+  },
+  {
+    "ParentMenuId": "ab6cceec-dcde-41bc-a8aa-4e60b4266c22",
+    "ParentMenuLabel": "Crown Land Reference Data Maintenance-P",
+    "ChildMenuId": "34cb3440-0850-4c01-a451-dc7a8838df33",
+    "ChildMenuLabel": "Land Status Maintenance"
+  },
+  {
+    "ParentMenuId": "ab6cceec-dcde-41bc-a8aa-4e60b4266c22",
+    "ParentMenuLabel": "Crown Land Reference Data Maintenance-P",
+    "ChildMenuId": "67aa6ae0-f39f-4e73-84d2-d3325aeb71ac",
+    "ChildMenuLabel": "Park Maintenance"
+  },
+  {
+    "ParentMenuId": "ab6cceec-dcde-41bc-a8aa-4e60b4266c22",
+    "ParentMenuLabel": "Crown Land Reference Data Maintenance-P",
+    "ChildMenuId": "b9d23503-7442-4458-a9a9-a41939fd78d3",
+    "ChildMenuLabel": "Reserve Purpose Maintenance"
+  },
+  {
+    "ParentMenuId": "ab6cceec-dcde-41bc-a8aa-4e60b4266c22",
+    "ParentMenuLabel": "Crown Land Reference Data Maintenance-P",
+    "ChildMenuId": "dfaa28f8-00a0-4e51-9978-22bf87e2c49e",
+    "ChildMenuLabel": "Status Remark Maintenance"
+  },
+  {
+    "ParentMenuId": "16249134-7aaa-4bc7-b061-b549e25112ce",
+    "ParentMenuLabel": "Crown Land Registry",
+    "ChildMenuId": "35e19b50-02a1-4a31-a8a2-37807ddd4fef",
+    "ChildMenuLabel": "Native Title Deter. Load Excpt. Rpt"
+  },
+  {
+    "ParentMenuId": "16249134-7aaa-4bc7-b061-b549e25112ce",
+    "ParentMenuLabel": "Crown Land Registry",
+    "ChildMenuId": "34cb3440-0850-4c01-a451-dc7a8838df33",
+    "ChildMenuLabel": "Land Status Maintenance"
+  },
+  {
+    "ParentMenuId": "16249134-7aaa-4bc7-b061-b549e25112ce",
+    "ParentMenuLabel": "Crown Land Registry",
+    "ChildMenuId": "aa875bf8-9d50-45eb-911d-063e151171f4",
+    "ChildMenuLabel": "Dealing Enquiry"
+  },
+  {
+    "ParentMenuId": "16249134-7aaa-4bc7-b061-b549e25112ce",
+    "ParentMenuLabel": "Crown Land Registry",
+    "ChildMenuId": "8e101db7-511c-b712-e040-007f0100024d",
+    "ChildMenuLabel": "Land Administrator Maintenance"
+  },
+  {
+    "ParentMenuId": "16249134-7aaa-4bc7-b061-b549e25112ce",
+    "ParentMenuLabel": "Crown Land Registry",
+    "ChildMenuId": "67aa6ae0-f39f-4e73-84d2-d3325aeb71ac",
+    "ChildMenuLabel": "Park Maintenance"
+  },
+  {
+    "ParentMenuId": "16249134-7aaa-4bc7-b061-b549e25112ce",
+    "ParentMenuLabel": "Crown Land Registry",
+    "ChildMenuId": "b9d23503-7442-4458-a9a9-a41939fd78d3",
+    "ChildMenuLabel": "Reserve Purpose Maintenance"
+  },
+  {
+    "ParentMenuId": "16249134-7aaa-4bc7-b061-b549e25112ce",
+    "ParentMenuLabel": "Crown Land Registry",
+    "ChildMenuId": "dfaa28f8-00a0-4e51-9978-22bf87e2c49e",
+    "ChildMenuLabel": "Status Remark Maintenance"
+  },
+  {
+    "ParentMenuId": "16249134-7aaa-4bc7-b061-b549e25112ce",
+    "ParentMenuLabel": "Crown Land Registry",
+    "ChildMenuId": "91728b67-80bc-0333-e040-007f0100504b",
+    "ChildMenuLabel": "Crown Land Status Maintenance"
+  },
+  {
+    "ParentMenuId": "16249134-7aaa-4bc7-b061-b549e25112ce",
+    "ParentMenuLabel": "Crown Land Registry",
+    "ChildMenuId": "9147836d-c4aa-39f5-e040-007f01005a59",
+    "ChildMenuLabel": "Crown Land Parcel Maintenance"
+  },
+  {
+    "ParentMenuId": "16249134-7aaa-4bc7-b061-b549e25112ce",
+    "ParentMenuLabel": "Crown Land Registry",
+    "ChildMenuId": "96c5531d-daae-4c5a-9f82-a443c0493e8b",
+    "ChildMenuLabel": "Crown Land Tenure History Report"
+  },
+  {
+    "ParentMenuId": "16249134-7aaa-4bc7-b061-b549e25112ce",
+    "ParentMenuLabel": "Crown Land Registry",
+    "ChildMenuId": "12f127b9-3687-4936-98a0-e11433aaf4af",
+    "ChildMenuLabel": "Crown Land Status Report"
+  },
+  {
+    "ParentMenuId": "16249134-7aaa-4bc7-b061-b549e25112ce",
+    "ParentMenuLabel": "Crown Land Registry",
+    "ChildMenuId": "31440c94-4cdc-4b0f-b917-7c9e4e028be3",
+    "ChildMenuLabel": "Parish Land Status Report"
+  },
+  {
+    "ParentMenuId": "16249134-7aaa-4bc7-b061-b549e25112ce",
+    "ParentMenuLabel": "Crown Land Registry",
+    "ChildMenuId": "03485249-6315-4562-9734-54fe193c0911",
+    "ChildMenuLabel": "Parish Land Verification Report"
+  },
+  {
+    "ParentMenuId": "16249134-7aaa-4bc7-b061-b549e25112ce",
+    "ParentMenuLabel": "Crown Land Registry",
+    "ChildMenuId": "b24fc86a-8ab4-44cd-b04b-aa0f68cc8cfb",
+    "ChildMenuLabel": "Crown Land Rectification Report"
+  },
+  {
+    "ParentMenuId": "16249134-7aaa-4bc7-b061-b549e25112ce",
+    "ParentMenuLabel": "Crown Land Registry",
+    "ChildMenuId": "e776abd0-a45a-40d1-b15c-3511ad0482b5",
+    "ChildMenuLabel": "Register of Rights Report"
+  },
+  {
+    "ParentMenuId": "16249134-7aaa-4bc7-b061-b549e25112ce",
+    "ParentMenuLabel": "Crown Land Registry",
+    "ChildMenuId": "b86d74dd-6b3c-492a-8653-8a284a3e69d8",
+    "ChildMenuLabel": "CLIS Report"
+  },
+  {
+    "ParentMenuId": "8d3f1618-5d46-4fec-a959-a874015b9a00",
+    "ParentMenuLabel": "Customer",
+    "ChildMenuId": "9ba79c8e-2e27-6057-e040-007f01002294",
+    "ChildMenuLabel": "Customer Daily Elect. Lodge. Report"
+  },
+  {
+    "ParentMenuId": "8d3f1618-5d46-4fec-a959-a874015b9a00",
+    "ParentMenuLabel": "Customer",
+    "ChildMenuId": "512b159f-7a44-435f-a333-b45430aa5dbf",
+    "ChildMenuLabel": "Access Administration"
+  },
+  {
+    "ParentMenuId": "8d3f1618-5d46-4fec-a959-a874015b9a00",
+    "ParentMenuLabel": "Customer",
+    "ChildMenuId": "af3fef6a-86e4-44a6-bbe9-d106615b76d7",
+    "ChildMenuLabel": "Owners Corporation Preview Enquiry"
+  },
+  {
+    "ParentMenuId": "8d3f1618-5d46-4fec-a959-a874015b9a00",
+    "ParentMenuLabel": "Customer",
+    "ChildMenuId": "420c9240-f961-43d1-b549-ab1da382ecbd",
+    "ChildMenuLabel": "Dealing Details Maintenance"
+  },
+  {
+    "ParentMenuId": "8d3f1618-5d46-4fec-a959-a874015b9a00",
+    "ParentMenuLabel": "Customer",
+    "ChildMenuId": "e0bda49e-5e0e-4c51-9da7-561197bbaa73",
+    "ChildMenuLabel": "Customer Maintenance"
+  },
+  {
+    "ParentMenuId": "8d3f1618-5d46-4fec-a959-a874015b9a00",
+    "ParentMenuLabel": "Customer",
+    "ChildMenuId": "8e101db7-5100-b712-e040-007f0100024d",
+    "ChildMenuLabel": "Customer Credit Limit Maintenance"
+  },
+  {
+    "ParentMenuId": "8d3f1618-5d46-4fec-a959-a874015b9a00",
+    "ParentMenuLabel": "Customer",
+    "ChildMenuId": "c9cb027c-37ce-41df-8a2a-839a24cfd37a",
+    "ChildMenuLabel": "EC Customer Maintenance"
+  },
+  {
+    "ParentMenuId": "8d3f1618-5d46-4fec-a959-a874015b9a00",
+    "ParentMenuLabel": "Customer",
+    "ChildMenuId": "3edc5a79-861b-4121-a7bc-a5e45f381dbd",
+    "ChildMenuLabel": "Customer Extract"
+  },
+  {
+    "ParentMenuId": "8d3f1618-5d46-4fec-a959-a874015b9a00",
+    "ParentMenuLabel": "Customer",
+    "ChildMenuId": "2c75e75d-02f3-4f6d-b999-2d2827fddf7d",
+    "ChildMenuLabel": "Customer Transaction Enquiry"
+  },
+  {
+    "ParentMenuId": "8d3f1618-5d46-4fec-a959-a874015b9a00",
+    "ParentMenuLabel": "Customer",
+    "ChildMenuId": "9ba79c8e-2e29-6057-e040-007f01002294",
+    "ChildMenuLabel": "Customer Outstanding Balance Report"
+  },
+  {
+    "ParentMenuId": "8d3f1618-5d46-4fec-a959-a874015b9a00",
+    "ParentMenuLabel": "Customer",
+    "ChildMenuId": "9ba79c8e-2e28-6057-e040-007f01002294",
+    "ChildMenuLabel": "Customer Transaction Report"
+  },
+  {
+    "ParentMenuId": "8d3f1618-5d46-4fec-a959-a874015b9a00",
+    "ParentMenuLabel": "Customer",
+    "ChildMenuId": "33421428-5a51-43c5-b4f5-938378d39e62",
+    "ChildMenuLabel": "Customer Direct Debit Maintenance"
+  },
+  {
+    "ParentMenuId": "8d3f1618-5d46-4fec-a959-a874015b9a00",
+    "ParentMenuLabel": "Customer",
+    "ChildMenuId": "e205ee87-5c4e-4114-94ee-0c5a34c8166f",
+    "ChildMenuLabel": "Customer Lodgement Report"
+  },
+  {
+    "ParentMenuId": "8d3f1618-5d46-4fec-a959-a874015b9a00",
+    "ParentMenuLabel": "Customer",
+    "ChildMenuId": "d149c26d-56f4-48c4-8c9b-cdc4ac9aef28",
+    "ChildMenuLabel": "Electronic Instrument Enquiry"
+  },
+  {
+    "ParentMenuId": "8d3f1618-5d46-4fec-a959-a874015b9a00",
+    "ParentMenuLabel": "Customer",
+    "ChildMenuId": "3b7d1c65-b993-4468-94aa-b24bb43a4153",
+    "ChildMenuLabel": "Owners Corporation Enquiry"
+  },
+  {
+    "ParentMenuId": "8d3f1618-5d46-4fec-a959-a874015b9a00",
+    "ParentMenuLabel": "Customer",
+    "ChildMenuId": "b973b1b6-74e5-4297-9919-91fb827d8c45",
+    "ChildMenuLabel": "Unregistered Dealing Enquiry"
+  },
+  {
+    "ParentMenuId": "42e508f9-4892-4c95-824a-3315ac4ba46b",
+    "ParentMenuLabel": "Document",
+    "ChildMenuId": "1e41fac4-57bf-2df8-e054-0003bab01c82",
+    "ChildMenuLabel": "Add Nomination of pCT"
+  },
+  {
+    "ParentMenuId": "42e508f9-4892-4c95-824a-3315ac4ba46b",
+    "ParentMenuLabel": "Document",
+    "ChildMenuId": "1e41fac4-57c9-2df8-e054-0003bab01c82",
+    "ChildMenuLabel": "Withdraw a Nominated pCT"
+  },
+  {
+    "ParentMenuId": "42e508f9-4892-4c95-824a-3315ac4ba46b",
+    "ParentMenuLabel": "Document",
+    "ChildMenuId": "9df00e5c-e12a-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Issue Details Maintenance"
+  },
+  {
+    "ParentMenuId": "42e508f9-4892-4c95-824a-3315ac4ba46b",
+    "ParentMenuLabel": "Document",
+    "ChildMenuId": "da8789a7-3caf-48d5-850f-c97b20edfdaa",
+    "ChildMenuLabel": "Issue Report"
+  },
+  {
+    "ParentMenuId": "7c8b4f5a-6b43-4bb1-9a98-63c58691db6f",
+    "ParentMenuLabel": "Electronic Processing",
+    "ChildMenuId": "72c5ac8c-6446-4a34-a1c4-a52120075c95",
+    "ChildMenuLabel": "Electronic Examination Reasons Rpt"
+  },
+  {
+    "ParentMenuId": "7c8b4f5a-6b43-4bb1-9a98-63c58691db6f",
+    "ParentMenuLabel": "Electronic Processing",
+    "ChildMenuId": "e358e6eb-a5cd-49fe-8a33-5b7a7a6ff7d8",
+    "ChildMenuLabel": "Electronic Examination Guide Maint."
+  },
+  {
+    "ParentMenuId": "7c8b4f5a-6b43-4bb1-9a98-63c58691db6f",
+    "ParentMenuLabel": "Electronic Processing",
+    "ChildMenuId": "eeced558-a925-4b0f-946f-806c7370d3f0",
+    "ChildMenuLabel": "Electronic Dealings WorkIn Progr Enq"
+  },
+  {
+    "ParentMenuId": "7c8b4f5a-6b43-4bb1-9a98-63c58691db6f",
+    "ParentMenuLabel": "Electronic Processing",
+    "ChildMenuId": "8e212301-e174-4aa8-8379-8cdf163f4ed5",
+    "ChildMenuLabel": "Electronic Dealing Stats. Report"
+  },
+  {
+    "ParentMenuId": "7c8b4f5a-6b43-4bb1-9a98-63c58691db6f",
+    "ParentMenuLabel": "Electronic Processing",
+    "ChildMenuId": "9ba79c8e-2e27-6057-e040-007f01002294",
+    "ChildMenuLabel": "Customer Daily Elect. Lodge. Report"
+  },
+  {
+    "ParentMenuId": "7c8b4f5a-6b43-4bb1-9a98-63c58691db6f",
+    "ParentMenuLabel": "Electronic Processing",
+    "ChildMenuId": "65a50d00-f529-4e8e-ab6d-081abecd740a",
+    "ChildMenuLabel": "Electronic Dealing Case Dtls Report"
+  },
+  {
+    "ParentMenuId": "7c8b4f5a-6b43-4bb1-9a98-63c58691db6f",
+    "ParentMenuLabel": "Electronic Processing",
+    "ChildMenuId": "4c6d7163-634e-4883-9241-ff8590a036b8",
+    "ChildMenuLabel": "Subscriber Alert Report"
+  },
+  {
+    "ParentMenuId": "7c8b4f5a-6b43-4bb1-9a98-63c58691db6f",
+    "ParentMenuLabel": "Electronic Processing",
+    "ChildMenuId": "9e10f2ed-e5c0-43d1-aec8-71d4f1a61127",
+    "ChildMenuLabel": "Electronic Dealing Registration"
+  },
+  {
+    "ParentMenuId": "7c8b4f5a-6b43-4bb1-9a98-63c58691db6f",
+    "ParentMenuLabel": "Electronic Processing",
+    "ChildMenuId": "4af16c7b-3bc5-4b26-a66d-c4e3f8bbce83",
+    "ChildMenuLabel": "Electronic Dealing Queue Enquiry"
+  },
+  {
+    "ParentMenuId": "7c8b4f5a-6b43-4bb1-9a98-63c58691db6f",
+    "ParentMenuLabel": "Electronic Processing",
+    "ChildMenuId": "d149c26d-56f4-48c4-8c9b-cdc4ac9aef28",
+    "ChildMenuLabel": "Electronic Instrument Enquiry"
+  },
+  {
+    "ParentMenuId": "7c8b4f5a-6b43-4bb1-9a98-63c58691db6f",
+    "ParentMenuLabel": "Electronic Processing",
+    "ChildMenuId": "10e1d42f-93e7-4519-80e3-2a11a21b18f1",
+    "ChildMenuLabel": "E-Lodgement Reconciliation Report"
+  },
+  {
+    "ParentMenuId": "7c8b4f5a-6b43-4bb1-9a98-63c58691db6f",
+    "ParentMenuLabel": "Electronic Processing",
+    "ChildMenuId": "b5dc6cb4-8f60-4cab-8360-d09fc32ba692",
+    "ChildMenuLabel": "E-Lodge Case Signature Report"
+  },
+  {
+    "ParentMenuId": "7c8b4f5a-6b43-4bb1-9a98-63c58691db6f",
+    "ParentMenuLabel": "Electronic Processing",
+    "ChildMenuId": "e221611f-d7b9-440d-b6a7-093b75ef935a",
+    "ChildMenuLabel": "eCT Control Report"
+  },
+  {
+    "ParentMenuId": "7c8b4f5a-6b43-4bb1-9a98-63c58691db6f",
+    "ParentMenuLabel": "Electronic Processing",
+    "ChildMenuId": "674148ed-610b-4380-ab43-634e18165813",
+    "ChildMenuLabel": "eCT Maintenance"
+  },
+  {
+    "ParentMenuId": "7c8b4f5a-6b43-4bb1-9a98-63c58691db6f",
+    "ParentMenuLabel": "Electronic Processing",
+    "ChildMenuId": "36b22d26-9ce5-4e24-8b5b-538cc696da56",
+    "ChildMenuLabel": "pCT to eCT Conversion"
+  },
+  {
+    "ParentMenuId": "7c8b4f5a-6b43-4bb1-9a98-63c58691db6f",
+    "ParentMenuLabel": "Electronic Processing",
+    "ChildMenuId": "c4380d1a-4e78-4453-8482-4c21d260ac76",
+    "ChildMenuLabel": "Rules Group Maintenance"
+  },
+  {
+    "ParentMenuId": "194e99df-86f1-4b5d-b1c0-d990abdf91d2",
+    "ParentMenuLabel": "Enquiries",
+    "ChildMenuId": "8709c815-9da8-4d1c-84b3-27320dca8486",
+    "ChildMenuLabel": "Pre Lodgement Enquiry"
+  },
+  {
+    "ParentMenuId": "c1ec2b8c-1134-027f-e044-002128c31ddb",
+    "ParentMenuLabel": "Examination Report",
+    "ChildMenuId": "1e41fac4-57c2-2df8-e054-0003bab01c82",
+    "ChildMenuLabel": "CT Nomination Report"
+  },
+  {
+    "ParentMenuId": "c1ec2b8c-1134-027f-e044-002128c31ddb",
+    "ParentMenuLabel": "Examination Report",
+    "ChildMenuId": "c1ec2b8c-113d-027f-e044-002128c31ddb",
+    "ChildMenuLabel": "Examination Report"
+  },
+  {
+    "ParentMenuId": "c1ec2b8c-1134-027f-e044-002128c31ddb",
+    "ParentMenuLabel": "Examination Report",
+    "ChildMenuId": "c1ec2b8c-113c-027f-e044-002128c31ddb",
+    "ChildMenuLabel": "Examination Report Maintenance"
+  },
+  {
+    "ParentMenuId": "f7515962-2b42-445a-9b7f-48d1f42044b7",
+    "ParentMenuLabel": "Folio",
+    "ChildMenuId": "7e470811-d674-4994-b6d5-3db4dda8c5a1",
+    "ChildMenuLabel": "View Historical Print Files"
+  },
+  {
+    "ParentMenuId": "f7515962-2b42-445a-9b7f-48d1f42044b7",
+    "ParentMenuLabel": "Folio",
+    "ChildMenuId": "6e3da73c-e116-4bb3-affe-c5c56d7880c9",
+    "ChildMenuLabel": "Bar/Debar Folio Maintenance"
+  },
+  {
+    "ParentMenuId": "f7515962-2b42-445a-9b7f-48d1f42044b7",
+    "ParentMenuLabel": "Folio",
+    "ChildMenuId": "9df00e5c-e139-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Folio Creation Maintenance"
+  },
+  {
+    "ParentMenuId": "f7515962-2b42-445a-9b7f-48d1f42044b7",
+    "ParentMenuLabel": "Folio",
+    "ChildMenuId": "59d28093-5af5-41cf-9d3a-2707af0e2d0b",
+    "ChildMenuLabel": "Follow Through Enquiry"
+  },
+  {
+    "ParentMenuId": "f7515962-2b42-445a-9b7f-48d1f42044b7",
+    "ParentMenuLabel": "Folio",
+    "ChildMenuId": "b2d58129-58b2-42c0-b3f0-06a30ceb628e",
+    "ChildMenuLabel": "Folio History Enquiry"
+  },
+  {
+    "ParentMenuId": "f7515962-2b42-445a-9b7f-48d1f42044b7",
+    "ParentMenuLabel": "Folio",
+    "ChildMenuId": "cb180004-2fee-46d3-b6e5-bd883f867037",
+    "ChildMenuLabel": "Folio Enquiry"
+  },
+  {
+    "ParentMenuId": "f7515962-2b42-445a-9b7f-48d1f42044b7",
+    "ParentMenuLabel": "Folio",
+    "ChildMenuId": "34da73e3-6e47-4b41-8731-ed3f93a94699",
+    "ChildMenuLabel": "Folio TID Maintenance"
+  },
+  {
+    "ParentMenuId": "f7515962-2b42-445a-9b7f-48d1f42044b7",
+    "ParentMenuLabel": "Folio",
+    "ChildMenuId": "9ba79c8e-2e1d-6057-e040-007f01002294",
+    "ChildMenuLabel": "Folio Report"
+  },
+  {
+    "ParentMenuId": "f7515962-2b42-445a-9b7f-48d1f42044b7",
+    "ParentMenuLabel": "Folio",
+    "ChildMenuId": "9ba79c8e-2e1c-6057-e040-007f01002294",
+    "ChildMenuLabel": "Folio History Report"
+  },
+  {
+    "ParentMenuId": "f7515962-2b42-445a-9b7f-48d1f42044b7",
+    "ParentMenuLabel": "Folio",
+    "ChildMenuId": "9df00e5c-e131-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Folio Parentage Maintenance"
+  },
+  {
+    "ParentMenuId": "f7515962-2b42-445a-9b7f-48d1f42044b7",
+    "ParentMenuLabel": "Folio",
+    "ChildMenuId": "c2c6c5c1-75bc-4933-a863-56c5311afead",
+    "ChildMenuLabel": "Folio Text Image Report"
+  },
+  {
+    "ParentMenuId": "f7515962-2b42-445a-9b7f-48d1f42044b7",
+    "ParentMenuLabel": "Folio",
+    "ChildMenuId": "93e684a6-9142-496c-a62a-280a22d39554",
+    "ChildMenuLabel": "Folio Upload Report"
+  },
+  {
+    "ParentMenuId": "f7515962-2b42-445a-9b7f-48d1f42044b7",
+    "ParentMenuLabel": "Folio",
+    "ChildMenuId": "9df00e5c-e141-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Interest Folio Maintenance"
+  },
+  {
+    "ParentMenuId": "db16e072-7e6e-4a1d-80e4-b88c4f899b73",
+    "ParentMenuLabel": "Job Management",
+    "ChildMenuId": "3578038e-e22d-471a-908a-25304e286b5e",
+    "ChildMenuLabel": "Report Execution"
+  },
+  {
+    "ParentMenuId": "db16e072-7e6e-4a1d-80e4-b88c4f899b73",
+    "ParentMenuLabel": "Job Management",
+    "ChildMenuId": "d5857ce2-2cb8-4d7f-944a-ca61860f30cb",
+    "ChildMenuLabel": "Batch Program Run Report"
+  },
+  {
+    "ParentMenuId": "50973441-1937-4375-a2a8-7baf1739a27e",
+    "ParentMenuLabel": "LV CLIS Reports",
+    "ChildMenuId": "b86d74dd-6b3c-492a-8653-8a284a3e69d8",
+    "ChildMenuLabel": "CLIS Report"
+  },
+  {
+    "ParentMenuId": "c2932a0c-3220-4b93-8351-15c3df36f4c2",
+    "ParentMenuLabel": "LV Crown Land Registry",
+    "ChildMenuId": "35e19b50-02a1-4a31-a8a2-37807ddd4fef",
+    "ChildMenuLabel": "Native Title Deter. Load Excpt. Rpt"
+  },
+  {
+    "ParentMenuId": "c2932a0c-3220-4b93-8351-15c3df36f4c2",
+    "ParentMenuLabel": "LV Crown Land Registry",
+    "ChildMenuId": "aa875bf8-9d50-45eb-911d-063e151171f4",
+    "ChildMenuLabel": "Dealing Enquiry"
+  },
+  {
+    "ParentMenuId": "c2932a0c-3220-4b93-8351-15c3df36f4c2",
+    "ParentMenuLabel": "LV Crown Land Registry",
+    "ChildMenuId": "34cb3440-0850-4c01-a451-dc7a8838df33",
+    "ChildMenuLabel": "Land Status Maintenance"
+  },
+  {
+    "ParentMenuId": "c2932a0c-3220-4b93-8351-15c3df36f4c2",
+    "ParentMenuLabel": "LV Crown Land Registry",
+    "ChildMenuId": "67aa6ae0-f39f-4e73-84d2-d3325aeb71ac",
+    "ChildMenuLabel": "Park Maintenance"
+  },
+  {
+    "ParentMenuId": "c2932a0c-3220-4b93-8351-15c3df36f4c2",
+    "ParentMenuLabel": "LV Crown Land Registry",
+    "ChildMenuId": "b9d23503-7442-4458-a9a9-a41939fd78d3",
+    "ChildMenuLabel": "Reserve Purpose Maintenance"
+  },
+  {
+    "ParentMenuId": "c2932a0c-3220-4b93-8351-15c3df36f4c2",
+    "ParentMenuLabel": "LV Crown Land Registry",
+    "ChildMenuId": "dfaa28f8-00a0-4e51-9978-22bf87e2c49e",
+    "ChildMenuLabel": "Status Remark Maintenance"
+  },
+  {
+    "ParentMenuId": "c2932a0c-3220-4b93-8351-15c3df36f4c2",
+    "ParentMenuLabel": "LV Crown Land Registry",
+    "ChildMenuId": "9147836d-c4aa-39f5-e040-007f01005a59",
+    "ChildMenuLabel": "Crown Land Parcel Maintenance"
+  },
+  {
+    "ParentMenuId": "c2932a0c-3220-4b93-8351-15c3df36f4c2",
+    "ParentMenuLabel": "LV Crown Land Registry",
+    "ChildMenuId": "91728b67-80bc-0333-e040-007f0100504b",
+    "ChildMenuLabel": "Crown Land Status Maintenance"
+  },
+  {
+    "ParentMenuId": "c2932a0c-3220-4b93-8351-15c3df36f4c2",
+    "ParentMenuLabel": "LV Crown Land Registry",
+    "ChildMenuId": "b24fc86a-8ab4-44cd-b04b-aa0f68cc8cfb",
+    "ChildMenuLabel": "Crown Land Rectification Report"
+  },
+  {
+    "ParentMenuId": "c2932a0c-3220-4b93-8351-15c3df36f4c2",
+    "ParentMenuLabel": "LV Crown Land Registry",
+    "ChildMenuId": "12f127b9-3687-4936-98a0-e11433aaf4af",
+    "ChildMenuLabel": "Crown Land Status Report"
+  },
+  {
+    "ParentMenuId": "c2932a0c-3220-4b93-8351-15c3df36f4c2",
+    "ParentMenuLabel": "LV Crown Land Registry",
+    "ChildMenuId": "96c5531d-daae-4c5a-9f82-a443c0493e8b",
+    "ChildMenuLabel": "Crown Land Tenure History Report"
+  },
+  {
+    "ParentMenuId": "c2932a0c-3220-4b93-8351-15c3df36f4c2",
+    "ParentMenuLabel": "LV Crown Land Registry",
+    "ChildMenuId": "31440c94-4cdc-4b0f-b917-7c9e4e028be3",
+    "ChildMenuLabel": "Parish Land Status Report"
+  },
+  {
+    "ParentMenuId": "c2932a0c-3220-4b93-8351-15c3df36f4c2",
+    "ParentMenuLabel": "LV Crown Land Registry",
+    "ChildMenuId": "03485249-6315-4562-9734-54fe193c0911",
+    "ChildMenuLabel": "Parish Land Verification Report"
+  },
+  {
+    "ParentMenuId": "c2932a0c-3220-4b93-8351-15c3df36f4c2",
+    "ParentMenuLabel": "LV Crown Land Registry",
+    "ChildMenuId": "e776abd0-a45a-40d1-b15c-3511ad0482b5",
+    "ChildMenuLabel": "Register of Rights Report"
+  },
+  {
+    "ParentMenuId": "c2932a0c-3220-4b93-8351-15c3df36f4c2",
+    "ParentMenuLabel": "LV Crown Land Registry",
+    "ChildMenuId": "b86d74dd-6b3c-492a-8653-8a284a3e69d8",
+    "ChildMenuLabel": "CLIS Report"
+  },
+  {
+    "ParentMenuId": "c1300d83-5f2b-4494-92c4-2d82db917873",
+    "ParentMenuLabel": "LV Customer",
+    "ChildMenuId": "1e41fac4-57c9-2df8-e054-0003bab01c82",
+    "ChildMenuLabel": "Withdraw a Nominated pCT"
+  },
+  {
+    "ParentMenuId": "c1300d83-5f2b-4494-92c4-2d82db917873",
+    "ParentMenuLabel": "LV Customer",
+    "ChildMenuId": "1e41fac4-57bf-2df8-e054-0003bab01c82",
+    "ChildMenuLabel": "Add Nomination of pCT"
+  },
+  {
+    "ParentMenuId": "c1300d83-5f2b-4494-92c4-2d82db917873",
+    "ParentMenuLabel": "LV Customer",
+    "ChildMenuId": "daec7d1a-62ea-0c88-e044-0003bab03ed6",
+    "ChildMenuLabel": "Cash Drawer Transaction Report"
+  },
+  {
+    "ParentMenuId": "c1300d83-5f2b-4494-92c4-2d82db917873",
+    "ParentMenuLabel": "LV Customer",
+    "ChildMenuId": "2fdc8d7c-7af8-13f8-e054-0003bab01c82",
+    "ChildMenuLabel": "Allocate Allotment Numbers"
+  },
+  {
+    "ParentMenuId": "c1300d83-5f2b-4494-92c4-2d82db917873",
+    "ParentMenuLabel": "LV Customer",
+    "ChildMenuId": "bf149b30-ff1f-4241-839f-14f5af18783b",
+    "ChildMenuLabel": "Allocate Numbers"
+  },
+  {
+    "ParentMenuId": "c1300d83-5f2b-4494-92c4-2d82db917873",
+    "ParentMenuLabel": "LV Customer",
+    "ChildMenuId": "9ba79c8e-2e2a-6057-e040-007f01002294",
+    "ChildMenuLabel": "Allocated Numbers Report"
+  },
+  {
+    "ParentMenuId": "c1300d83-5f2b-4494-92c4-2d82db917873",
+    "ParentMenuLabel": "LV Customer",
+    "ChildMenuId": "01124392-ba9b-4cee-9572-3d18dccc4406",
+    "ChildMenuLabel": "Case Location Maintenance"
+  },
+  {
+    "ParentMenuId": "c1300d83-5f2b-4494-92c4-2d82db917873",
+    "ParentMenuLabel": "LV Customer",
+    "ChildMenuId": "81424597-4665-4124-b462-9f70804664b9",
+    "ChildMenuLabel": "Case Management"
+  },
+  {
+    "ParentMenuId": "c1300d83-5f2b-4494-92c4-2d82db917873",
+    "ParentMenuLabel": "LV Customer",
+    "ChildMenuId": "8e227686-cc55-9fda-e040-007f01005535",
+    "ChildMenuLabel": "Cash Drawer Balance Adjustment"
+  },
+  {
+    "ParentMenuId": "c1300d83-5f2b-4494-92c4-2d82db917873",
+    "ParentMenuLabel": "LV Customer",
+    "ChildMenuId": "f945a02f-afed-4ea0-a67e-ae4f5b824564",
+    "ChildMenuLabel": "Cash Drawer Cheque Report"
+  },
+  {
+    "ParentMenuId": "c1300d83-5f2b-4494-92c4-2d82db917873",
+    "ParentMenuLabel": "LV Customer",
+    "ChildMenuId": "8e227686-cc5c-9fda-e040-007f01005535",
+    "ChildMenuLabel": "Cash Drawer Assignment Maintenance"
+  },
+  {
+    "ParentMenuId": "c1300d83-5f2b-4494-92c4-2d82db917873",
+    "ParentMenuLabel": "LV Customer",
+    "ChildMenuId": "8e101db7-5100-b712-e040-007f0100024d",
+    "ChildMenuLabel": "Customer Credit Limit Maintenance"
+  },
+  {
+    "ParentMenuId": "c1300d83-5f2b-4494-92c4-2d82db917873",
+    "ParentMenuLabel": "LV Customer",
+    "ChildMenuId": "e0bda49e-5e0e-4c51-9da7-561197bbaa73",
+    "ChildMenuLabel": "Customer Maintenance"
+  },
+  {
+    "ParentMenuId": "c1300d83-5f2b-4494-92c4-2d82db917873",
+    "ParentMenuLabel": "LV Customer",
+    "ChildMenuId": "2c75e75d-02f3-4f6d-b999-2d2827fddf7d",
+    "ChildMenuLabel": "Customer Transaction Enquiry"
+  },
+  {
+    "ParentMenuId": "c1300d83-5f2b-4494-92c4-2d82db917873",
+    "ParentMenuLabel": "LV Customer",
+    "ChildMenuId": "9ba79c8e-2e28-6057-e040-007f01002294",
+    "ChildMenuLabel": "Customer Transaction Report"
+  },
+  {
+    "ParentMenuId": "c1300d83-5f2b-4494-92c4-2d82db917873",
+    "ParentMenuLabel": "LV Customer",
+    "ChildMenuId": "420c9240-f961-43d1-b549-ab1da382ecbd",
+    "ChildMenuLabel": "Dealing Details Maintenance"
+  },
+  {
+    "ParentMenuId": "c1300d83-5f2b-4494-92c4-2d82db917873",
+    "ParentMenuLabel": "LV Customer",
+    "ChildMenuId": "9ba79c8e-2e10-6057-e040-007f01002294",
+    "ChildMenuLabel": "Image Exception Report"
+  },
+  {
+    "ParentMenuId": "c1300d83-5f2b-4494-92c4-2d82db917873",
+    "ParentMenuLabel": "LV Customer",
+    "ChildMenuId": "9df00e5c-e0ec-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Lodgement Maintenance"
+  },
+  {
+    "ParentMenuId": "c1300d83-5f2b-4494-92c4-2d82db917873",
+    "ParentMenuLabel": "LV Customer",
+    "ChildMenuId": "4cfca22a-274b-40e2-aaed-e67cef562ddf",
+    "ChildMenuLabel": "Lodgement Queue Tracking"
+  },
+  {
+    "ParentMenuId": "c1300d83-5f2b-4494-92c4-2d82db917873",
+    "ParentMenuLabel": "LV Customer",
+    "ChildMenuId": "9ba79c8e-2e12-6057-e040-007f01002294",
+    "ChildMenuLabel": "Outstanding CofT Report"
+  },
+  {
+    "ParentMenuId": "c1300d83-5f2b-4494-92c4-2d82db917873",
+    "ParentMenuLabel": "LV Customer",
+    "ChildMenuId": "85c44696-4940-4b03-88f3-bfccb20f5178",
+    "ChildMenuLabel": "Print Dealing Label"
+  },
+  {
+    "ParentMenuId": "c1300d83-5f2b-4494-92c4-2d82db917873",
+    "ParentMenuLabel": "LV Customer",
+    "ChildMenuId": "bf69b999-418d-4895-ad7b-3fd17d91c137",
+    "ChildMenuLabel": "Receipt Maintenance"
+  },
+  {
+    "ParentMenuId": "c1300d83-5f2b-4494-92c4-2d82db917873",
+    "ParentMenuLabel": "LV Customer",
+    "ChildMenuId": "9ba79c8e-2e0f-6057-e040-007f01002294",
+    "ChildMenuLabel": "Unsatisfied Image Request Report"
+  },
+  {
+    "ParentMenuId": "c1300d83-5f2b-4494-92c4-2d82db917873",
+    "ParentMenuLabel": "LV Customer",
+    "ChildMenuId": "526f547c-15da-4749-b965-3f92835d71f0",
+    "ChildMenuLabel": "Void Number Sales"
+  },
+  {
+    "ParentMenuId": "c1300d83-5f2b-4494-92c4-2d82db917873",
+    "ParentMenuLabel": "LV Customer",
+    "ChildMenuId": "80ee9bdc-479e-4095-8075-97da904694b5",
+    "ChildMenuLabel": "Void Receipt"
+  },
+  {
+    "ParentMenuId": "3f3cc17f-527c-48e5-8d82-9648d4e79b5f",
+    "ParentMenuLabel": "LV Finance Menu",
+    "ChildMenuId": "daec7d1a-62ea-0c88-e044-0003bab03ed6",
+    "ChildMenuLabel": "Cash Drawer Transaction Report"
+  },
+  {
+    "ParentMenuId": "3f3cc17f-527c-48e5-8d82-9648d4e79b5f",
+    "ParentMenuLabel": "LV Finance Menu",
+    "ChildMenuId": "083db83e-7b8e-7275-e054-0003bab03ed6",
+    "ChildMenuLabel": "LSS Fee Invoice Reconciliation Data File"
+  },
+  {
+    "ParentMenuId": "3f3cc17f-527c-48e5-8d82-9648d4e79b5f",
+    "ParentMenuLabel": "LV Finance Menu",
+    "ChildMenuId": "da204ace-d17f-456c-e044-0003bab03ed6",
+    "ChildMenuLabel": "LSS Fee Invoice Data File"
+  },
+  {
+    "ParentMenuId": "3f3cc17f-527c-48e5-8d82-9648d4e79b5f",
+    "ParentMenuLabel": "LV Finance Menu",
+    "ChildMenuId": "9ba79c8e-2e15-6057-e040-007f01002294",
+    "ChildMenuLabel": "Outstanding Lodg. Payments Report"
+  },
+  {
+    "ParentMenuId": "3f3cc17f-527c-48e5-8d82-9648d4e79b5f",
+    "ParentMenuLabel": "LV Finance Menu",
+    "ChildMenuId": "4868db3d-37ce-426f-af68-d75ecd0588a3",
+    "ChildMenuLabel": "Dealings YTD Financial Stat. Report"
+  },
+  {
+    "ParentMenuId": "3f3cc17f-527c-48e5-8d82-9648d4e79b5f",
+    "ParentMenuLabel": "LV Finance Menu",
+    "ChildMenuId": "da204ace-d17b-456c-e044-0003bab03ed6",
+    "ChildMenuLabel": "LSS Fee Invoice Data Summary Report"
+  },
+  {
+    "ParentMenuId": "3f3cc17f-527c-48e5-8d82-9648d4e79b5f",
+    "ParentMenuLabel": "LV Finance Menu",
+    "ChildMenuId": "da0d6c37-0e14-0b8f-e044-0003bab03ed6",
+    "ChildMenuLabel": "LSS Fee Invoice Data File"
+  },
+  {
+    "ParentMenuId": "3f3cc17f-527c-48e5-8d82-9648d4e79b5f",
+    "ParentMenuLabel": "LV Finance Menu",
+    "ChildMenuId": "da0d6b60-b216-0b71-e044-0003bab03ed6",
+    "ChildMenuLabel": "LSS Fee Invoice Data Summary Report"
+  },
+  {
+    "ParentMenuId": "3f3cc17f-527c-48e5-8d82-9648d4e79b5f",
+    "ParentMenuLabel": "LV Finance Menu",
+    "ChildMenuId": "d9cffb90-807c-4d14-e044-0003bab03ed6",
+    "ChildMenuLabel": "LSS Fee Invoice Data Summary Report"
+  },
+  {
+    "ParentMenuId": "3f3cc17f-527c-48e5-8d82-9648d4e79b5f",
+    "ParentMenuLabel": "LV Finance Menu",
+    "ChildMenuId": "d9cffb90-8080-4d14-e044-0003bab03ed6",
+    "ChildMenuLabel": "LSS Fee Invoice Data File"
+  },
+  {
+    "ParentMenuId": "3f3cc17f-527c-48e5-8d82-9648d4e79b5f",
+    "ParentMenuLabel": "LV Finance Menu",
+    "ChildMenuId": "420c9240-f961-43d1-b549-ab1da382ecbd",
+    "ChildMenuLabel": "Dealing Details Maintenance"
+  },
+  {
+    "ParentMenuId": "3f3cc17f-527c-48e5-8d82-9648d4e79b5f",
+    "ParentMenuLabel": "LV Finance Menu",
+    "ChildMenuId": "cb180004-2fee-46d3-b6e5-bd883f867037",
+    "ChildMenuLabel": "Folio Enquiry"
+  },
+  {
+    "ParentMenuId": "3f3cc17f-527c-48e5-8d82-9648d4e79b5f",
+    "ParentMenuLabel": "LV Finance Menu",
+    "ChildMenuId": "18a45feb-5a2d-4942-8e74-bf4b26ab1da4",
+    "ChildMenuLabel": "Refund Maintenance"
+  },
+  {
+    "ParentMenuId": "3f3cc17f-527c-48e5-8d82-9648d4e79b5f",
+    "ParentMenuLabel": "LV Finance Menu",
+    "ChildMenuId": "bf69b999-418d-4895-ad7b-3fd17d91c137",
+    "ChildMenuLabel": "Receipt Maintenance"
+  },
+  {
+    "ParentMenuId": "3f3cc17f-527c-48e5-8d82-9648d4e79b5f",
+    "ParentMenuLabel": "LV Finance Menu",
+    "ChildMenuId": "9df00e5c-e0ec-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Lodgement Maintenance"
+  },
+  {
+    "ParentMenuId": "3f3cc17f-527c-48e5-8d82-9648d4e79b5f",
+    "ParentMenuLabel": "LV Finance Menu",
+    "ChildMenuId": "17036cce-78ba-48fe-b1d9-f5ab83db66e4",
+    "ChildMenuLabel": "Cash Drawer Balance Details Report"
+  },
+  {
+    "ParentMenuId": "3f3cc17f-527c-48e5-8d82-9648d4e79b5f",
+    "ParentMenuLabel": "LV Finance Menu",
+    "ChildMenuId": "f945a02f-afed-4ea0-a67e-ae4f5b824564",
+    "ChildMenuLabel": "Cash Drawer Cheque Report"
+  },
+  {
+    "ParentMenuId": "3f3cc17f-527c-48e5-8d82-9648d4e79b5f",
+    "ParentMenuLabel": "LV Finance Menu",
+    "ChildMenuId": "10e1d42f-93e7-4519-80e3-2a11a21b18f1",
+    "ChildMenuLabel": "E-Lodgement Reconciliation Report"
+  },
+  {
+    "ParentMenuId": "3f3cc17f-527c-48e5-8d82-9648d4e79b5f",
+    "ParentMenuLabel": "LV Finance Menu",
+    "ChildMenuId": "849126ab-68cb-474d-8bf7-b987e0a76f85",
+    "ChildMenuLabel": "Fee Variations Report"
+  },
+  {
+    "ParentMenuId": "3f3cc17f-527c-48e5-8d82-9648d4e79b5f",
+    "ParentMenuLabel": "LV Finance Menu",
+    "ChildMenuId": "9ba79c8e-2e19-6057-e040-007f01002294",
+    "ChildMenuLabel": "Lodgement Summary Report"
+  },
+  {
+    "ParentMenuId": "3f3cc17f-527c-48e5-8d82-9648d4e79b5f",
+    "ParentMenuLabel": "LV Finance Menu",
+    "ChildMenuId": "3fa5b3e9-efe3-46e0-aa3f-c1b2a9a33475",
+    "ChildMenuLabel": "LRS Dealing Report"
+  },
+  {
+    "ParentMenuId": "098d0bd9-7fdc-419d-a63f-5c0ee0c8e07c",
+    "ParentMenuLabel": "LV Landata Officers",
+    "ChildMenuId": "8e227686-cc55-9fda-e040-007f01005535",
+    "ChildMenuLabel": "Cash Drawer Balance Adjustment"
+  },
+  {
+    "ParentMenuId": "098d0bd9-7fdc-419d-a63f-5c0ee0c8e07c",
+    "ParentMenuLabel": "LV Landata Officers",
+    "ChildMenuId": "bf69b999-418d-4895-ad7b-3fd17d91c137",
+    "ChildMenuLabel": "Receipt Maintenance"
+  },
+  {
+    "ParentMenuId": "098d0bd9-7fdc-419d-a63f-5c0ee0c8e07c",
+    "ParentMenuLabel": "LV Landata Officers",
+    "ChildMenuId": "85c44696-4940-4b03-88f3-bfccb20f5178",
+    "ChildMenuLabel": "Print Dealing Label"
+  },
+  {
+    "ParentMenuId": "098d0bd9-7fdc-419d-a63f-5c0ee0c8e07c",
+    "ParentMenuLabel": "LV Landata Officers",
+    "ChildMenuId": "8e227686-cc5c-9fda-e040-007f01005535",
+    "ChildMenuLabel": "Cash Drawer Assignment Maintenance"
+  },
+  {
+    "ParentMenuId": "098d0bd9-7fdc-419d-a63f-5c0ee0c8e07c",
+    "ParentMenuLabel": "LV Landata Officers",
+    "ChildMenuId": "f945a02f-afed-4ea0-a67e-ae4f5b824564",
+    "ChildMenuLabel": "Cash Drawer Cheque Report"
+  },
+  {
+    "ParentMenuId": "098d0bd9-7fdc-419d-a63f-5c0ee0c8e07c",
+    "ParentMenuLabel": "LV Landata Officers",
+    "ChildMenuId": "9ba79c8e-2e10-6057-e040-007f01002294",
+    "ChildMenuLabel": "Image Exception Report"
+  },
+  {
+    "ParentMenuId": "0e2d383c-c7ea-4f86-989d-a2ba71df4bc3",
+    "ParentMenuLabel": "LV Legal Officers",
+    "ChildMenuId": "a12ff0c6-439f-4811-b548-b292403ee82f",
+    "ChildMenuLabel": "Dealing Secondary File Note Maint."
+  },
+  {
+    "ParentMenuId": "0e2d383c-c7ea-4f86-989d-a2ba71df4bc3",
+    "ParentMenuLabel": "LV Legal Officers",
+    "ChildMenuId": "4e449086-5c40-43ea-ac33-96d1864fde1c",
+    "ChildMenuLabel": "Bar/Debar Case Maintenance"
+  },
+  {
+    "ParentMenuId": "0e2d383c-c7ea-4f86-989d-a2ba71df4bc3",
+    "ParentMenuLabel": "LV Legal Officers",
+    "ChildMenuId": "6e3da73c-e116-4bb3-affe-c5c56d7880c9",
+    "ChildMenuLabel": "Bar/Debar Folio Maintenance"
+  },
+  {
+    "ParentMenuId": "0e2d383c-c7ea-4f86-989d-a2ba71df4bc3",
+    "ParentMenuLabel": "LV Legal Officers",
+    "ChildMenuId": "6eab157f-da1a-43fe-bd1d-af767738a798",
+    "ChildMenuLabel": "Registration Bar Folio Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "58e3136d-b067-2b80-e054-0003bab01c82",
+    "ChildMenuLabel": "New Message Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "58e3136d-b073-2b80-e054-0003bab01c82",
+    "ChildMenuLabel": "New Substitution Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "71e462c0-dfe8-4bc5-b764-c563323747ae",
+    "ChildMenuLabel": "Physical Printer Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "58e3136d-b067-2b80-e054-0003bab01c82",
+    "ChildMenuLabel": "New Message Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "58e3136d-b072-2b80-e054-0003bab01c82",
+    "ChildMenuLabel": "New Parameter Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "512b159f-7a44-435f-a333-b45430aa5dbf",
+    "ChildMenuLabel": "Access Administration"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "58e3136d-b072-2b80-e054-0003bab01c82",
+    "ChildMenuLabel": "New Parameter Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "58e3136d-b067-2b80-e054-0003bab01c82",
+    "ChildMenuLabel": "New Message Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "58e3136d-b072-2b80-e054-0003bab01c82",
+    "ChildMenuLabel": "New Parameter Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "315d21ed-7dfd-3de3-e054-0003bab01c82",
+    "ChildMenuLabel": "Region Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "e358e6eb-a5cd-49fe-8a33-5b7a7a6ff7d8",
+    "ChildMenuLabel": "Electronic Examination Guide Maint."
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "8adecab2-5262-99b6-e040-007f01004483",
+    "ChildMenuLabel": "Fee Type Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "8bdab0bd-c47b-f0e6-e040-007f01001951",
+    "ChildMenuLabel": "Dealing Type Guide Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "8bdab0bd-c490-f0e6-e040-007f01001951",
+    "ChildMenuLabel": "Dealing Type Combination Maint."
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "c7e9300f-84ef-4a42-9ffc-7bc964e957e1",
+    "ChildMenuLabel": "Caveat Combination Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "75f141e9-5ebf-4332-8825-2c59228ca00b",
+    "ChildMenuLabel": "Change Dealing Type Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "59312eec-de36-450e-e054-0003bab01c82",
+    "ChildMenuLabel": "New Printer Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "58f9487e-dd79-0077-e054-0003bab01c82",
+    "ChildMenuLabel": ""
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "70c86b17-a75e-1da5-e054-0003bab01c82",
+    "ChildMenuLabel": "Lassi Import Rejection Report"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "53b3725e-917f-4e7c-e054-0003bab01c82",
+    "ChildMenuLabel": "New Code Type\\Code Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "59996773-0ad0-1e8e-e054-0003bab01c82",
+    "ChildMenuLabel": "PN Document Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "9dd27b4c-1d3c-4b6c-83cb-98df64a68e32",
+    "ChildMenuLabel": "Code Type\\Code Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "58f91e71-7916-0023-e054-0003bab01c82",
+    "ChildMenuLabel": ""
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "8e101db7-5100-b712-e040-007f0100024d",
+    "ChildMenuLabel": "Customer Credit Limit Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "8fb6aecb-764e-b6df-e040-007f01001ae3",
+    "ChildMenuLabel": "Dealing Refusal Purge"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "8a0ef984-c17f-3193-e040-007f01005ffd",
+    "ChildMenuLabel": "Dealing Status Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "a2e3e81d-921b-f7d1-e040-007f01003510",
+    "ChildMenuLabel": "Debug Trace Configuration"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "8adecab2-524d-99b6-e040-007f01004483",
+    "ChildMenuLabel": "Endorsement Template Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "89b96ffc-de78-4cb2-8bac-8c21585e1ed8",
+    "ChildMenuLabel": "Fee Unit Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "ffc1ab20-49b2-4bb3-aead-eeeae42ee67b",
+    "ChildMenuLabel": "Folio Notation Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "8ab498b8-9db8-e1e6-e040-007f0100515f",
+    "ChildMenuLabel": "Folio Type Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "02fe7244-df9e-4b61-b860-d2054531e371",
+    "ChildMenuLabel": "Government Proprietor Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "34a1817a-3b6d-4f63-a769-698b626102e8",
+    "ChildMenuLabel": "Help Link Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "8a0ef984-c186-3193-e040-007f01005ffd",
+    "ChildMenuLabel": "Image Class Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "8e101db7-511c-b712-e040-007f0100024d",
+    "ChildMenuLabel": "Land Administrator Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "2183b88d-d711-4055-a610-639636c52b53",
+    "ChildMenuLabel": "Job Scheduling"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "2db1c18b-7e7a-4413-aa57-fcd05522f776",
+    "ChildMenuLabel": "Job Type Administration"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "8d5bc907-70ea-9c71-e040-007f01005adb",
+    "ChildMenuLabel": "Manner of Holding Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "8bdab0bd-c451-f0e6-e040-007f01001951",
+    "ChildMenuLabel": "Municipality Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "8adecab2-525b-99b6-e040-007f01004483",
+    "ChildMenuLabel": "Notice Template Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "8e101db7-5107-b712-e040-007f0100024d",
+    "ChildMenuLabel": "Number Type Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "8bdab0bd-c4a5-f0e6-e040-007f01001951",
+    "ChildMenuLabel": "Parish Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "8adecab2-5269-99b6-e040-007f01004483",
+    "ChildMenuLabel": "Product Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "5490b853-e5d1-43be-9e85-5cabbf36d5a7",
+    "ChildMenuLabel": "Report Administration"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "dd824c02-667f-4533-a970-f7269dc88e97",
+    "ChildMenuLabel": "Report Scheduling"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "24291f0e-5f82-4f12-8d10-156d95d08499",
+    "ChildMenuLabel": "Resubmit CofT Batch"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "6ca0b224-93e2-4ff9-bcb9-178ac657545e",
+    "ChildMenuLabel": "Resubmit Notice Batch"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "8b23b511-6e5b-4fbf-9f91-0022c257c1cf",
+    "ChildMenuLabel": "Resubmit Notice Batch Print"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "73fc79a7-3158-4328-84d1-69420e4e3d02",
+    "ChildMenuLabel": "Rules Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "492fbfbd-4da5-4237-b1a3-44bdcf49571e",
+    "ChildMenuLabel": "Rules Manager"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "89a9f9fb-5d10-65f5-e040-007f01002592",
+    "ChildMenuLabel": "Standard Party Name Maintenance "
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "8ab498b8-9db1-e1e6-e040-007f0100515f",
+    "ChildMenuLabel": "Standard Phrase Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "89a9f9fb-5d0a-65f5-e040-007f01002592",
+    "ChildMenuLabel": "Township Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "72d330d1-861b-4791-9432-0ea54388f4ef",
+    "ChildMenuLabel": "Vots Printer Maintenance"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "b16342e3-6294-4efe-80fe-eddb98093e66",
+    "ChildMenuLabel": "Web Services Support"
+  },
+  {
+    "ParentMenuId": "fea52c14-888d-4446-944c-47618c32b13d",
+    "ParentMenuLabel": "LV System Admin",
+    "ChildMenuId": "654afbf8-29e3-0a13-e054-0003bab01c82",
+    "ChildMenuLabel": "Licensee SPI Maintenance"
+  },
+  {
+    "ParentMenuId": "5f495af0-9292-4a8a-8cfc-8255c44efeca",
+    "ParentMenuLabel": "LV System Admin Reports",
+    "ChildMenuId": "1e41fac4-57c2-2df8-e054-0003bab01c82",
+    "ChildMenuLabel": "CT Nomination Report"
+  },
+  {
+    "ParentMenuId": "5f495af0-9292-4a8a-8cfc-8255c44efeca",
+    "ParentMenuLabel": "LV System Admin Reports",
+    "ChildMenuId": "bf2cd9fb-846c-6a81-e044-002128c31ddb",
+    "ChildMenuLabel": "Batch Print Statistics Report"
+  },
+  {
+    "ParentMenuId": "5f495af0-9292-4a8a-8cfc-8255c44efeca",
+    "ParentMenuLabel": "LV System Admin Reports",
+    "ChildMenuId": "d5857ce2-2cb8-4d7f-944a-ca61860f30cb",
+    "ChildMenuLabel": "Batch Program Run Report"
+  },
+  {
+    "ParentMenuId": "5f495af0-9292-4a8a-8cfc-8255c44efeca",
+    "ParentMenuLabel": "LV System Admin Reports",
+    "ChildMenuId": "9bbb1c7d-3dd7-45ee-aeb9-8370d91e6647",
+    "ChildMenuLabel": "CofT Batch Bulk Report"
+  },
+  {
+    "ParentMenuId": "5f495af0-9292-4a8a-8cfc-8255c44efeca",
+    "ParentMenuLabel": "LV System Admin Reports",
+    "ChildMenuId": "833e6bbd-213e-4ec1-8024-68f9ad593c4b",
+    "ChildMenuLabel": "CofT Batch Completion Report"
+  },
+  {
+    "ParentMenuId": "5f495af0-9292-4a8a-8cfc-8255c44efeca",
+    "ParentMenuLabel": "LV System Admin Reports",
+    "ChildMenuId": "7995d4a7-097c-4fe6-ba02-9e22732cbb0d",
+    "ChildMenuLabel": "Coft Reprint Report"
+  },
+  {
+    "ParentMenuId": "5f495af0-9292-4a8a-8cfc-8255c44efeca",
+    "ParentMenuLabel": "LV System Admin Reports",
+    "ChildMenuId": "d5794269-8621-407e-aa7a-8fe2ab372711",
+    "ChildMenuLabel": "Fee Type Code Report"
+  },
+  {
+    "ParentMenuId": "5f495af0-9292-4a8a-8cfc-8255c44efeca",
+    "ParentMenuLabel": "LV System Admin Reports",
+    "ChildMenuId": "59efd431-24d4-430a-acd7-d674efdb5831",
+    "ChildMenuLabel": "Multi CofT Reprint Report"
+  },
+  {
+    "ParentMenuId": "5f495af0-9292-4a8a-8cfc-8255c44efeca",
+    "ParentMenuLabel": "LV System Admin Reports",
+    "ChildMenuId": "ad27e290-cb31-46c8-b037-f2597f00b6ea",
+    "ChildMenuLabel": "Notice Batch Completion Report"
+  },
+  {
+    "ParentMenuId": "5f495af0-9292-4a8a-8cfc-8255c44efeca",
+    "ParentMenuLabel": "LV System Admin Reports",
+    "ChildMenuId": "a627f4f3-fe95-46eb-bf54-8f7312d2151c",
+    "ChildMenuLabel": "User Security Report"
+  },
+  {
+    "ParentMenuId": "5f495af0-9292-4a8a-8cfc-8255c44efeca",
+    "ParentMenuLabel": "LV System Admin Reports",
+    "ChildMenuId": "addc9c2a-d7cf-41e3-9604-0ca8facba754",
+    "ChildMenuLabel": "VicMap Import Rejection Report"
+  },
+  {
+    "ParentMenuId": "5f495af0-9292-4a8a-8cfc-8255c44efeca",
+    "ParentMenuLabel": "LV System Admin Reports",
+    "ChildMenuId": "398ccb4f-7afb-4e64-82ad-d50d8a0d0328",
+    "ChildMenuLabel": "VicMap Import Review Report"
+  },
+  {
+    "ParentMenuId": "82a268b8-bf0d-4d43-bbae-d933bceb7260",
+    "ParentMenuLabel": "LV Systems Help Desk",
+    "ChildMenuId": "512b159f-7a44-435f-a333-b45430aa5dbf",
+    "ChildMenuLabel": "Access Administration"
+  },
+  {
+    "ParentMenuId": "82a268b8-bf0d-4d43-bbae-d933bceb7260",
+    "ParentMenuLabel": "LV Systems Help Desk",
+    "ChildMenuId": "d5857ce2-2cb8-4d7f-944a-ca61860f30cb",
+    "ChildMenuLabel": "Batch Program Run Report"
+  },
+  {
+    "ParentMenuId": "82a268b8-bf0d-4d43-bbae-d933bceb7260",
+    "ParentMenuLabel": "LV Systems Help Desk",
+    "ChildMenuId": "a2e3e81d-921b-f7d1-e040-007f01003510",
+    "ChildMenuLabel": "Debug Trace Configuration"
+  },
+  {
+    "ParentMenuId": "82a268b8-bf0d-4d43-bbae-d933bceb7260",
+    "ParentMenuLabel": "LV Systems Help Desk",
+    "ChildMenuId": "707cbd2a-6ce9-4d2a-894a-88e11c2aebe6",
+    "ChildMenuLabel": "Job Enquiry"
+  },
+  {
+    "ParentMenuId": "82a268b8-bf0d-4d43-bbae-d933bceb7260",
+    "ParentMenuLabel": "LV Systems Help Desk",
+    "ChildMenuId": "85c44696-4940-4b03-88f3-bfccb20f5178",
+    "ChildMenuLabel": "Print Dealing Label"
+  },
+  {
+    "ParentMenuId": "82a268b8-bf0d-4d43-bbae-d933bceb7260",
+    "ParentMenuLabel": "LV Systems Help Desk",
+    "ChildMenuId": "a627f4f3-fe95-46eb-bf54-8f7312d2151c",
+    "ChildMenuLabel": "User Security Report"
+  },
+  {
+    "ParentMenuId": "82a268b8-bf0d-4d43-bbae-d933bceb7260",
+    "ParentMenuLabel": "LV Systems Help Desk",
+    "ChildMenuId": "addc9c2a-d7cf-41e3-9604-0ca8facba754",
+    "ChildMenuLabel": "VicMap Import Rejection Report"
+  },
+  {
+    "ParentMenuId": "82a268b8-bf0d-4d43-bbae-d933bceb7260",
+    "ParentMenuLabel": "LV Systems Help Desk",
+    "ChildMenuId": "398ccb4f-7afb-4e64-82ad-d50d8a0d0328",
+    "ChildMenuLabel": "VicMap Import Review Report"
+  },
+  {
+    "ParentMenuId": "82a268b8-bf0d-4d43-bbae-d933bceb7260",
+    "ParentMenuLabel": "LV Systems Help Desk",
+    "ChildMenuId": "b16342e3-6294-4efe-80fe-eddb98093e66",
+    "ChildMenuLabel": "Web Services Support"
+  },
+  {
+    "ParentMenuId": "126cf8fe-34db-4a9b-b1e0-7bc7ee2e0e16",
+    "ParentMenuLabel": "Land Parcel",
+    "ChildMenuId": "addc9c2a-d7cf-41e3-9604-0ca8facba754",
+    "ChildMenuLabel": "VicMap Import Rejection Report"
+  },
+  {
+    "ParentMenuId": "126cf8fe-34db-4a9b-b1e0-7bc7ee2e0e16",
+    "ParentMenuLabel": "Land Parcel",
+    "ChildMenuId": "398ccb4f-7afb-4e64-82ad-d50d8a0d0328",
+    "ChildMenuLabel": "VicMap Import Review Report"
+  },
+  {
+    "ParentMenuId": "126cf8fe-34db-4a9b-b1e0-7bc7ee2e0e16",
+    "ParentMenuLabel": "Land Parcel",
+    "ChildMenuId": "92b137d7-353b-4cd8-94fb-27f295b3dc58",
+    "ChildMenuLabel": "Land Parcel Address Maintenance"
+  },
+  {
+    "ParentMenuId": "f054e385-bee0-4675-b540-f14ea4ba51f2",
+    "ParentMenuLabel": "Landata Module",
+    "ChildMenuId": "92b137d7-353b-4cd8-94fb-27f295b3dc58",
+    "ChildMenuLabel": "Land Parcel Address Maintenance"
+  },
+  {
+    "ParentMenuId": "f22983f7-569e-4b6b-862d-efddc60ba192",
+    "ParentMenuLabel": "Legal Module",
+    "ChildMenuId": "a12ff0c6-439f-4811-b548-b292403ee82f",
+    "ChildMenuLabel": "Dealing Secondary File Note Maint."
+  },
+  {
+    "ParentMenuId": "f22983f7-569e-4b6b-862d-efddc60ba192",
+    "ParentMenuLabel": "Legal Module",
+    "ChildMenuId": "9df00e5c-e103-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Encum No Longer Affects Maintenance"
+  },
+  {
+    "ParentMenuId": "f22983f7-569e-4b6b-862d-efddc60ba192",
+    "ParentMenuLabel": "Legal Module",
+    "ChildMenuId": "2b352998-a3ae-4d99-9b24-132410e8585e",
+    "ChildMenuLabel": "Dealing File Note Maintenance"
+  },
+  {
+    "ParentMenuId": "f22983f7-569e-4b6b-862d-efddc60ba192",
+    "ParentMenuLabel": "Legal Module",
+    "ChildMenuId": "168a8d12-5a71-4d2d-b2c8-d36b9c21544a",
+    "ChildMenuLabel": "Case Registration"
+  },
+  {
+    "ParentMenuId": "f22983f7-569e-4b6b-862d-efddc60ba192",
+    "ParentMenuLabel": "Legal Module",
+    "ChildMenuId": "75f141e9-5ebf-4332-8825-2c59228ca00b",
+    "ChildMenuLabel": "Change Dealing Type Maintenance"
+  },
+  {
+    "ParentMenuId": "f22983f7-569e-4b6b-862d-efddc60ba192",
+    "ParentMenuLabel": "Legal Module",
+    "ChildMenuId": "27461f01-19e0-4dc2-8a11-f7bd0a135b22",
+    "ChildMenuLabel": "Registration Preview"
+  },
+  {
+    "ParentMenuId": "f22983f7-569e-4b6b-862d-efddc60ba192",
+    "ParentMenuLabel": "Legal Module",
+    "ChildMenuId": "69576dcb-df98-4834-b77a-764fe3552d2b",
+    "ChildMenuLabel": "Withdraw, Reject or Abandon Case"
+  },
+  {
+    "ParentMenuId": "f22983f7-569e-4b6b-862d-efddc60ba192",
+    "ParentMenuLabel": "Legal Module",
+    "ChildMenuId": "6e3da73c-e116-4bb3-affe-c5c56d7880c9",
+    "ChildMenuLabel": "Bar/Debar Folio Maintenance"
+  },
+  {
+    "ParentMenuId": "f22983f7-569e-4b6b-862d-efddc60ba192",
+    "ParentMenuLabel": "Legal Module",
+    "ChildMenuId": "4e449086-5c40-43ea-ac33-96d1864fde1c",
+    "ChildMenuLabel": "Bar/Debar Case Maintenance"
+  },
+  {
+    "ParentMenuId": "f22983f7-569e-4b6b-862d-efddc60ba192",
+    "ParentMenuLabel": "Legal Module",
+    "ChildMenuId": "6eab157f-da1a-43fe-bd1d-af767738a798",
+    "ChildMenuLabel": "Registration Bar Folio Maintenance"
+  },
+  {
+    "ParentMenuId": "f22983f7-569e-4b6b-862d-efddc60ba192",
+    "ParentMenuLabel": "Legal Module",
+    "ChildMenuId": "6a7d4840-6c55-4f43-af7c-57ae329d2a50",
+    "ChildMenuLabel": "Pending Registration Enquiry"
+  },
+  {
+    "ParentMenuId": "f22983f7-569e-4b6b-862d-efddc60ba192",
+    "ParentMenuLabel": "Legal Module",
+    "ChildMenuId": "074f8e71-ff6a-4553-9743-ff99cd990799",
+    "ChildMenuLabel": "Notice Creation"
+  },
+  {
+    "ParentMenuId": "f22983f7-569e-4b6b-862d-efddc60ba192",
+    "ParentMenuLabel": "Legal Module",
+    "ChildMenuId": "034ccca0-f39d-4d0d-a986-b972e677b54c",
+    "ChildMenuLabel": "Notice Maintenance"
+  },
+  {
+    "ParentMenuId": "f22983f7-569e-4b6b-862d-efddc60ba192",
+    "ParentMenuLabel": "Legal Module",
+    "ChildMenuId": "6fce3ca3-6a44-4023-958b-e5ee56cc0565",
+    "ChildMenuLabel": "CofT Batch Print Maintenance"
+  },
+  {
+    "ParentMenuId": "f22983f7-569e-4b6b-862d-efddc60ba192",
+    "ParentMenuLabel": "Legal Module",
+    "ChildMenuId": "7d9156ad-cc40-4127-b58f-913c78cc8d92",
+    "ChildMenuLabel": "Certificate of Title Reprint"
+  },
+  {
+    "ParentMenuId": "f22983f7-569e-4b6b-862d-efddc60ba192",
+    "ParentMenuLabel": "Legal Module",
+    "ChildMenuId": "48e8a8e2-e42c-4478-9727-afd53ef372ff",
+    "ChildMenuLabel": "ALTS Dealing History Maintenance"
+  },
+  {
+    "ParentMenuId": "f22983f7-569e-4b6b-862d-efddc60ba192",
+    "ParentMenuLabel": "Legal Module",
+    "ChildMenuId": "96f498d7-3715-4238-93bf-f7d5c97c5071",
+    "ChildMenuLabel": "As to Part Maintenance"
+  },
+  {
+    "ParentMenuId": "f22983f7-569e-4b6b-862d-efddc60ba192",
+    "ParentMenuLabel": "Legal Module",
+    "ChildMenuId": "ffc1ab20-49b2-4bb3-aead-eeeae42ee67b",
+    "ChildMenuLabel": "Folio Notation Maintenance"
+  },
+  {
+    "ParentMenuId": "f22983f7-569e-4b6b-862d-efddc60ba192",
+    "ParentMenuLabel": "Legal Module",
+    "ChildMenuId": "f08e3d6e-135a-40d9-bc31-ed18adb8bdd8",
+    "ChildMenuLabel": "Pending Registration Report"
+  },
+  {
+    "ParentMenuId": "f22983f7-569e-4b6b-862d-efddc60ba192",
+    "ParentMenuLabel": "Legal Module",
+    "ChildMenuId": "705a42bf-176a-4010-833e-39d0c42032f2",
+    "ChildMenuLabel": "Registration Preview Report"
+  },
+  {
+    "ParentMenuId": "0ac13336-5f84-455a-9f2d-8c2751020916",
+    "ParentMenuLabel": "Lodgement",
+    "ChildMenuId": "9df00e5c-e0ec-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Lodgement Maintenance"
+  },
+  {
+    "ParentMenuId": "0ac13336-5f84-455a-9f2d-8c2751020916",
+    "ParentMenuLabel": "Lodgement",
+    "ChildMenuId": "4cfca22a-274b-40e2-aaed-e67cef562ddf",
+    "ChildMenuLabel": "Lodgement Queue Tracking"
+  },
+  {
+    "ParentMenuId": "0ac13336-5f84-455a-9f2d-8c2751020916",
+    "ParentMenuLabel": "Lodgement",
+    "ChildMenuId": "9df00e5c-e0f4-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Officer Availability Maintenance"
+  },
+  {
+    "ParentMenuId": "0ac13336-5f84-455a-9f2d-8c2751020916",
+    "ParentMenuLabel": "Lodgement",
+    "ChildMenuId": "9ba79c8e-2e19-6057-e040-007f01002294",
+    "ChildMenuLabel": "Lodgement Summary Report"
+  },
+  {
+    "ParentMenuId": "4e0dd324-55bb-48c4-8229-ab85ceb5c2d5",
+    "ParentMenuLabel": "Management",
+    "ChildMenuId": "a30c3baf-5dbf-4708-9d55-5883bd4e2fd0",
+    "ChildMenuLabel": "Lodgement Progress Enquiry"
+  },
+  {
+    "ParentMenuId": "4e0dd324-55bb-48c4-8229-ab85ceb5c2d5",
+    "ParentMenuLabel": "Management",
+    "ChildMenuId": "a0dbe8e4-49c4-42db-bc6c-67cd8f724382",
+    "ChildMenuLabel": "Expired Notice Report"
+  },
+  {
+    "ParentMenuId": "4e0dd324-55bb-48c4-8229-ab85ceb5c2d5",
+    "ParentMenuLabel": "Management",
+    "ChildMenuId": "1568fa5e-7e84-41cc-ba6d-10f755d82c97",
+    "ChildMenuLabel": "Leader/Follower Audit Report"
+  },
+  {
+    "ParentMenuId": "4e0dd324-55bb-48c4-8229-ab85ceb5c2d5",
+    "ParentMenuLabel": "Management",
+    "ChildMenuId": "2b0812cb-1bbf-47de-82ba-549dcfad250d",
+    "ChildMenuLabel": "Productivity Report"
+  },
+  {
+    "ParentMenuId": "4e0dd324-55bb-48c4-8229-ab85ceb5c2d5",
+    "ParentMenuLabel": "Management",
+    "ChildMenuId": "0e7f6de8-186d-462b-838c-f3d835da55f1",
+    "ChildMenuLabel": "Audit Enquiry"
+  },
+  {
+    "ParentMenuId": "4e0dd324-55bb-48c4-8229-ab85ceb5c2d5",
+    "ParentMenuLabel": "Management",
+    "ChildMenuId": "8fb6aecb-764e-b6df-e040-007f01001ae3",
+    "ChildMenuLabel": "Dealing Refusal Purge"
+  },
+  {
+    "ParentMenuId": "4e0dd324-55bb-48c4-8229-ab85ceb5c2d5",
+    "ParentMenuLabel": "Management",
+    "ChildMenuId": "9a3b079f-26fd-405c-91cb-f61dcafbd438",
+    "ChildMenuLabel": "Audit Report"
+  },
+  {
+    "ParentMenuId": "4e0dd324-55bb-48c4-8229-ab85ceb5c2d5",
+    "ParentMenuLabel": "Management",
+    "ChildMenuId": "d5857ce2-2cb8-4d7f-944a-ca61860f30cb",
+    "ChildMenuLabel": "Batch Program Run Report"
+  },
+  {
+    "ParentMenuId": "4e0dd324-55bb-48c4-8229-ab85ceb5c2d5",
+    "ParentMenuLabel": "Management",
+    "ChildMenuId": "a627f4f3-fe95-46eb-bf54-8f7312d2151c",
+    "ChildMenuLabel": "User Security Report"
+  },
+  {
+    "ParentMenuId": "4e0dd324-55bb-48c4-8229-ab85ceb5c2d5",
+    "ParentMenuLabel": "Management",
+    "ChildMenuId": "b16342e3-6294-4efe-80fe-eddb98093e66",
+    "ChildMenuLabel": "Web Services Support"
+  },
+  {
+    "ParentMenuId": "4e0dd324-55bb-48c4-8229-ab85ceb5c2d5",
+    "ParentMenuLabel": "Management",
+    "ChildMenuId": "9ba79c8e-2e0f-6057-e040-007f01002294",
+    "ChildMenuLabel": "Unsatisfied Image Request Report"
+  },
+  {
+    "ParentMenuId": "4e0dd324-55bb-48c4-8229-ab85ceb5c2d5",
+    "ParentMenuLabel": "Management",
+    "ChildMenuId": "9ba79c8e-2e10-6057-e040-007f01002294",
+    "ChildMenuLabel": "Image Exception Report"
+  },
+  {
+    "ParentMenuId": "4e0dd324-55bb-48c4-8229-ab85ceb5c2d5",
+    "ParentMenuLabel": "Management",
+    "ChildMenuId": "9ba79c8e-2e12-6057-e040-007f01002294",
+    "ChildMenuLabel": "Outstanding CofT Report"
+  },
+  {
+    "ParentMenuId": "4e0dd324-55bb-48c4-8229-ab85ceb5c2d5",
+    "ParentMenuLabel": "Management",
+    "ChildMenuId": "06f5a03f-df9e-4cb3-8cb1-1f9ed89bb58c",
+    "ChildMenuLabel": "Subdivision Service Standard Report"
+  },
+  {
+    "ParentMenuId": "617f4336-0d19-4072-bf00-d38e765995c3",
+    "ParentMenuLabel": "New Folio Module",
+    "ChildMenuId": "e444dfb0-7529-4bf0-bb74-e2ff76f95de4",
+    "ChildMenuLabel": "New Folio Encumb. Aff. Prop. Maint."
+  },
+  {
+    "ParentMenuId": "617f4336-0d19-4072-bf00-d38e765995c3",
+    "ParentMenuLabel": "New Folio Module",
+    "ChildMenuId": "83d94b0c-4d2c-46c6-955d-2f000801a565",
+    "ChildMenuLabel": "Crown Desc. Range Group Maint."
+  },
+  {
+    "ParentMenuId": "617f4336-0d19-4072-bf00-d38e765995c3",
+    "ParentMenuLabel": "New Folio Module",
+    "ChildMenuId": "9af3dad1-ab8e-4e06-9202-313aca0e4891",
+    "ChildMenuLabel": "NewFolio Prop. GroupFree TextMaint."
+  },
+  {
+    "ParentMenuId": "617f4336-0d19-4072-bf00-d38e765995c3",
+    "ParentMenuLabel": "New Folio Module",
+    "ChildMenuId": "c70d88d5-6c27-4f68-9f30-035b0e3fa5ec",
+    "ChildMenuLabel": "New Folio Land Free Text Maint."
+  },
+  {
+    "ParentMenuId": "617f4336-0d19-4072-bf00-d38e765995c3",
+    "ParentMenuLabel": "New Folio Module",
+    "ChildMenuId": "8002f0ec-2462-4834-b38f-74cb1cdbf1b2",
+    "ChildMenuLabel": "New Folio Exec/Admin/Trust Maint."
+  },
+  {
+    "ParentMenuId": "617f4336-0d19-4072-bf00-d38e765995c3",
+    "ParentMenuLabel": "New Folio Module",
+    "ChildMenuId": "4bfe4b84-bf60-43ad-b902-405e2f64b649",
+    "ChildMenuLabel": "Lot on Plan Range Group Maintenance"
+  },
+  {
+    "ParentMenuId": "617f4336-0d19-4072-bf00-d38e765995c3",
+    "ParentMenuLabel": "New Folio Module",
+    "ChildMenuId": "cf54c4ae-4141-43bf-aa8f-ac7cbddbfa89",
+    "ChildMenuLabel": "Lot on TP Range Group Maintenance"
+  },
+  {
+    "ParentMenuId": "617f4336-0d19-4072-bf00-d38e765995c3",
+    "ParentMenuLabel": "New Folio Module",
+    "ChildMenuId": "ff5636cb-985c-4554-99d8-40388e666f50",
+    "ChildMenuLabel": "Owners Corporation Maintenance"
+  },
+  {
+    "ParentMenuId": "617f4336-0d19-4072-bf00-d38e765995c3",
+    "ParentMenuLabel": "New Folio Module",
+    "ChildMenuId": "af3fef6a-86e4-44a6-bbe9-d106615b76d7",
+    "ChildMenuLabel": "Owners Corporation Preview Enquiry"
+  },
+  {
+    "ParentMenuId": "617f4336-0d19-4072-bf00-d38e765995c3",
+    "ParentMenuLabel": "New Folio Module",
+    "ChildMenuId": "60e5de0e-b926-4dbb-b116-b8e3995ee430",
+    "ChildMenuLabel": "New Folio Setup"
+  },
+  {
+    "ParentMenuId": "617f4336-0d19-4072-bf00-d38e765995c3",
+    "ParentMenuLabel": "New Folio Module",
+    "ChildMenuId": "80e0b379-f244-42fd-8499-e51ebbf1d322",
+    "ChildMenuLabel": "New Folio Proprietor Maintenance"
+  },
+  {
+    "ParentMenuId": "617f4336-0d19-4072-bf00-d38e765995c3",
+    "ParentMenuLabel": "New Folio Module",
+    "ChildMenuId": "9896e952-0297-4e65-b902-c766c6fe088e",
+    "ChildMenuLabel": "New Folio Encumbrance Maintenance"
+  },
+  {
+    "ParentMenuId": "617f4336-0d19-4072-bf00-d38e765995c3",
+    "ParentMenuLabel": "New Folio Module",
+    "ChildMenuId": "674973c9-8f38-4416-86d9-6061c21127ec",
+    "ChildMenuLabel": "New Folio Encumbrance Creation"
+  },
+  {
+    "ParentMenuId": "617f4336-0d19-4072-bf00-d38e765995c3",
+    "ParentMenuLabel": "New Folio Module",
+    "ChildMenuId": "0693dba8-7c90-47a3-b132-b697a7a166c8",
+    "ChildMenuLabel": "New Folio Balance Land Maintenance"
+  },
+  {
+    "ParentMenuId": "617f4336-0d19-4072-bf00-d38e765995c3",
+    "ParentMenuLabel": "New Folio Module",
+    "ChildMenuId": "482f42f0-5fa6-461d-854e-e269034e74e1",
+    "ChildMenuLabel": "Affected Land Parcel Maintenance"
+  },
+  {
+    "ParentMenuId": "617f4336-0d19-4072-bf00-d38e765995c3",
+    "ParentMenuLabel": "New Folio Module",
+    "ChildMenuId": "3b7d1c65-b993-4468-94aa-b24bb43a4153",
+    "ChildMenuLabel": "Owners Corporation Enquiry"
+  },
+  {
+    "ParentMenuId": "617f4336-0d19-4072-bf00-d38e765995c3",
+    "ParentMenuLabel": "New Folio Module",
+    "ChildMenuId": "170a3fd9-339a-4870-9a44-96645aced37f",
+    "ChildMenuLabel": "Owners Corporation Address Maintenance"
+  },
+  {
+    "ParentMenuId": "617f4336-0d19-4072-bf00-d38e765995c3",
+    "ParentMenuLabel": "New Folio Module",
+    "ChildMenuId": "4e06090c-ec2a-43b6-ad47-baea5dd64825",
+    "ChildMenuLabel": "Owners Corporation No Longer Affects"
+  },
+  {
+    "ParentMenuId": "ca99b9c6-80ac-4168-9c52-9b1599ecbee7",
+    "ParentMenuLabel": "New Folios",
+    "ChildMenuId": "83d94b0c-4d2c-46c6-955d-2f000801a565",
+    "ChildMenuLabel": "Crown Desc. Range Group Maint."
+  },
+  {
+    "ParentMenuId": "ca99b9c6-80ac-4168-9c52-9b1599ecbee7",
+    "ParentMenuLabel": "New Folios",
+    "ChildMenuId": "c70d88d5-6c27-4f68-9f30-035b0e3fa5ec",
+    "ChildMenuLabel": "New Folio Land Free Text Maint."
+  },
+  {
+    "ParentMenuId": "ca99b9c6-80ac-4168-9c52-9b1599ecbee7",
+    "ParentMenuLabel": "New Folios",
+    "ChildMenuId": "8002f0ec-2462-4834-b38f-74cb1cdbf1b2",
+    "ChildMenuLabel": "New Folio Exec/Admin/Trust Maint."
+  },
+  {
+    "ParentMenuId": "ca99b9c6-80ac-4168-9c52-9b1599ecbee7",
+    "ParentMenuLabel": "New Folios",
+    "ChildMenuId": "9af3dad1-ab8e-4e06-9202-313aca0e4891",
+    "ChildMenuLabel": "NewFolio Prop. GroupFree TextMaint."
+  },
+  {
+    "ParentMenuId": "ca99b9c6-80ac-4168-9c52-9b1599ecbee7",
+    "ParentMenuLabel": "New Folios",
+    "ChildMenuId": "e444dfb0-7529-4bf0-bb74-e2ff76f95de4",
+    "ChildMenuLabel": "New Folio Encumb. Aff. Prop. Maint."
+  },
+  {
+    "ParentMenuId": "ca99b9c6-80ac-4168-9c52-9b1599ecbee7",
+    "ParentMenuLabel": "New Folios",
+    "ChildMenuId": "0693dba8-7c90-47a3-b132-b697a7a166c8",
+    "ChildMenuLabel": "New Folio Balance Land Maintenance"
+  },
+  {
+    "ParentMenuId": "ca99b9c6-80ac-4168-9c52-9b1599ecbee7",
+    "ParentMenuLabel": "New Folios",
+    "ChildMenuId": "674973c9-8f38-4416-86d9-6061c21127ec",
+    "ChildMenuLabel": "New Folio Encumbrance Creation"
+  },
+  {
+    "ParentMenuId": "ca99b9c6-80ac-4168-9c52-9b1599ecbee7",
+    "ParentMenuLabel": "New Folios",
+    "ChildMenuId": "9896e952-0297-4e65-b902-c766c6fe088e",
+    "ChildMenuLabel": "New Folio Encumbrance Maintenance"
+  },
+  {
+    "ParentMenuId": "ca99b9c6-80ac-4168-9c52-9b1599ecbee7",
+    "ParentMenuLabel": "New Folios",
+    "ChildMenuId": "4bfe4b84-bf60-43ad-b902-405e2f64b649",
+    "ChildMenuLabel": "Lot on Plan Range Group Maintenance"
+  },
+  {
+    "ParentMenuId": "ca99b9c6-80ac-4168-9c52-9b1599ecbee7",
+    "ParentMenuLabel": "New Folios",
+    "ChildMenuId": "80e0b379-f244-42fd-8499-e51ebbf1d322",
+    "ChildMenuLabel": "New Folio Proprietor Maintenance"
+  },
+  {
+    "ParentMenuId": "ca99b9c6-80ac-4168-9c52-9b1599ecbee7",
+    "ParentMenuLabel": "New Folios",
+    "ChildMenuId": "60e5de0e-b926-4dbb-b116-b8e3995ee430",
+    "ChildMenuLabel": "New Folio Setup"
+  },
+  {
+    "ParentMenuId": "ca99b9c6-80ac-4168-9c52-9b1599ecbee7",
+    "ParentMenuLabel": "New Folios",
+    "ChildMenuId": "cf54c4ae-4141-43bf-aa8f-ac7cbddbfa89",
+    "ChildMenuLabel": "Lot on TP Range Group Maintenance"
+  },
+  {
+    "ParentMenuId": "c1b75eee-96d3-419f-8fea-287775332835",
+    "ParentMenuLabel": "Number Processing",
+    "ChildMenuId": "2fdc8d7c-7af8-13f8-e054-0003bab01c82",
+    "ChildMenuLabel": "Allocate Allotment Numbers"
+  },
+  {
+    "ParentMenuId": "c1b75eee-96d3-419f-8fea-287775332835",
+    "ParentMenuLabel": "Number Processing",
+    "ChildMenuId": "bf149b30-ff1f-4241-839f-14f5af18783b",
+    "ChildMenuLabel": "Allocate Numbers"
+  },
+  {
+    "ParentMenuId": "c1b75eee-96d3-419f-8fea-287775332835",
+    "ParentMenuLabel": "Number Processing",
+    "ChildMenuId": "526f547c-15da-4749-b965-3f92835d71f0",
+    "ChildMenuLabel": "Void Number Sales"
+  },
+  {
+    "ParentMenuId": "c1b75eee-96d3-419f-8fea-287775332835",
+    "ParentMenuLabel": "Number Processing",
+    "ChildMenuId": "9ba79c8e-2e2a-6057-e040-007f01002294",
+    "ChildMenuLabel": "Allocated Numbers Report"
+  },
+  {
+    "ParentMenuId": "914aec38-fe1c-e083-e040-007f01000270",
+    "ParentMenuLabel": "Ocr",
+    "ChildMenuId": "2bb84529-dc76-4bcb-b0a5-445e23402dde",
+    "ChildMenuLabel": "OCR Lodgement Batch Archive Report"
+  },
+  {
+    "ParentMenuId": "914aec38-fe1c-e083-e040-007f01000270",
+    "ParentMenuLabel": "Ocr",
+    "ChildMenuId": "914dd9ff-eb0c-97e7-e040-007f010025ea",
+    "ChildMenuLabel": "OCR Examination"
+  },
+  {
+    "ParentMenuId": "914aec38-fe1c-e083-e040-007f01000270",
+    "ParentMenuLabel": "Ocr",
+    "ChildMenuId": "ddd963bf-2ac3-4b2b-b85f-848f7209fb60",
+    "ChildMenuLabel": "OCR Case Document Processing"
+  },
+  {
+    "ParentMenuId": "914aec38-fe1c-e083-e040-007f01000270",
+    "ParentMenuLabel": "Ocr",
+    "ChildMenuId": "d6e3c118-73bd-40aa-a8ef-71a7f3b2d328",
+    "ChildMenuLabel": "OCR Case Registration"
+  },
+  {
+    "ParentMenuId": "914aec38-fe1c-e083-e040-007f01000270",
+    "ParentMenuLabel": "Ocr",
+    "ChildMenuId": "41682523-6cbd-4bfa-bd44-099e4e08d4f4",
+    "ChildMenuLabel": "OCR Rescan Requests"
+  },
+  {
+    "ParentMenuId": "914aec38-fe1c-e083-e040-007f01000270",
+    "ParentMenuLabel": "Ocr",
+    "ChildMenuId": "9f979227-abe0-497e-9e62-e11548a5b0bc",
+    "ChildMenuLabel": "Completed OCR Lodgements"
+  },
+  {
+    "ParentMenuId": "7a4102ee-cfe2-4f96-b9a9-3abcca096444",
+    "ParentMenuLabel": "Offline Reports",
+    "ChildMenuId": "9ba79c8e-2e1b-6057-e040-007f01002294",
+    "ChildMenuLabel": "Issue Search"
+  },
+  {
+    "ParentMenuId": "7a4102ee-cfe2-4f96-b9a9-3abcca096444",
+    "ParentMenuLabel": "Offline Reports",
+    "ChildMenuId": "9ba79c8e-2e24-6057-e040-007f01002294",
+    "ChildMenuLabel": "Issue Details Report"
+  },
+  {
+    "ParentMenuId": "eaafbd1a-d993-4785-85d6-f4bc2740b025",
+    "ParentMenuLabel": "Owners Corporation",
+    "ChildMenuId": "4e06090c-ec2a-43b6-ad47-baea5dd64825",
+    "ChildMenuLabel": "Owners Corporation No Longer Affects"
+  },
+  {
+    "ParentMenuId": "eaafbd1a-d993-4785-85d6-f4bc2740b025",
+    "ParentMenuLabel": "Owners Corporation",
+    "ChildMenuId": "af3fef6a-86e4-44a6-bbe9-d106615b76d7",
+    "ChildMenuLabel": "Owners Corporation Preview Enquiry"
+  },
+  {
+    "ParentMenuId": "eaafbd1a-d993-4785-85d6-f4bc2740b025",
+    "ParentMenuLabel": "Owners Corporation",
+    "ChildMenuId": "ff5636cb-985c-4554-99d8-40388e666f50",
+    "ChildMenuLabel": "Owners Corporation Maintenance"
+  },
+  {
+    "ParentMenuId": "eaafbd1a-d993-4785-85d6-f4bc2740b025",
+    "ParentMenuLabel": "Owners Corporation",
+    "ChildMenuId": "170a3fd9-339a-4870-9a44-96645aced37f",
+    "ChildMenuLabel": "Owners Corporation Address Maintenance"
+  },
+  {
+    "ParentMenuId": "eaafbd1a-d993-4785-85d6-f4bc2740b025",
+    "ParentMenuLabel": "Owners Corporation",
+    "ChildMenuId": "3b7d1c65-b993-4468-94aa-b24bb43a4153",
+    "ChildMenuLabel": "Owners Corporation Enquiry"
+  },
+  {
+    "ParentMenuId": "f694c4f3-2490-41e4-8363-d108a84e2072",
+    "ParentMenuLabel": "Registration Module",
+    "ChildMenuId": "9df00e5c-e0fb-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Case Creation"
+  },
+  {
+    "ParentMenuId": "f694c4f3-2490-41e4-8363-d108a84e2072",
+    "ParentMenuLabel": "Registration Module",
+    "ChildMenuId": "9df00e5c-e0ec-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Lodgement Maintenance"
+  },
+  {
+    "ParentMenuId": "f694c4f3-2490-41e4-8363-d108a84e2072",
+    "ParentMenuLabel": "Registration Module",
+    "ChildMenuId": "9df00e5c-e139-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Folio Creation Maintenance"
+  },
+  {
+    "ParentMenuId": "f694c4f3-2490-41e4-8363-d108a84e2072",
+    "ParentMenuLabel": "Registration Module",
+    "ChildMenuId": "9df00e5c-e10b-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Land Parcel Maintenance"
+  },
+  {
+    "ParentMenuId": "f694c4f3-2490-41e4-8363-d108a84e2072",
+    "ParentMenuLabel": "Registration Module",
+    "ChildMenuId": "9df00e5c-e12a-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Issue Details Maintenance"
+  },
+  {
+    "ParentMenuId": "f694c4f3-2490-41e4-8363-d108a84e2072",
+    "ParentMenuLabel": "Registration Module",
+    "ChildMenuId": "9df00e5c-e0f4-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Officer Availability Maintenance"
+  },
+  {
+    "ParentMenuId": "f694c4f3-2490-41e4-8363-d108a84e2072",
+    "ParentMenuLabel": "Registration Module",
+    "ChildMenuId": "9df00e5c-e113-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Proprietor Maintenance"
+  },
+  {
+    "ParentMenuId": "f694c4f3-2490-41e4-8363-d108a84e2072",
+    "ParentMenuLabel": "Registration Module",
+    "ChildMenuId": "420c9240-f961-43d1-b549-ab1da382ecbd",
+    "ChildMenuLabel": "Dealing Details Maintenance"
+  },
+  {
+    "ParentMenuId": "f694c4f3-2490-41e4-8363-d108a84e2072",
+    "ParentMenuLabel": "Registration Module",
+    "ChildMenuId": "9d75c9c5-88e1-20a1-e040-007f01003026",
+    "ChildMenuLabel": "Encumbrance Removal"
+  },
+  {
+    "ParentMenuId": "f694c4f3-2490-41e4-8363-d108a84e2072",
+    "ParentMenuLabel": "Registration Module",
+    "ChildMenuId": "9df00e5c-e11b-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Encumbrance Party Maintenance"
+  },
+  {
+    "ParentMenuId": "f694c4f3-2490-41e4-8363-d108a84e2072",
+    "ParentMenuLabel": "Registration Module",
+    "ChildMenuId": "687eb7d2-e18e-4922-bc61-6fab362a7775",
+    "ChildMenuLabel": "Variation of Priority Maintenance"
+  },
+  {
+    "ParentMenuId": "f694c4f3-2490-41e4-8363-d108a84e2072",
+    "ParentMenuLabel": "Registration Module",
+    "ChildMenuId": "9d75c9c5-88d9-20a1-e040-007f01003026",
+    "ChildMenuLabel": "Affected Encumbrance Maintenance"
+  },
+  {
+    "ParentMenuId": "f694c4f3-2490-41e4-8363-d108a84e2072",
+    "ParentMenuLabel": "Registration Module",
+    "ChildMenuId": "a0dbe8e4-49c4-42db-bc6c-67cd8f724382",
+    "ChildMenuLabel": "Expired Notice Report"
+  },
+  {
+    "ParentMenuId": "f694c4f3-2490-41e4-8363-d108a84e2072",
+    "ParentMenuLabel": "Registration Module",
+    "ChildMenuId": "9df00e5c-e149-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Free Format Maintenance"
+  },
+  {
+    "ParentMenuId": "f694c4f3-2490-41e4-8363-d108a84e2072",
+    "ParentMenuLabel": "Registration Module",
+    "ChildMenuId": "9df00e5c-e131-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Folio Parentage Maintenance"
+  },
+  {
+    "ParentMenuId": "f694c4f3-2490-41e4-8363-d108a84e2072",
+    "ParentMenuLabel": "Registration Module",
+    "ChildMenuId": "9df00e5c-e141-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Interest Folio Maintenance"
+  },
+  {
+    "ParentMenuId": "f694c4f3-2490-41e4-8363-d108a84e2072",
+    "ParentMenuLabel": "Registration Module",
+    "ChildMenuId": "da8789a7-3caf-48d5-850f-c97b20edfdaa",
+    "ChildMenuLabel": "Issue Report"
+  },
+  {
+    "ParentMenuId": "f694c4f3-2490-41e4-8363-d108a84e2072",
+    "ParentMenuLabel": "Registration Module",
+    "ChildMenuId": "bb1c03a8-123f-43cf-9bb6-75caca978449",
+    "ChildMenuLabel": "Leader/Follower Report"
+  },
+  {
+    "ParentMenuId": "f694c4f3-2490-41e4-8363-d108a84e2072",
+    "ParentMenuLabel": "Registration Module",
+    "ChildMenuId": "9a731c83-b221-4ccf-9a16-b2a5320c06aa",
+    "ChildMenuLabel": "Rectification Dealing Report"
+  },
+  {
+    "ParentMenuId": "f694c4f3-2490-41e4-8363-d108a84e2072",
+    "ParentMenuLabel": "Registration Module",
+    "ChildMenuId": "9df00e5c-e123-bf33-e040-007f01000b97",
+    "ChildMenuLabel": "Rectification Maintenance"
+  },
+  {
+    "ParentMenuId": "f694c4f3-2490-41e4-8363-d108a84e2072",
+    "ParentMenuLabel": "Registration Module",
+    "ChildMenuId": "11ee62a1-b67b-4037-ab85-895106df455a",
+    "ChildMenuLabel": "Registration Notification Report"
+  },
+  {
+    "ParentMenuId": "f694c4f3-2490-41e4-8363-d108a84e2072",
+    "ParentMenuLabel": "Registration Module",
+    "ChildMenuId": "25d03b29-b48a-1ef8-e054-0003bab01c82",
+    "ChildMenuLabel": "Plan Queue Maintenance"
+  },
+  {
+    "ParentMenuId": "f694c4f3-2490-41e4-8363-d108a84e2072",
+    "ParentMenuLabel": "Registration Module",
+    "ChildMenuId": "25d03b29-b490-1ef8-e054-0003bab01c82",
+    "ChildMenuLabel": "Plan Examination"
+  },
+  {
+    "ParentMenuId": "54bb29c1-a368-4909-8f30-3cdf5024c01e",
+    "ParentMenuLabel": "Report Administration",
+    "ChildMenuId": "9ba79c8e-2e27-6057-e040-007f01002294",
+    "ChildMenuLabel": "Customer Daily Elect. Lodge. Report"
+  },
+  {
+    "ParentMenuId": "54bb29c1-a368-4909-8f30-3cdf5024c01e",
+    "ParentMenuLabel": "Report Administration",
+    "ChildMenuId": "65a50d00-f529-4e8e-ab6d-081abecd740a",
+    "ChildMenuLabel": "Electronic Dealing Case Dtls Report"
+  },
+  {
+    "ParentMenuId": "54bb29c1-a368-4909-8f30-3cdf5024c01e",
+    "ParentMenuLabel": "Report Administration",
+    "ChildMenuId": "35e19b50-02a1-4a31-a8a2-37807ddd4fef",
+    "ChildMenuLabel": "Native Title Deter. Load Excpt. Rpt"
+  },
+  {
+    "ParentMenuId": "54bb29c1-a368-4909-8f30-3cdf5024c01e",
+    "ParentMenuLabel": "Report Administration",
+    "ChildMenuId": "3578038e-e22d-471a-908a-25304e286b5e",
+    "ChildMenuLabel": "Report Execution"
+  },
+  {
+    "ParentMenuId": "54bb29c1-a368-4909-8f30-3cdf5024c01e",
+    "ParentMenuLabel": "Report Administration",
+    "ChildMenuId": "a627f4f3-fe95-46eb-bf54-8f7312d2151c",
+    "ChildMenuLabel": "User Security Report"
+  },
+  {
+    "ParentMenuId": "54bb29c1-a368-4909-8f30-3cdf5024c01e",
+    "ParentMenuLabel": "Report Administration",
+    "ChildMenuId": "dd824c02-667f-4533-a970-f7269dc88e97",
+    "ChildMenuLabel": "Report Scheduling"
+  },
+  {
+    "ParentMenuId": "54bb29c1-a368-4909-8f30-3cdf5024c01e",
+    "ParentMenuLabel": "Report Administration",
+    "ChildMenuId": "e221611f-d7b9-440d-b6a7-093b75ef935a",
+    "ChildMenuLabel": "eCT Control Report"
+  },
+  {
+    "ParentMenuId": "54bb29c1-a368-4909-8f30-3cdf5024c01e",
+    "ParentMenuLabel": "Report Administration",
+    "ChildMenuId": "5490b853-e5d1-43be-9e85-5cabbf36d5a7",
+    "ChildMenuLabel": "Report Administration"
+  },
+  {
+    "ParentMenuId": "54bb29c1-a368-4909-8f30-3cdf5024c01e",
+    "ParentMenuLabel": "Report Administration",
+    "ChildMenuId": "9ba79c8e-2e2a-6057-e040-007f01002294",
+    "ChildMenuLabel": "Allocated Numbers Report"
+  },
+  {
+    "ParentMenuId": "54bb29c1-a368-4909-8f30-3cdf5024c01e",
+    "ParentMenuLabel": "Report Administration",
+    "ChildMenuId": "9a3b079f-26fd-405c-91cb-f61dcafbd438",
+    "ChildMenuLabel": "Audit Report"
+  },
+  {
+    "ParentMenuId": "54bb29c1-a368-4909-8f30-3cdf5024c01e",
+    "ParentMenuLabel": "Report Administration",
+    "ChildMenuId": "b86d74dd-6b3c-492a-8653-8a284a3e69d8",
+    "ChildMenuLabel": "CLIS Report"
+  },
+  {
+    "ParentMenuId": "54bb29c1-a368-4909-8f30-3cdf5024c01e",
+    "ParentMenuLabel": "Report Administration",
+    "ChildMenuId": "f945a02f-afed-4ea0-a67e-ae4f5b824564",
+    "ChildMenuLabel": "Cash Drawer Cheque Report"
+  },
+  {
+    "ParentMenuId": "54bb29c1-a368-4909-8f30-3cdf5024c01e",
+    "ParentMenuLabel": "Report Administration",
+    "ChildMenuId": "b24fc86a-8ab4-44cd-b04b-aa0f68cc8cfb",
+    "ChildMenuLabel": "Crown Land Rectification Report"
+  },
+  {
+    "ParentMenuId": "54bb29c1-a368-4909-8f30-3cdf5024c01e",
+    "ParentMenuLabel": "Report Administration",
+    "ChildMenuId": "12f127b9-3687-4936-98a0-e11433aaf4af",
+    "ChildMenuLabel": "Crown Land Status Report"
+  },
+  {
+    "ParentMenuId": "54bb29c1-a368-4909-8f30-3cdf5024c01e",
+    "ParentMenuLabel": "Report Administration",
+    "ChildMenuId": "96c5531d-daae-4c5a-9f82-a443c0493e8b",
+    "ChildMenuLabel": "Crown Land Tenure History Report"
+  },
+  {
+    "ParentMenuId": "54bb29c1-a368-4909-8f30-3cdf5024c01e",
+    "ParentMenuLabel": "Report Administration",
+    "ChildMenuId": "9ba79c8e-2e29-6057-e040-007f01002294",
+    "ChildMenuLabel": "Customer Outstanding Balance Report"
+  },
+  {
+    "ParentMenuId": "54bb29c1-a368-4909-8f30-3cdf5024c01e",
+    "ParentMenuLabel": "Report Administration",
+    "ChildMenuId": "9ba79c8e-2e28-6057-e040-007f01002294",
+    "ChildMenuLabel": "Customer Transaction Report"
+  },
+  {
+    "ParentMenuId": "54bb29c1-a368-4909-8f30-3cdf5024c01e",
+    "ParentMenuLabel": "Report Administration",
+    "ChildMenuId": "9ba79c8e-2e25-6057-e040-007f01002294",
+    "ChildMenuLabel": "Dealing Enquiry Report"
+  },
+  {
+    "ParentMenuId": "54bb29c1-a368-4909-8f30-3cdf5024c01e",
+    "ParentMenuLabel": "Report Administration",
+    "ChildMenuId": "9ba79c8e-2e1c-6057-e040-007f01002294",
+    "ChildMenuLabel": "Folio History Report"
+  },
+  {
+    "ParentMenuId": "54bb29c1-a368-4909-8f30-3cdf5024c01e",
+    "ParentMenuLabel": "Report Administration",
+    "ChildMenuId": "9ba79c8e-2e1d-6057-e040-007f01002294",
+    "ChildMenuLabel": "Folio Report"
+  },
+  {
+    "ParentMenuId": "54bb29c1-a368-4909-8f30-3cdf5024c01e",
+    "ParentMenuLabel": "Report Administration",
+    "ChildMenuId": "9ba79c8e-2e10-6057-e040-007f01002294",
+    "ChildMenuLabel": "Image Exception Report"
+  },
+  {
+    "ParentMenuId": "54bb29c1-a368-4909-8f30-3cdf5024c01e",
+    "ParentMenuLabel": "Report Administration",
+    "ChildMenuId": "9ba79c8e-2e24-6057-e040-007f01002294",
+    "ChildMenuLabel": "Issue Details Report"
+  },
+  {
+    "ParentMenuId": "54bb29c1-a368-4909-8f30-3cdf5024c01e",
+    "ParentMenuLabel": "Report Administration",
+    "ChildMenuId": "9ba79c8e-2e19-6057-e040-007f01002294",
+    "ChildMenuLabel": "Lodgement Summary Report"
+  },
+  {
+    "ParentMenuId": "54bb29c1-a368-4909-8f30-3cdf5024c01e",
+    "ParentMenuLabel": "Report Administration",
+    "ChildMenuId": "9ba79c8e-2e12-6057-e040-007f01002294",
+    "ChildMenuLabel": "Outstanding CofT Report"
+  },
+  {
+    "ParentMenuId": "54bb29c1-a368-4909-8f30-3cdf5024c01e",
+    "ParentMenuLabel": "Report Administration",
+    "ChildMenuId": "31440c94-4cdc-4b0f-b917-7c9e4e028be3",
+    "ChildMenuLabel": "Parish Land Status Report"
+  },
+  {
+    "ParentMenuId": "54bb29c1-a368-4909-8f30-3cdf5024c01e",
+    "ParentMenuLabel": "Report Administration",
+    "ChildMenuId": "03485249-6315-4562-9734-54fe193c0911",
+    "ChildMenuLabel": "Parish Land Verification Report"
+  },
+  {
+    "ParentMenuId": "54bb29c1-a368-4909-8f30-3cdf5024c01e",
+    "ParentMenuLabel": "Report Administration",
+    "ChildMenuId": "9ba79c8e-2e0f-6057-e040-007f01002294",
+    "ChildMenuLabel": "Unsatisfied Image Request Report"
+  },
+  {
+    "ParentMenuId": "54bb29c1-a368-4909-8f30-3cdf5024c01e",
+    "ParentMenuLabel": "Report Administration",
+    "ChildMenuId": "addc9c2a-d7cf-41e3-9604-0ca8facba754",
+    "ChildMenuLabel": "VicMap Import Rejection Report"
+  },
+  {
+    "ParentMenuId": "033d65c7-268b-4e73-9ebb-23884dc47acb",
+    "ParentMenuLabel": "Revenue Module",
+    "ChildMenuId": "daec7d1a-62ea-0c88-e044-0003bab03ed6",
+    "ChildMenuLabel": "Cash Drawer Transaction Report"
+  },
+  {
+    "ParentMenuId": "033d65c7-268b-4e73-9ebb-23884dc47acb",
+    "ParentMenuLabel": "Revenue Module",
+    "ChildMenuId": "4868db3d-37ce-426f-af68-d75ecd0588a3",
+    "ChildMenuLabel": "Dealings YTD Financial Stat. Report"
+  },
+  {
+    "ParentMenuId": "033d65c7-268b-4e73-9ebb-23884dc47acb",
+    "ParentMenuLabel": "Revenue Module",
+    "ChildMenuId": "fe5061bc-1ff9-49b6-a3d3-cb82572d0d2d",
+    "ChildMenuLabel": "Oracle Financials Reveu Receipt Rpt"
+  },
+  {
+    "ParentMenuId": "033d65c7-268b-4e73-9ebb-23884dc47acb",
+    "ParentMenuLabel": "Revenue Module",
+    "ChildMenuId": "18a45feb-5a2d-4942-8e74-bf4b26ab1da4",
+    "ChildMenuLabel": "Refund Maintenance"
+  },
+  {
+    "ParentMenuId": "033d65c7-268b-4e73-9ebb-23884dc47acb",
+    "ParentMenuLabel": "Revenue Module",
+    "ChildMenuId": "44087ad2-6b09-4e2c-bf1a-d477cab2ef9c",
+    "ChildMenuLabel": "Refused Dealing Enquiry"
+  },
+  {
+    "ParentMenuId": "033d65c7-268b-4e73-9ebb-23884dc47acb",
+    "ParentMenuLabel": "Revenue Module",
+    "ChildMenuId": "c64b917f-4ee1-402d-83e8-ce671c816522",
+    "ChildMenuLabel": "Refund Claim Form"
+  },
+  {
+    "ParentMenuId": "033d65c7-268b-4e73-9ebb-23884dc47acb",
+    "ParentMenuLabel": "Revenue Module",
+    "ChildMenuId": "574e7163-5947-4289-bd97-d26831b7e553",
+    "ChildMenuLabel": "Refund Claim Form 2"
+  },
+  {
+    "ParentMenuId": "033d65c7-268b-4e73-9ebb-23884dc47acb",
+    "ParentMenuLabel": "Revenue Module",
+    "ChildMenuId": "10e1d42f-93e7-4519-80e3-2a11a21b18f1",
+    "ChildMenuLabel": "E-Lodgement Reconciliation Report"
+  },
+  {
+    "ParentMenuId": "033d65c7-268b-4e73-9ebb-23884dc47acb",
+    "ParentMenuLabel": "Revenue Module",
+    "ChildMenuId": "17036cce-78ba-48fe-b1d9-f5ab83db66e4",
+    "ChildMenuLabel": "Cash Drawer Balance Details Report"
+  },
+  {
+    "ParentMenuId": "033d65c7-268b-4e73-9ebb-23884dc47acb",
+    "ParentMenuLabel": "Revenue Module",
+    "ChildMenuId": "f5a1e4ce-fe97-4c58-9191-c48b5a958dda",
+    "ChildMenuLabel": "Bank Deposit Slip"
+  },
+  {
+    "ParentMenuId": "033d65c7-268b-4e73-9ebb-23884dc47acb",
+    "ParentMenuLabel": "Revenue Module",
+    "ChildMenuId": "849126ab-68cb-474d-8bf7-b987e0a76f85",
+    "ChildMenuLabel": "Fee Variations Report"
+  },
+  {
+    "ParentMenuId": "3824e1c6-0863-47d8-8dc5-c60a2d0a0feb",
+    "ParentMenuLabel": "Revenue, Receipting and Refund",
+    "ChildMenuId": "9ba79c8e-2e15-6057-e040-007f01002294",
+    "ChildMenuLabel": "Outstanding Lodg. Payments Report"
+  },
+  {
+    "ParentMenuId": "3824e1c6-0863-47d8-8dc5-c60a2d0a0feb",
+    "ParentMenuLabel": "Revenue, Receipting and Refund",
+    "ChildMenuId": "fe5061bc-1ff9-49b6-a3d3-cb82572d0d2d",
+    "ChildMenuLabel": "Oracle Financials Reveu Receipt Rpt"
+  },
+  {
+    "ParentMenuId": "3824e1c6-0863-47d8-8dc5-c60a2d0a0feb",
+    "ParentMenuLabel": "Revenue, Receipting and Refund",
+    "ChildMenuId": "d9927c2f-22ea-5fe5-e044-0003bab03ed6",
+    "ChildMenuLabel": "PEXA Fee Dishonours Report"
+  },
+  {
+    "ParentMenuId": "3824e1c6-0863-47d8-8dc5-c60a2d0a0feb",
+    "ParentMenuLabel": "Revenue, Receipting and Refund",
+    "ChildMenuId": "daec7d1a-62ea-0c88-e044-0003bab03ed6",
+    "ChildMenuLabel": "Cash Drawer Transaction Report"
+  },
+  {
+    "ParentMenuId": "3824e1c6-0863-47d8-8dc5-c60a2d0a0feb",
+    "ParentMenuLabel": "Revenue, Receipting and Refund",
+    "ChildMenuId": "bf69b999-418d-4895-ad7b-3fd17d91c137",
+    "ChildMenuLabel": "Receipt Maintenance"
+  },
+  {
+    "ParentMenuId": "3824e1c6-0863-47d8-8dc5-c60a2d0a0feb",
+    "ParentMenuLabel": "Revenue, Receipting and Refund",
+    "ChildMenuId": "8d5d9d88-d565-f491-e040-007f010009de",
+    "ChildMenuLabel": "Cash Drawer Maintenance"
+  },
+  {
+    "ParentMenuId": "3824e1c6-0863-47d8-8dc5-c60a2d0a0feb",
+    "ParentMenuLabel": "Revenue, Receipting and Refund",
+    "ChildMenuId": "8e227686-cc55-9fda-e040-007f01005535",
+    "ChildMenuLabel": "Cash Drawer Balance Adjustment"
+  },
+  {
+    "ParentMenuId": "3824e1c6-0863-47d8-8dc5-c60a2d0a0feb",
+    "ParentMenuLabel": "Revenue, Receipting and Refund",
+    "ChildMenuId": "18a45feb-5a2d-4942-8e74-bf4b26ab1da4",
+    "ChildMenuLabel": "Refund Maintenance"
+  },
+  {
+    "ParentMenuId": "3824e1c6-0863-47d8-8dc5-c60a2d0a0feb",
+    "ParentMenuLabel": "Revenue, Receipting and Refund",
+    "ChildMenuId": "80ee9bdc-479e-4095-8075-97da904694b5",
+    "ChildMenuLabel": "Void Receipt"
+  },
+  {
+    "ParentMenuId": "3824e1c6-0863-47d8-8dc5-c60a2d0a0feb",
+    "ParentMenuLabel": "Revenue, Receipting and Refund",
+    "ChildMenuId": "f945a02f-afed-4ea0-a67e-ae4f5b824564",
+    "ChildMenuLabel": "Cash Drawer Cheque Report"
+  },
+  {
+    "ParentMenuId": "3824e1c6-0863-47d8-8dc5-c60a2d0a0feb",
+    "ParentMenuLabel": "Revenue, Receipting and Refund",
+    "ChildMenuId": "8e227686-cc5c-9fda-e040-007f01005535",
+    "ChildMenuLabel": "Cash Drawer Assignment Maintenance"
+  },
+  {
+    "ParentMenuId": "3824e1c6-0863-47d8-8dc5-c60a2d0a0feb",
+    "ParentMenuLabel": "Revenue, Receipting and Refund",
+    "ChildMenuId": "9ba79c8e-2e14-6057-e040-007f01002294",
+    "ChildMenuLabel": "Receipt Print"
+  },
+  {
+    "ParentMenuId": "3824e1c6-0863-47d8-8dc5-c60a2d0a0feb",
+    "ParentMenuLabel": "Revenue, Receipting and Refund",
+    "ChildMenuId": "9ba79c8e-2e13-6057-e040-007f01002294",
+    "ChildMenuLabel": "Agent Summary Receipt Print"
+  },
+  {
+    "ParentMenuId": "3824e1c6-0863-47d8-8dc5-c60a2d0a0feb",
+    "ParentMenuLabel": "Revenue, Receipting and Refund",
+    "ChildMenuId": "c64b917f-4ee1-402d-83e8-ce671c816522",
+    "ChildMenuLabel": "Refund Claim Form"
+  },
+  {
+    "ParentMenuId": "3824e1c6-0863-47d8-8dc5-c60a2d0a0feb",
+    "ParentMenuLabel": "Revenue, Receipting and Refund",
+    "ChildMenuId": "574e7163-5947-4289-bd97-d26831b7e553",
+    "ChildMenuLabel": "Refund Claim Form 2"
+  },
+  {
+    "ParentMenuId": "3824e1c6-0863-47d8-8dc5-c60a2d0a0feb",
+    "ParentMenuLabel": "Revenue, Receipting and Refund",
+    "ChildMenuId": "849126ab-68cb-474d-8bf7-b987e0a76f85",
+    "ChildMenuLabel": "Fee Variations Report"
+  },
+  {
+    "ParentMenuId": "3824e1c6-0863-47d8-8dc5-c60a2d0a0feb",
+    "ParentMenuLabel": "Revenue, Receipting and Refund",
+    "ChildMenuId": "f5a1e4ce-fe97-4c58-9191-c48b5a958dda",
+    "ChildMenuLabel": "Bank Deposit Slip"
+  },
+  {
+    "ParentMenuId": "3824e1c6-0863-47d8-8dc5-c60a2d0a0feb",
+    "ParentMenuLabel": "Revenue, Receipting and Refund",
+    "ChildMenuId": "17036cce-78ba-48fe-b1d9-f5ab83db66e4",
+    "ChildMenuLabel": "Cash Drawer Balance Details Report"
+  },
+  {
+    "ParentMenuId": "1dcc3ddf-6135-43c3-8f92-bafc9349519c",
+    "ParentMenuLabel": "Rules",
+    "ChildMenuId": "e5231c80-e1cf-4789-af6e-9da0f9d50fcb",
+    "ChildMenuLabel": "Rules Enquiry"
+  },
+  {
+    "ParentMenuId": "1dcc3ddf-6135-43c3-8f92-bafc9349519c",
+    "ParentMenuLabel": "Rules",
+    "ChildMenuId": "73fc79a7-3158-4328-84d1-69420e4e3d02",
+    "ChildMenuLabel": "Rules Maintenance"
+  },
+  {
+    "ParentMenuId": "1dcc3ddf-6135-43c3-8f92-bafc9349519c",
+    "ParentMenuLabel": "Rules",
+    "ChildMenuId": "492fbfbd-4da5-4237-b1a3-44bdcf49571e",
+    "ChildMenuLabel": "Rules Manager"
+  },
+  {
+    "ParentMenuId": "4211d62d-4a97-4ee3-b2cc-979488acb62e",
+    "ParentMenuLabel": "Statistics Reports Module",
+    "ChildMenuId": "8e212301-e174-4aa8-8379-8cdf163f4ed5",
+    "ChildMenuLabel": "Electronic Dealing Stats. Report"
+  },
+  {
+    "ParentMenuId": "4211d62d-4a97-4ee3-b2cc-979488acb62e",
+    "ParentMenuLabel": "Statistics Reports Module",
+    "ChildMenuId": "e205ee87-5c4e-4114-94ee-0c5a34c8166f",
+    "ChildMenuLabel": "Customer Lodgement Report"
+  },
+  {
+    "ParentMenuId": "4211d62d-4a97-4ee3-b2cc-979488acb62e",
+    "ParentMenuLabel": "Statistics Reports Module",
+    "ChildMenuId": "2b303365-87d6-454d-afcd-6c4c7f524cb4",
+    "ChildMenuLabel": "Dealing Statistics Report"
+  },
+  {
+    "ParentMenuId": "4211d62d-4a97-4ee3-b2cc-979488acb62e",
+    "ParentMenuLabel": "Statistics Reports Module",
+    "ChildMenuId": "0c48b046-ae70-4006-bc73-2b934e2ec916",
+    "ChildMenuLabel": "Dealing Combination Report"
+  },
+  {
+    "ParentMenuId": "4211d62d-4a97-4ee3-b2cc-979488acb62e",
+    "ParentMenuLabel": "Statistics Reports Module",
+    "ChildMenuId": "25317d6d-b670-42c4-9cde-b475ea1f2dc2",
+    "ChildMenuLabel": "Dealing Productivity Report"
+  },
+  {
+    "ParentMenuId": "4211d62d-4a97-4ee3-b2cc-979488acb62e",
+    "ParentMenuLabel": "Statistics Reports Module",
+    "ChildMenuId": "1568fa5e-7e84-41cc-ba6d-10f755d82c97",
+    "ChildMenuLabel": "Leader/Follower Audit Report"
+  },
+  {
+    "ParentMenuId": "4211d62d-4a97-4ee3-b2cc-979488acb62e",
+    "ParentMenuLabel": "Statistics Reports Module",
+    "ChildMenuId": "88cb9689-b418-4369-9731-402179bec411",
+    "ChildMenuLabel": "Plan Certification Report"
+  },
+  {
+    "ParentMenuId": "4211d62d-4a97-4ee3-b2cc-979488acb62e",
+    "ParentMenuLabel": "Statistics Reports Module",
+    "ChildMenuId": "2b0812cb-1bbf-47de-82ba-549dcfad250d",
+    "ChildMenuLabel": "Productivity Report"
+  },
+  {
+    "ParentMenuId": "4211d62d-4a97-4ee3-b2cc-979488acb62e",
+    "ParentMenuLabel": "Statistics Reports Module",
+    "ChildMenuId": "f52b2b65-446a-4273-8522-5e9877575ebf",
+    "ChildMenuLabel": "Rectification Report"
+  },
+  {
+    "ParentMenuId": "4211d62d-4a97-4ee3-b2cc-979488acb62e",
+    "ParentMenuLabel": "Statistics Reports Module",
+    "ChildMenuId": "06f5a03f-df9e-4cb3-8cb1-1f9ed89bb58c",
+    "ChildMenuLabel": "Subdivision Service Standard Report"
+  },
+  {
+    "ParentMenuId": "4211d62d-4a97-4ee3-b2cc-979488acb62e",
+    "ParentMenuLabel": "Statistics Reports Module",
+    "ChildMenuId": "3fa5b3e9-efe3-46e0-aa3f-c1b2a9a33475",
+    "ChildMenuLabel": "LRS Dealing Report"
+  },
+  {
+    "ParentMenuId": "4211d62d-4a97-4ee3-b2cc-979488acb62e",
+    "ParentMenuLabel": "Statistics Reports Module",
+    "ChildMenuId": "40c1918f-310a-4388-a0f6-b9a26004993c",
+    "ChildMenuLabel": "TRS Summary Report"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "71e462c0-dfe8-4bc5-b764-c563323747ae",
+    "ChildMenuLabel": "Physical Printer Maintenance"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "ebc1363a-ee9e-3b9d-e044-0003bab03ed6",
+    "ChildMenuLabel": "Recognised Caveat Combination Maint."
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "315d21ed-7dfd-3de3-e054-0003bab01c82",
+    "ChildMenuLabel": "Region Maintenance"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "1e41fac4-57bf-2df8-e054-0003bab01c82",
+    "ChildMenuLabel": "Add Nomination of pCT"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "1e41fac4-57c9-2df8-e054-0003bab01c82",
+    "ChildMenuLabel": "Withdraw a Nominated pCT"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "9ba79c8e-2e13-6057-e040-007f01002294",
+    "ChildMenuLabel": "Agent Summary Receipt Print"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "d5857ce2-2cb8-4d7f-944a-ca61860f30cb",
+    "ChildMenuLabel": "Batch Program Run Report"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "01124392-ba9b-4cee-9572-3d18dccc4406",
+    "ChildMenuLabel": "Case Location Maintenance"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "81424597-4665-4124-b462-9f70804664b9",
+    "ChildMenuLabel": "Case Management"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "8e227686-cc5c-9fda-e040-007f01005535",
+    "ChildMenuLabel": "Cash Drawer Assignment Maintenance"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "8e227686-cc55-9fda-e040-007f01005535",
+    "ChildMenuLabel": "Cash Drawer Balance Adjustment"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "f945a02f-afed-4ea0-a67e-ae4f5b824564",
+    "ChildMenuLabel": "Cash Drawer Cheque Report"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "70c86b17-a75e-1da5-e054-0003bab01c82",
+    "ChildMenuLabel": "Lassi Import Rejection Report"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "8d5d9d88-d565-f491-e040-007f010009de",
+    "ChildMenuLabel": "Cash Drawer Maintenance"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "b86d74dd-6b3c-492a-8653-8a284a3e69d8",
+    "ChildMenuLabel": "CLIS Report"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "9dd27b4c-1d3c-4b6c-83cb-98df64a68e32",
+    "ChildMenuLabel": "Code Type\\Code Maintenance"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "53b3725e-917f-4e7c-e054-0003bab01c82",
+    "ChildMenuLabel": "New Code Type\\Code Maintenance"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "58f91e71-7916-0023-e054-0003bab01c82",
+    "ChildMenuLabel": ""
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "58f9487e-dd79-0077-e054-0003bab01c82",
+    "ChildMenuLabel": ""
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "59996773-0ad0-1e8e-e054-0003bab01c82",
+    "ChildMenuLabel": "PN Document Maintenance"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "59312eec-de36-450e-e054-0003bab01c82",
+    "ChildMenuLabel": "New Printer Maintenance"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "9147836d-c4aa-39f5-e040-007f01005a59",
+    "ChildMenuLabel": "Crown Land Parcel Maintenance"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "8fb6aecb-764e-b6df-e040-007f01001ae3",
+    "ChildMenuLabel": "Dealing Refusal Purge"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "8a0ef984-c17f-3193-e040-007f01005ffd",
+    "ChildMenuLabel": "Dealing Status Maintenance"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "8bdab0bd-c490-f0e6-e040-007f01001951",
+    "ChildMenuLabel": "Dealing Type Combination Maint."
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "8bdab0bd-c47b-f0e6-e040-007f01001951",
+    "ChildMenuLabel": "Dealing Type Guide Maintenance"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "a2e3e81d-921b-f7d1-e040-007f01003510",
+    "ChildMenuLabel": "Debug Trace Configuration"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "8adecab2-524d-99b6-e040-007f01004483",
+    "ChildMenuLabel": "Endorsement Template Maintenance"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "d5794269-8621-407e-aa7a-8fe2ab372711",
+    "ChildMenuLabel": "Fee Type Code Report"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "8adecab2-5262-99b6-e040-007f01004483",
+    "ChildMenuLabel": "Fee Type Maintenance"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "89b96ffc-de78-4cb2-8bac-8c21585e1ed8",
+    "ChildMenuLabel": "Fee Unit Maintenance"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "8ab498b8-9db8-e1e6-e040-007f0100515f",
+    "ChildMenuLabel": "Folio Type Maintenance"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "02fe7244-df9e-4b61-b860-d2054531e371",
+    "ChildMenuLabel": "Government Proprietor Maintenance"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "34a1817a-3b6d-4f63-a769-698b626102e8",
+    "ChildMenuLabel": "Help Link Maintenance"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "8a0ef984-c186-3193-e040-007f01005ffd",
+    "ChildMenuLabel": "Image Class Maintenance"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "707cbd2a-6ce9-4d2a-894a-88e11c2aebe6",
+    "ChildMenuLabel": "Job Enquiry"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "2183b88d-d711-4055-a610-639636c52b53",
+    "ChildMenuLabel": "Job Scheduling"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "2db1c18b-7e7a-4413-aa57-fcd05522f776",
+    "ChildMenuLabel": "Job Type Administration"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "34cb3440-0850-4c01-a451-dc7a8838df33",
+    "ChildMenuLabel": "Land Status Maintenance"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "8a0ef984-c1a7-3193-e040-007f01005ffd",
+    "ChildMenuLabel": "Locality Maintenance"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "8d5bc907-70ea-9c71-e040-007f01005adb",
+    "ChildMenuLabel": "Manner of Holding Maintenance"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "8bdab0bd-c451-f0e6-e040-007f01001951",
+    "ChildMenuLabel": "Municipality Maintenance"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "8adecab2-525b-99b6-e040-007f01004483",
+    "ChildMenuLabel": "Notice Template Maintenance"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "8e101db7-5107-b712-e040-007f0100024d",
+    "ChildMenuLabel": "Number Type Maintenance"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "8bdab0bd-c4a5-f0e6-e040-007f01001951",
+    "ChildMenuLabel": "Parish Maintenance"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "8ccc23b0-41fa-3d49-e040-007f01006704",
+    "ChildMenuLabel": "Parser Word Maintenance"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "8adecab2-5269-99b6-e040-007f01004483",
+    "ChildMenuLabel": "Product Maintenance"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "3578038e-e22d-471a-908a-25304e286b5e",
+    "ChildMenuLabel": "Report Execution"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "89a9f9fb-5d10-65f5-e040-007f01002592",
+    "ChildMenuLabel": "Standard Party Name Maintenance "
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "654afbf8-29e3-0a13-e054-0003bab01c82",
+    "ChildMenuLabel": "Licensee SPI Maintenance"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "8ab498b8-9db1-e1e6-e040-007f0100515f",
+    "ChildMenuLabel": "Standard Phrase Maintenance"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "89a9f9fb-5d0a-65f5-e040-007f01002592",
+    "ChildMenuLabel": "Township Maintenance"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "72d330d1-861b-4791-9432-0ea54388f4ef",
+    "ChildMenuLabel": "Vots Printer Maintenance"
+  },
+  {
+    "ParentMenuId": "1d1624c0-ebf8-4058-9137-87d1c208d51c",
+    "ParentMenuLabel": "System Administration",
+    "ChildMenuId": "59996773-0ad0-1e8e-e054-0003bab01c82",
+    "ChildMenuLabel": "PN Document Maintenance"
+  },
+  {
+    "ParentMenuId": "48173da8-7cd5-4b65-8907-b9aa8d6c7450",
+    "ParentMenuLabel": "System Configuration",
+    "ChildMenuId": "58e3136d-b073-2b80-e054-0003bab01c82",
+    "ChildMenuLabel": "New Substitution Maintenance"
+  },
+  {
+    "ParentMenuId": "48173da8-7cd5-4b65-8907-b9aa8d6c7450",
+    "ParentMenuLabel": "System Configuration",
+    "ChildMenuId": "58e3136d-b067-2b80-e054-0003bab01c82",
+    "ChildMenuLabel": "New Message Maintenance"
+  },
+  {
+    "ParentMenuId": "48173da8-7cd5-4b65-8907-b9aa8d6c7450",
+    "ParentMenuLabel": "System Configuration",
+    "ChildMenuId": "58e3136d-b072-2b80-e054-0003bab01c82",
+    "ChildMenuLabel": "New Parameter Maintenance"
+  },
+  {
+    "ParentMenuId": "48173da8-7cd5-4b65-8907-b9aa8d6c7450",
+    "ParentMenuLabel": "System Configuration",
+    "ChildMenuId": "71e462c0-dfe8-4bc5-b764-c563323747ae",
+    "ChildMenuLabel": "Physical Printer Maintenance"
+  },
+  {
+    "ParentMenuId": "48173da8-7cd5-4b65-8907-b9aa8d6c7450",
+    "ParentMenuLabel": "System Configuration",
+    "ChildMenuId": "58e3136d-b072-2b80-e054-0003bab01c82",
+    "ChildMenuLabel": "New Parameter Maintenance"
+  },
+  {
+    "ParentMenuId": "48173da8-7cd5-4b65-8907-b9aa8d6c7450",
+    "ParentMenuLabel": "System Configuration",
+    "ChildMenuId": "58e3136d-b067-2b80-e054-0003bab01c82",
+    "ChildMenuLabel": "New Message Maintenance"
+  },
+  {
+    "ParentMenuId": "48173da8-7cd5-4b65-8907-b9aa8d6c7450",
+    "ParentMenuLabel": "System Configuration",
+    "ChildMenuId": "58e3136d-b072-2b80-e054-0003bab01c82",
+    "ChildMenuLabel": "New Parameter Maintenance"
+  },
+  {
+    "ParentMenuId": "48173da8-7cd5-4b65-8907-b9aa8d6c7450",
+    "ParentMenuLabel": "System Configuration",
+    "ChildMenuId": "58e3136d-b067-2b80-e054-0003bab01c82",
+    "ChildMenuLabel": "New Message Maintenance"
+  },
+  {
+    "ParentMenuId": "48173da8-7cd5-4b65-8907-b9aa8d6c7450",
+    "ParentMenuLabel": "System Configuration",
+    "ChildMenuId": "59996773-0ad0-1e8e-e054-0003bab01c82",
+    "ChildMenuLabel": "PN Document Maintenance"
+  },
+  {
+    "ParentMenuId": "48173da8-7cd5-4b65-8907-b9aa8d6c7450",
+    "ParentMenuLabel": "System Configuration",
+    "ChildMenuId": "59312eec-de36-450e-e054-0003bab01c82",
+    "ChildMenuLabel": "New Printer Maintenance"
+  },
+  {
+    "ParentMenuId": "48173da8-7cd5-4b65-8907-b9aa8d6c7450",
+    "ParentMenuLabel": "System Configuration",
+    "ChildMenuId": "70c86b17-a75e-1da5-e054-0003bab01c82",
+    "ChildMenuLabel": "Lassi Import Rejection Report"
+  },
+  {
+    "ParentMenuId": "48173da8-7cd5-4b65-8907-b9aa8d6c7450",
+    "ParentMenuLabel": "System Configuration",
+    "ChildMenuId": "58f91e71-7916-0023-e054-0003bab01c82",
+    "ChildMenuLabel": ""
+  },
+  {
+    "ParentMenuId": "48173da8-7cd5-4b65-8907-b9aa8d6c7450",
+    "ParentMenuLabel": "System Configuration",
+    "ChildMenuId": "53b3725e-917f-4e7c-e054-0003bab01c82",
+    "ChildMenuLabel": "New Code Type\\Code Maintenance"
+  },
+  {
+    "ParentMenuId": "48173da8-7cd5-4b65-8907-b9aa8d6c7450",
+    "ParentMenuLabel": "System Configuration",
+    "ChildMenuId": "58f9487e-dd79-0077-e054-0003bab01c82",
+    "ChildMenuLabel": ""
+  },
+  {
+    "ParentMenuId": "48173da8-7cd5-4b65-8907-b9aa8d6c7450",
+    "ParentMenuLabel": "System Configuration",
+    "ChildMenuId": "9dd27b4c-1d3c-4b6c-83cb-98df64a68e32",
+    "ChildMenuLabel": "Code Type\\Code Maintenance"
+  },
+  {
+    "ParentMenuId": "48173da8-7cd5-4b65-8907-b9aa8d6c7450",
+    "ParentMenuLabel": "System Configuration",
+    "ChildMenuId": "654afbf8-29e3-0a13-e054-0003bab01c82",
+    "ChildMenuLabel": "Licensee SPI Maintenance"
+  },
+  {
+    "ParentMenuId": "33db1696-6ab9-4406-8f7f-f008c87a08ac",
+    "ParentMenuLabel": "UAT TEST MENU",
+    "ChildMenuId": "2fdc8d7c-7af8-13f8-e054-0003bab01c82",
+    "ChildMenuLabel": "Allocate Allotment Numbers"
+  },
+  {
+    "ParentMenuId": "33db1696-6ab9-4406-8f7f-f008c87a08ac",
+    "ParentMenuLabel": "UAT TEST MENU",
+    "ChildMenuId": "bf149b30-ff1f-4241-839f-14f5af18783b",
+    "ChildMenuLabel": "Allocate Numbers"
+  },
+  {
+    "ParentMenuId": "bf2cd9fb-840a-6a81-e044-002128c31ddb",
+    "ParentMenuLabel": "",
+    "ChildMenuId": "fd4d85f0-d264-4d9d-a408-dc94ebd4444d",
+    "ChildMenuLabel": "Examination Report Maintenance"
+  }
+]
