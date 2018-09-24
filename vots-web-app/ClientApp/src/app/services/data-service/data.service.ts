@@ -22,7 +22,8 @@ export class DataService {
    }
 
   GetVotsMenu(): Observable<VotsMenuItem[]> {
-    return this.httpClient.get<VotsMenuItem[]>(window.location.protocol+'//'+window.location.host + '/assets/json/menudata.json', this.httpOptions);
+    //return this.httpClient.get<VotsMenuItem[]>(window.location.protocol + '//' + window.location.host + '/assets/json/menudata.json', this.httpOptions);
+    return this.httpClient.get<VotsMenuItem[]>('assets/json/menudata.json', this.httpOptions);
   }
 
 
