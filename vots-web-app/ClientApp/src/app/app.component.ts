@@ -37,22 +37,13 @@ export class AppComponent implements OnInit, AfterViewInit {
   }
   title = 'app';
   /*Fix ng build --prod error*/
-  public searchBar: boolean; public opened: boolean;
+  public searchBar = false;
+  public notificationBar =true;
+  public opened: boolean;
   /*End Fix ng build --prod error*/
 
   @ViewChild('sidenav') public sidenav: MatSidenav;
-  //@ViewChild('sidenavtogglebutton') public sidenavtogglebutton: ElementRef;
-  //@ViewChild('matcheckbox') public cbox: MatCheckbox;
-  //@ViewChild('searchBarPanelOpener') public searchBarPanelOpener: MatCheckbox;
   public events: string[] = [''];
-  //@ViewChild('saveanddelete') saveanddelete: VotsToolOptionComponent;
-  //@ViewChild('newandexecute') newandexecute: VotsToolOptionComponent;
-  //saveanddeletecaption = 'Save and Delete';
-  //newandexecutecaption = 'New and Execute';
-  //public saveanddeleteTBO: ToolBarOptions = new ToolBarOptions();
-  //public newandexecuteTBO: ToolBarOptions = new ToolBarOptions();
-  
-  //VotsToolOptionComponent;
   shouldRun = true;
 
   public ngOnInit() {
@@ -67,8 +58,6 @@ export class AppComponent implements OnInit, AfterViewInit {
 
   ngAfterViewInit() {
     console.log('inside ngAfterViewInit...');
-    //this.saveanddelete.SetCurrentToolBar();
-    //this.newandexecute.SetCurrentToolBar();
     this.cd.detectChanges();        // To avoid the change detection errors
   }
 

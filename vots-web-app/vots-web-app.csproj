@@ -28,6 +28,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Remove="ClientApp\pubgithub.bat" />
     <None Remove="ClientApp\src\app\models\dtos.ts" />
     <None Remove="ClientApp\src\app\components\vots-tool-option\BaseComponent.ts" />
     <None Remove="ClientApp\src\app\models\MenuModels.ts" />
@@ -38,6 +39,12 @@
     <Content Include="ClientApp\src\assets\scripts\global.js">
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
     </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="ClientApp\pubgithub.bat">
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
   </ItemGroup>
 
   <ItemGroup>
