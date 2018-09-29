@@ -20,35 +20,43 @@
   </div>
   <!--Main Container-->
 
-  <div id="sidNavContainer" class="row row-eq-height" style="padding-top:1px">
-    <mat-sidenav-container class="sidenavContainer">
-          <mat-sidenav class="sidenav"
-                     #sidenav mode="side"  >
-            <app-vots-sidemenu></app-vots-sidemenu> 
-          </mat-sidenav>
-        <mat-sidenav-content class="sidnavcontent">
-          <vots-toolbar id="toolBar" [ToolBarOptions]="sideNavService.ToolBarOptions"></vots-toolbar>
-          <div id="mainContentPanel" class="mainContainerClass">
-            <split direction="horizontal" useTransition="true" gutterSize="3" gutterColor="darkgrey">
-              <split-area size="70">
-                <split direction="vertical" useTransition="true" gutterSize="3" gutterColor="darkgrey">
-                  <split-area size="70">
+  <div id="sidNavContainer" class="row row-eq-height" style="padding-top:1px;position:relative">
+    <button id="btnSearchPanel" (click)="searchBar = !searchBar"><span>Lodgement Search</span></button>
+    <mat-sidenav-container class="sidenavContainer" style="position:relative">
+      <mat-sidenav class="sidenav"
+                   #sidenav mode="side">
+        <app-vots-sidemenu></app-vots-sidemenu>
+      </mat-sidenav>
+      <mat-sidenav-content class="sidnavcontent" style="position:relative">
+        <vots-toolbar id="toolBar" [ToolBarOptions]="sideNavService.ToolBarOptions"></vots-toolbar>
+        <div id="mainContentPanel" class="mainContainerClass" style="position:relative">
+          <split direction="horizontal" useTransition="true" gutterSize="3" gutterColor="darkgrey" style="position:relative">
+            <split-area size="70"  style="position:relative">
+              <split direction="vertical" useTransition="true" gutterSize="3" gutterColor="darkgrey"  style="position:relative">
+                <split-area size="70" style="position:relative">
+                  <div style="width:100%;height:100%;overflow:auto">
                     <app-tabstrip-container></app-tabstrip-container>
-                  </split-area>
-                  <split-area size="30">
+                  </div>
+                  <button id="btnNotificationPanel" (click)="notificationBar = !notificationBar"><span>Notifications</span></button>
+
+                  <!--<div style="position:relative">
+                  </div>-->
+                </split-area>
+                <split-area size="30" style="position:relative" [visible]="notificationBar">
+                  <div id="NotificationDiv">
                     <p>Notification Area</p>
-                  </split-area>
-                </split>
-              </split-area>
-              <split-area size="30" [visible]="searchBar">
-                <button id="btnSearchPanel">Lodgement Search</button>
-                <p> #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area</p>
-                <p>#Search Area</p>
-                <p>#Search Area</p>
-                <p>#Search Area</p>
-              </split-area>
-            </split>
-          </div>
+                  </div>
+                </split-area>
+              </split>
+            </split-area>
+            <split-area size="30" [visible]="searchBar">
+              <p> #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area #Search Area</p>
+              <p>#Search Area</p>
+              <p>#Search Area</p>
+              <p>#Search Area</p>
+            </split-area>
+          </split>
+        </div>
       </mat-sidenav-content>
     </mat-sidenav-container>
   </div>
